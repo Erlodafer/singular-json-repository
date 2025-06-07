@@ -134,6 +134,8 @@
         "id": "SNS",
         "title": "San Salvador BC",
         "icon": "https://iili.io/F32KdXt.png"
+        "color1f": "#0073d2",
+        "color2f": "#ffffff"
     },
     {
         "id": "TEO",
