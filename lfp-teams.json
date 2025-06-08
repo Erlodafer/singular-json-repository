@@ -1,6 +1,156 @@
 [
-    {
-        "id": "https://iili.io/F3dZdpj.png",
-        "title": "Liga de Fútbol Playa"
-    }
+	{
+		"id": "1",
+		"title": "Liga de Fútbol Playa",
+		"icon": "https://iili.io/F3dZdpj.png",
+		"tricode": "LFP"
+	},
+	{
+		"id": "LFPM",
+		"title": "LFP Masculino",
+		"icon": "https://iili.io/F3dZJkb.png"
+	},
+	{
+		"id": "LFPF",
+		"title": "LFP Femenino",
+		"icon": "https://iili.io/F3dZHYu.png"
+	},
+	{
+		"id": "AZP",
+		"title": "Azul Pacífico FC",
+		"icon": "https://iili.io/F32KK1s.png"
+	},
+	{
+		"id": "ILO",
+		"title": "Apulo Ilopango FP",
+		"icon": "https://iili.io/F3dZ3Tx.png"
+	},
+	{
+		"id": "AFC",
+		"title": "Arcos FC",
+		"icon": "https://iili.io/F3dZzva.png"
+	},
+	{
+		"id": "STG",
+		"title": "Bgarra de Santiago FP",
+		"icon": "https://iili.io/F3dZxYg.png"
+	},
+	{
+		"id": "BAC",
+		"title": "Barra Ciega BS",
+		"icon": "https://iili.io/F3dZIyJ.png"
+	},
+	{
+		"id": "CFP",
+		"title": "Chiquirin FP",
+		"icon": "https://iili.io/F3dZuTv.png"
+	},
+	{
+		"id": "CHI",
+		"title": "Chirilagua FP",
+		"icon": "https://iili.io/F3dZAjR.png"
+	},
+	{
+		"id": "COJ",
+		"title": "Cojute Beach",
+		"icon": "https://iili.io/F3dZl3X.png"
+	},
+	{
+		"id": "CDM",
+		"title": "Corral de Mulas",
+		"icon": "https://iili.io/F3dZ0an.png"
+	},
+	{
+		"id": "CDS",
+		"title": "Costa del Sol BS",
+		"icon": "https://iili.io/F3dZ1vs.png"
+	},
+	{
+		"id": "EFC",
+		"title": "El Espino FC",
+		"icon": "https://iili.io/F3dZVj4.png"
+	},
+	{
+		"id": "GAR",
+		"title": "Garita Palmera BS",
+		"icon": "https://iili.io/F3dZWZl.png"
+	},
+	{
+		"id": "IDM",
+		"title": "Isla de Méndez",
+		"icon": "https://iili.io/F3dZhn2.png"
+	},
+	{
+		"id": "IRV",
+		"title": "Isla Rancho Viejo",
+		"icon": "https://iili.io/F3dZgZQ.png",
+		"color1M": "",
+		"color2M": "",
+		"Color1F": "#5e009a",
+		"Color2F": "#fff800"
+	},
+	{
+		"id": "ISS",
+		"title": "Isla San Sebastián",
+		"icon": "https://iili.io/F3dZjGS.png"
+	},
+	{
+		"id": "JOY",
+		"title": "Joya Grande BS",
+		"icon": "https://iili.io/F3dZw67.png",
+		"code": "Joya Grande Masculino"
+	},
+	{
+		"id": "JOY",
+		"title": "Joya Grande BS",
+		"icon": "https://iili.io/F32KFBn.png",
+		"code": "Joya Grande Femenino"
+	},
+	{
+		"id": "CBS",
+		"title": "La Canoa BS",
+		"icon": "https://iili.io/F3dZeae.png"
+	},
+	{
+		"id": "HBS",
+		"title": "La Herradura BS",
+		"icon": "https://iili.io/F3dZvyb.png"
+	},
+	{
+		"id": "PIR",
+		"title": "La Pirraya FC",
+		"icon": "https://iili.io/F32K2LX.png"
+	},
+	{
+		"id": "PET",
+		"title": "Puerto El Triunfo",
+		"icon": "https://iili.io/F3dZk8u.png"
+	},
+	{
+		"id": "SNM",
+		"title": "San Marcelino FC",
+		"icon": "https://iili.io/F3dZUwx.png"
+	},
+	{
+		"id": "SNS",
+		"title": "San Salvador BC",
+		"icon": "https://iili.io/F32KdXt.png",
+		"color1f": "#0073d2",
+		"color2f": "#ffffff"
+	},
+	{
+		"id": "TEO",
+		"title": "Teotepeque",
+		"icon": "https://iili.io/F3dZ6MB.png"
+	},
+	{
+		"id": "UES",
+		"title": "BS UES",
+		"icon": "https://iili.io/F3dZP6P.png"
+	},
+	{
+		"id": "WSV",
+		"title": "Warriors SV BS",
+		"icon": "https://iili.io/F3dZsF1.png"
+	}
 ]
