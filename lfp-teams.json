@@ -108,14 +108,14 @@
 		"tricode": "ISS"
 	},
 	{
-		"id": "Joya Grande BS Masculino",
-		"title": "Joya Grande",
+		"id": "Joya Grande BS",
+		"title": "Joya Grande Masculino",
 		"icon": "https://iili.io/F3dZw67.png",
 		"tricode": "JOY"
 	},
 	{
-		"id": "Joya Grande BS Femenino",
-		"title": "Joya Grande",
+		"id": "Joya Grande BS",
+		"title": "Joya Grande Femenino",
 		"icon": "https://iili.io/F32KFBn.png",
 		"tricode": "JGF"
 	},
