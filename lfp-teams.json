@@ -1,156 +1,176 @@
 [
 	{
-		"id": "1",
+		"id": "Liga de Fútbol Playa",
 		"title": "Liga de Fútbol Playa",
 		"icon": "https://iili.io/F3dZdpj.png",
 		"tricode": "LFP"
 	},
 	{
-		"id": "LFPM",
+		"id": "LFP Masculino",
 		"title": "LFP Masculino",
-		"icon": "https://iili.io/F3dZJkb.png"
+		"icon": "https://iili.io/F3dZJkb.png",
+		"tricode": "LFM"
 	},
 	{
-		"id": "LFPF",
+		"id": "LFP Femenino",
 		"title": "LFP Femenino",
-		"icon": "https://iili.io/F3dZHYu.png"
+		"icon": "https://iili.io/F3dZHYu.png",
+		"tricode": "LFF"
 	},
 	{
-		"id": "AZP",
-		"title": "Azul Pacífico FC",
-		"icon": "https://iili.io/F32KK1s.png"
+		"id": "Azul Pacífico FC",
+		"title": "Azul Pacífico",
+		"icon": "https://iili.io/F32KK1s.png",
+		"tricode": "AZP"
 	},
 	{
-		"id": "ILO",
-		"title": "Apulo Ilopango FP",
-		"icon": "https://iili.io/F3dZ3Tx.png"
+		"id": "Apulo Ilopango FP",
+		"title": "Apulo Ilopango",
+		"icon": "https://iili.io/F3dZ3Tx.png",
+		"tricode": "ILO"
 	},
 	{
-		"id": "AFC",
-		"title": "Arcos FC",
-		"icon": "https://iili.io/F3dZzva.png"
+		"id": "Arcos FC",
+		"title": "Arcos",
+		"icon": "https://iili.io/F3dZzva.png",
+		"tricode": "AFC"
 	},
 	{
-		"id": "STG",
-		"title": "Bgarra de Santiago FP",
-		"icon": "https://iili.io/F3dZxYg.png"
+		"id": "Bgarra de Santiago FP",
+		"title": "Bgarra de Santiago",
+		"icon": "https://iili.io/F3dZxYg.png",
+		"tricode": "STG"
 	},
 	{
-		"id": "BAC",
-		"title": "Barra Ciega BS",
-		"icon": "https://iili.io/F3dZIyJ.png"
+		"id": "Barra Ciega BS",
+		"title": "Barra Ciega",
+		"icon": "https://iili.io/F3dZIyJ.png",
+		"tricode": "BAC"
 	},
 	{
-		"id": "CFP",
-		"title": "Chiquirin FP",
-		"icon": "https://iili.io/F3dZuTv.png"
+		"id": "Chiquirin FP",
+		"title": "Chiquirin",
+		"icon": "https://iili.io/F3dZuTv.png",
+		"tricode": "CFP"
 	},
 	{
-		"id": "CHI",
-		"title": "Chirilagua FP",
-		"icon": "https://iili.io/F3dZAjR.png"
+		"id": "Chirilagua FP",
+		"title": "Chirilagua",
+		"icon": "https://iili.io/F3dZAjR.png",
+		"tricode": "CHI"
 	},
 	{
-		"id": "COJ",
+		"id": "Cojute Beach",
 		"title": "Cojute Beach",
-		"icon": "https://iili.io/F3dZl3X.png"
+		"icon": "https://iili.io/F3dZl3X.png",
+		"tricode": "COJ"
 	},
 	{
-		"id": "CDM",
+		"id": "Corral de Mulas",
 		"title": "Corral de Mulas",
-		"icon": "https://iili.io/F3dZ0an.png"
+		"icon": "https://iili.io/F3dZ0an.png",
+		"tricode": "CDM"
 	},
 	{
-		"id": "CDS",
-		"title": "Costa del Sol BS",
-		"icon": "https://iili.io/F3dZ1vs.png"
+		"id": "Costa del Sol BS",
+		"title": "Costa del Sol",
+		"icon": "https://iili.io/F3dZ1vs.png",
+		"tricode": "CDS"
 	},
 	{
-		"id": "EFC",
-		"title": "El Espino FC",
-		"icon": "https://iili.io/F3dZVj4.png"
+		"id": "El Espino FC",
+		"title": "El Espino",
+		"icon": "https://iili.io/F3dZVj4.png",
+		"tricode": "EFC"
 	},
 	{
-		"id": "GAR",
-		"title": "Garita Palmera BS",
-		"icon": "https://iili.io/F3dZWZl.png"
+		"id": "Garita Palmera BS",
+		"title": "Garita Palmera",
+		"icon": "https://iili.io/F3dZWZl.png",
+		"tricode": "GAR"
 	},
 	{
-		"id": "IDM",
+		"id": "Isla de Méndez",
 		"title": "Isla de Méndez",
-		"icon": "https://iili.io/F3dZhn2.png"
+		"icon": "https://iili.io/F3dZhn2.png",
+		"tricode": "IDM"
 	},
 	{
-		"id": "IRV",
+		"id": "Isla Rancho Viejo",
 		"title": "Isla Rancho Viejo",
 		"icon": "https://iili.io/F3dZgZQ.png",
-		"color1M": "",
-		"color2M": "",
-		"Color1F": "#5e009a",
-		"Color2F": "#fff800"
+		"tricode": "IRV"
 	},
 	{
-		"id": "ISS",
+		"id": "Isla San Sebastián",
 		"title": "Isla San Sebastián",
-		"icon": "https://iili.io/F3dZjGS.png"
+		"icon": "https://iili.io/F3dZjGS.png",
+		"tricode": "ISS"
 	},
 	{
-		"id": "JOY",
-		"title": "Joya Grande BS",
+		"id": "Joya Grande BS Masculino",
+		"title": "Joya Grande",
 		"icon": "https://iili.io/F3dZw67.png",
-		"code": "Joya Grande Masculino"
+		"tricode": "JOY"
 	},
 	{
-		"id": "JOY",
-		"title": "Joya Grande BS",
+		"id": "Joya Grande BS Femenino",
+		"title": "Joya Grande",
 		"icon": "https://iili.io/F32KFBn.png",
-		"code": "Joya Grande Femenino"
+		"tricode": "JGF"
 	},
 	{
-		"id": "CBS",
-		"title": "La Canoa BS",
-		"icon": "https://iili.io/F3dZeae.png"
+		"id": "La Canoa BS",
+		"title": "La Canoa",
+		"icon": "https://iili.io/F3dZeae.png",
+		"tricode": "CBS"
 	},
 	{
-		"id": "HBS",
-		"title": "La Herradura BS",
-		"icon": "https://iili.io/F3dZvyb.png"
+		"id": "La Herradura BS",
+		"title": "La Herradura",
+		"icon": "https://iili.io/F3dZvyb.png",
+		"tricode": "HBS"
 	},
 	{
-		"id": "PIR",
-		"title": "La Pirraya FC",
-		"icon": "https://iili.io/F32K2LX.png"
+		"id": "La Pirraya FC",
+		"title": "La Pirraya",
+		"icon": "https://iili.io/F32K2LX.png",
+		"tricode": "PIR"
 	},
 	{
-		"id": "PET",
+		"id": "Puerto El Triunfo",
 		"title": "Puerto El Triunfo",
-		"icon": "https://iili.io/F3dZk8u.png"
+		"icon": "https://iili.io/F3dZk8u.png",
+		"tricode": "PET"
 	},
 	{
-		"id": "SNM",
-		"title": "San Marcelino FC",
-		"icon": "https://iili.io/F3dZUwx.png"
+		"id": "San Marcelino FC",
+		"title": "San Marcelino",
+		"icon": "https://iili.io/F3dZUwx.png",
+		"tricode": "SNM"
 	},
 	{
-		"id": "SNS",
-		"title": "San Salvador BC",
+		"id": "San Salvador BC",
+		"title": "San Salvador",
 		"icon": "https://iili.io/F32KdXt.png",
-		"color1f": "#0073d2",
-		"color2f": "#ffffff"
+		"tricode": "SNS"
 	},
 	{
-		"id": "TEO",
+		"id": "Teotepeque",
 		"title": "Teotepeque",
-		"icon": "https://iili.io/F3dZ6MB.png"
+		"icon": "https://iili.io/F3dZ6MB.png",
+		"tricode": "TEO"
 	},
 	{
-		"id": "UES",
-		"title": "BS UES",
-		"icon": "https://iili.io/F3dZP6P.png"
+		"id": "BS UES",
+		"title": "UES",
+		"icon": "https://iili.io/F3dZP6P.png",
+		"tricode": "UES"
 	},
 	{
-		"id": "WSV",
-		"title": "Warriors SV BS",
-		"icon": "https://iili.io/F3dZsF1.png"
+		"id": "Warriors SV BS",
+		"title": "Warriors SV",
+		"icon": "https://iili.io/F3dZsF1.png",
+		"tricode": "WSV"
 	}
 ]
