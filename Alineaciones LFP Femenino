@@ -1,0 +1,70 @@
+[
+	{
+		"id": "AZUL!C10:D20",
+		"title": "Azul Pacífico"
+	},
+	{
+		"id": "B CIEGA  !C10:D25",
+		"title": "Barra Ciega"
+	},
+	{
+		"id": "B STGO!C10:D25",
+		"title": "Barra de Santiago"
+	},
+	{
+		"id": "UES!C10:D25",
+		"title": "UES"
+	},
+	{
+		"id": "CHIQUI!C10:D25",
+		"title": "Chiquirin"
+	},
+	{
+		"id": "CORRAL!C10:D25",
+		"title": "Corral de Mulas"
+	},
+	{
+		"id": "COSTA!C10:D25",
+		"title": "Costa del Sol"
+	},
+	{
+		"id": "GARITA!C10:D25",
+		"title": "Garita Palmera"
+	},
+	{
+		"id": "I MENDEZ!C10:D25",
+		"title": "Isla de Méndez"
+	},
+	{
+		"id": "RANCHO!C10:D25",
+		"title": "Rancho Viejo"
+	},
+	{
+		"id": "JOYA!C10:D25",
+		"title": "Joya Grande"
+	},
+	{
+		"id": "CANOA!C10:D25",
+		"title": "La Canoa"
+	},
+	{
+		"id": "PIRRAYA!C10:D25",
+		"title": "La Pirraya"
+	},
+	{
+		"id": "EL TRIUNFO!C10:D25",
+		"title": "Puerto El Triunfo"
+	},
+	{
+		"id": "SAN MARCELINO!C10:D25",
+		"title": "San Marcelino"
+	},
+	{
+		"id": "SAN SAN SALVADOR!C10:D25",
+		"title": "San Salvador"
+	},
+	{
+		"id": "WARRIOR!C10:D25",
+		"title": "Warriors"
+	}
+]
