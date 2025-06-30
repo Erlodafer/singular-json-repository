@@ -12,20 +12,12 @@
 		"title": "Barra de Santiago"
 	},
 	{
-		"id": "UES!C10:D25",
-		"title": "UES"
-	},
-	{
 		"id": "CHIQUI!C10:D25",
 		"title": "Chiquirin"
 	},
 	{
 		"id": "CORRAL!C10:D25",
 		"title": "Corral de Mulas"
-	},
-	{
-		"id": "JOYA!C10:D25",
-		"title": "Joya Grande"
 	},
 	{
 		"id": "COSTA!C10:D25",
@@ -41,7 +33,12 @@
 	},
 	{
 		"id": "RANCHO!C10:D25",
-		"title": "Rancho Viejo"
+		"title": "Isla Rancho Viejo"
+	},
+
+	{
+		"id": "JOYA!C10:D25",
+		"title": "Joya Grande"
 	},
 	{
 		"id": "CANOA!C10:D25",
@@ -62,6 +59,10 @@
 	{
 		"id": "SAN SAN SALVADOR!C10:D25",
 		"title": "San Salvador"
+	},
+	{
+		"id": "UES!C10:D25",
+		"title": "UES"
 	},
 	{
 		"id": "WARRIOR!C10:D25",
