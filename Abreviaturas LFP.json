@@ -1,0 +1,118 @@
+[
+	{
+		"id": "LFP",
+		"title": "Liga de Fútbol Playa"
+	},
+	{
+		"id": "LFPM",
+		"title": "LFP Masculino"
+	},
+	{
+		"id": "LFPF",
+		"title": "LFP Femenino"
+	},
+	{
+		"id": "AZP",
+		"title": "Azul Pacífico FC"
+	},
+	{
+		"id": "ILO",
+		"title": "Apulo Ilopango FP"
+	},
+	{
+		"id": "AFC",
+		"title": "Arcos FC"
+	},
+	{
+		"id": "STG",
+		"title": "Barra de Santiago FP"
+	},
+	{
+		"id": "BAC",
+		"title": "Barra Ciega BS"
+	},
+	{
+		"id": "CFP",
+		"title": "Chiquirin FP"
+	},
+	{
+		"id": "CHI",
+		"title": "Chirilagua FP"
+	},
+	{
+		"id": "COJ",
+		"title": "Cojute Beach"
+	},
+	{
+		"id": "CDM",
+		"title": "Corral de Mulas"
+	},
+	{
+		"id": "CDS",
+		"title": "Costa del Sol BS"
+	},
+	{
+		"id": "EFC",
+		"title": "El Espino FC"
+	},
+	{
+		"id": "GAR",
+		"title": "Garita Palmera BS"
+	},
+	{
+		"id": "IDM",
+		"title": "Isla de Méndez"
+	},
+	{
+		"id": "IRV",
+		"title": "Isla Rancho Viejo"
+	},
+	{
+		"id": "ISS",
+		"title": "Isla San Sebastián"
+	},
+	{
+		"id": "JOY",
+		"title": "Joya Grande BS"
+	},
+	{
+		"id": "JOY",
+		"title": "Joya Grande BS"
+	},
+	{
+		"id": "CBS",
+		"title": "La Canoa BS"
+	},
+	{
+		"id": "HBS",
+		"title": "La Herradura BS"
+	},
+	{
+		"id": "PIR",
+		"title": "La Pirraya FC"
+	},
+	{
+		"id": "PET",
+		"title": "Puerto El Triunfo"
+	},
+	{
+		"id": "SNM",
+		"title": "San Marcelino FC"
+	},
+	{
+		"id": "SNS",
+		"title": "San Salvador BC"
+	},
+	{
+		"id": "TEO",
+		"title": "Teotepeque"
+	},
+	{
+		"id": "UES",
+		"title": "BS UES"
+	},
+	{
+		"id": "WSV",
+		"title": "Warriors SV BS"
+	}
+]
