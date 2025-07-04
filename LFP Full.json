@@ -1,0 +1,282 @@
+[
+    {
+      "ID": "LFP",
+      "TITLE": "Fútbol Playa",
+      "NOMBRE": "Liga de Fútbol Playa",
+      "ICON": "https://iili.io/F3dZdpj.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "LFPM",
+      "TITLE": "Fútbol Playa M",
+      "NOMBRE": "Liga de Fútbol Playa Masculino",
+      "ICON": "https://iili.io/F3dZJkb.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "LFPF",
+      "TITLE": "Fútbol Playa F",
+      "NOMBRE": "Liga de Fútbol Playa Femenino",
+      "ICON": "https://iili.io/F3dZHYu.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "AZP",
+      "TITLE": "Azul Pacífico",
+      "NOMBRE": "Azul Pacífico FC",
+      "ICON": "https://iili.io/F32KK1s.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": "AZUL!C10:D25",
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": "AZUL!A1:B35"
+    },
+    {
+      "ID": "ILO",
+      "TITLE": "Apulo Ilopango",
+      "NOMBRE": "Apulo Ilopango FP",
+      "ICON": "https://iili.io/F3dZ3Tx.png",
+      "ALINEACIÓN MASCULINO": "APULO!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "APULO!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "AFC",
+      "TITLE": "Arcos",
+      "NOMBRE": "Arcos FC",
+      "ICON": "https://iili.io/F3dZzva.png",
+      "ALINEACIÓN MASCULINO": "ARCOS!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "ARCOS!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "STG",
+      "TITLE": "Barra de Santiago",
+      "NOMBRE": "Barra de Santiago FP",
+      "ICON": "https://iili.io/F3dZxYg.png",
+      "ALINEACIÓN MASCULINO": "B STGO!C10:D35",
+      "ALINEACIÓN FEMENINO": "B STGO!C10:D25",
+      "DATA MASCULINO": "B STGO!A1:B35",
+      "DATA FEMENINO": "B STGO!A1:B35"
+    },
+    {
+      "ID": "BAC",
+      "TITLE": "Barra Ciega",
+      "NOMBRE": "Barra Ciega BS",
+      "ICON": "https://iili.io/F3dZIyJ.png",
+      "ALINEACIÓN MASCULINO": "B. CIEGA!C10:D35",
+      "ALINEACIÓN FEMENINO": "B CIEGA!C10:D25",
+      "DATA MASCULINO": "B CIEGA!A1:B35",
+      "DATA FEMENINO": "B CIEGA!A1:B35"
+    },
+    {
+      "ID": "CFP",
+      "TITLE": "Chiquirin",
+      "NOMBRE": "Chiquirin FP",
+      "ICON": "https://iili.io/F3dZuTv.png",
+      "ALINEACIÓN MASCULINO": "CHIQUIRIN!C10:D35",
+      "ALINEACIÓN FEMENINO": "CHIQUI!C10:D25",
+      "DATA MASCULINO": "CHIQUIRIN!A1:B35",
+      "DATA FEMENINO": "CHIQUI!A1:B35"
+    },
+    {
+      "ID": "CHI",
+      "TITLE": "Chirilagua",
+      "NOMBRE": "Chirilagua FP",
+      "ICON": "https://iili.io/F3dZAjR.png",
+      "ALINEACIÓN MASCULINO": "CHIRILAGUA!C10:D35",
+      "ALINEACIÓN FEMENINO": "CHIRI!C10:D25",
+      "DATA MASCULINO": "CHIRILAGUA!A1:B35",
+      "DATA FEMENINO": "CHIRI!A1:B35"
+    },
+    {
+      "ID": "COJ",
+      "TITLE": "Cojute",
+      "NOMBRE": "Cojute Beach",
+      "ICON": "https://iili.io/F3dZl3X.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "CDM",
+      "TITLE": "Corral de Mulas",
+      "NOMBRE": "Corral de Mulas",
+      "ICON": "https://iili.io/F3dZ0an.png",
+      "ALINEACIÓN MASCULINO": "CORRAL DE MULAS!C10:D35",
+      "ALINEACIÓN FEMENINO": "CORRAL!C10:D25",
+      "DATA MASCULINO": "CORRAL DE MULAS!A1:B35",
+      "DATA FEMENINO": "CORRAL!A1:B35"
+    },
+    {
+      "ID": "CDS",
+      "TITLE": "Costa del Sol",
+      "NOMBRE": "Costa del Sol BS",
+      "ICON": "https://iili.io/F3dZ1vs.png",
+      "ALINEACIÓN MASCULINO": "COSTA SOL!C10:D35",
+      "ALINEACIÓN FEMENINO": "COSTA!C10:D25",
+      "DATA MASCULINO": "COSTA DEL SOL!A1:B35",
+      "DATA FEMENINO": "COSTA!A1:B35"
+    },
+    {
+      "ID": "EFC",
+      "TITLE": "El Espino",
+      "NOMBRE": "El Espino FC",
+      "ICON": "https://iili.io/F3dZVj4.png",
+      "ALINEACIÓN MASCULINO": "EL ESPINO!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "EL ESPINO!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "GAR",
+      "TITLE": "Garita Palmera",
+      "NOMBRE": "Garita Palmera BS",
+      "ICON": "https://iili.io/F3dZWZl.png",
+      "ALINEACIÓN MASCULINO": "GARITA!C10:D35",
+      "ALINEACIÓN FEMENINO": "GARITA!C10:D25",
+      "DATA MASCULINO": "GARITA!A1:B35",
+      "DATA FEMENINO": "GARITA!A1:B35"
+    },
+    {
+      "ID": "IDM",
+      "TITLE": "Isla de Méndez",
+      "NOMBRE": "Isla de Méndez",
+      "ICON": "https://iili.io/F3dZhn2.png",
+      "ALINEACIÓN MASCULINO": "I MENDEZ!C10:D35",
+      "ALINEACIÓN FEMENINO": "I MENDEZ!C10:D25",
+      "DATA MASCULINO": "I MENDEZ!A1:B35",
+      "DATA FEMENINO": "I MENDEZ!A1:B35"
+    },
+    {
+      "ID": "IRV",
+      "TITLE": "Rancho Viejo",
+      "NOMBRE": "Isla Rancho Viejo",
+      "ICON": "https://iili.io/F3dZgZQ.png",
+      "ALINEACIÓN MASCULINO": "RANCHO VIEJO!C10:D35",
+      "ALINEACIÓN FEMENINO": "RANCHO!C10:D25",
+      "DATA MASCULINO": "RANCHO VIEJO!A1:B35",
+      "DATA FEMENINO": "RANCHO!A1:B35"
+    },
+    {
+      "ID": "ISS",
+      "TITLE": "San Sebastián",
+      "NOMBRE": "Isla San Sebastián",
+      "ICON": "https://iili.io/F3dZjGS.png",
+      "ALINEACIÓN MASCULINO": "SAN SEBASTIAN!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "SAN SEBASTIAN!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "JOY",
+      "TITLE": "Joya Grande",
+      "NOMBRE": "Joya Grande BS",
+      "ICON": "https://iili.io/F3dZw67.png",
+      "ALINEACIÓN MASCULINO": "JOYA GRANDE!C10:D35",
+      "ALINEACIÓN FEMENINO": "JOYA!C10:D25",
+      "DATA MASCULINO": "JOYA GRANDE!A1:B35",
+      "DATA FEMENINO": "JOYA!A1:B35"
+    },
+    {
+      "ID": "CBS",
+      "TITLE": "La Canoa",
+      "NOMBRE": "La Canoa BS",
+      "ICON": "https://iili.io/F3dZeae.png",
+      "ALINEACIÓN MASCULINO": "LA CANOA!C10:D35",
+      "ALINEACIÓN FEMENINO": "CANOA!C10:D25",
+      "DATA MASCULINO": "LA CANOA!A1:B35",
+      "DATA FEMENINO": "CANOA!A1:B35"
+    },
+    {
+      "ID": "HBS",
+      "TITLE": "La Herradura",
+      "NOMBRE": "La Herradura BS",
+      "ICON": "https://iili.io/F3dZvyb.png",
+      "ALINEACIÓN MASCULINO": "LA HERRADURA!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "LA HERRADURA!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "PIR",
+      "TITLE": "La Pirraya",
+      "NOMBRE": "La Pirraya FC",
+      "ICON": "https://iili.io/F32K2LX.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": "PIRRAYA!C10:D25",
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": "PIRRAYA!A1:B35"
+    },
+    {
+      "ID": "PET",
+      "TITLE": "Puerto El Triunfo",
+      "NOMBRE": "Puerto El Triunfo",
+      "ICON": "https://iili.io/F3dZk8u.png",
+      "ALINEACIÓN MASCULINO": "P. EL TRIUNFO!C10:D35",
+      "ALINEACIÓN FEMENINO": "EL TRIUNFO!C10:D25",
+      "DATA MASCULINO": "P. EL TRIUNFO!A1:B35",
+      "DATA FEMENINO": "EL TRIUNFO!A1:B35"
+    },
+    {
+      "ID": "SNM",
+      "TITLE": "San Marcelino",
+      "NOMBRE": "San Marcelino FC",
+      "ICON": "https://iili.io/F3dZUwx.png",
+      "ALINEACIÓN MASCULINO": "SAN MARCELINO!C10:D35",
+      "ALINEACIÓN FEMENINO": "SAN MARCELINO!C10:D25",
+      "DATA MASCULINO": "SAN MARCELINO!A1:B35",
+      "DATA FEMENINO": "SAN MARCELINO!A1:B35"
+    },
+    {
+      "ID": "SNS",
+      "TITLE": "San Salvador",
+      "NOMBRE": "San Salvador BC",
+      "ICON": "https://iili.io/F32KdXt.png",
+      "ALINEACIÓN MASCULINO": null,
+      "ALINEACIÓN FEMENINO": "SAN SALVADOR!C10:D25",
+      "DATA MASCULINO": null,
+      "DATA FEMENINO": "SAN SALVADOR!A1:B35"
+    },
+    {
+      "ID": "TEO",
+      "TITLE": "Teotepeque",
+      "NOMBRE": "Teotepeque",
+      "ICON": "https://iili.io/F3dZ6MB.png",
+      "ALINEACIÓN MASCULINO": "TEOTEPEQUE!C10:D35",
+      "ALINEACIÓN FEMENINO": null,
+      "DATA MASCULINO": "TEOTEPEQUE!A1:B35",
+      "DATA FEMENINO": null
+    },
+    {
+      "ID": "UES",
+      "TITLE": "UES",
+      "NOMBRE": "BS UES",
+      "ICON": "https://iili.io/F3dZP6P.png",
+      "ALINEACIÓN MASCULINO": "UES!C10:D35",
+      "ALINEACIÓN FEMENINO": "UES!C10:D25",
+      "DATA MASCULINO": "UES!A1:B35",
+      "DATA FEMENINO": "UES!A1:B35"
+    },
+    {
+      "ID": "WSV",
+      "TITLE": "Warriors",
+      "NOMBRE": "Warriors SV BS",
+      "ICON": "https://iili.io/F3dZsF1.png",
+      "ALINEACIÓN MASCULINO": "WARRIORS!C10:D35",
+      "ALINEACIÓN FEMENINO": "WARRIOR!C10:D25",
+      "DATA MASCULINO": "WARRIORS!A1:B35",
+      "DATA FEMENINO": "WARRIOR!A1:B35"
+    }
+]
