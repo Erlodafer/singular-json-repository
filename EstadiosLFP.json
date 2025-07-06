@@ -1,0 +1,94 @@
+[
+  {
+    "id": "",
+    "title": "Sin Texto"
+  },
+  {
+    "id": "Primer Período",
+    "title": "1erT"
+  },
+  {
+    "id": "Resumen Primer Período",
+    "title": "R1erT"
+  },
+  {
+    "id": "Segundo Período",
+    "title": "2doT"
+  },
+  {
+    "id": "Resumen Segundo Período",
+    "title": "R2doT"
+  },
+  {
+    "id": "Tercer Período",
+    "title": "3erP"
+  },
+  {
+    "id": "Resumen Tercer Período",
+    "title": "R3erT"
+  },
+  {
+    "id": "Tiempo Extra",
+    "title": "Tiempo Extra"
+  },
+  {
+    "id": "Resumen Tiempo Extra",
+    "title": "RTE"
+  },
+  {
+    "id": "Resultado Final",
+    "title": "Resultado F"
+  },
+  {
+    "id": "Resumen Final",
+    "title": "Resumen F"
+  },
+  {
+    "id": "Estadio Barra de Santiago, Ahuachapán",
+    "title": "Barra Stgo."
+  },
+  {
+    "id": "Cancha Arcos del Espino, Usulután",
+    "title": "Arcos Espino"
+  },
+  {
+    "id": "Cancha El Espino, Usulután",
+    "title": "El Espino"
+  },
+  {
+    "id": "Garita Palmera, Ahuachapán",
+    "title": "Garita Palmera"
+  },
+  {
+    "id": "Polideportivo UES, San Salvador",
+    "title": "UES"
+  },
+  {
+    "id": "Cantón Joya Grande, Ilopango",
+    "title": "Joya Grande"
+  },
+  {
+    "id": "Polideportivo La Herradura, La Paz",
+    "title": "La Herradura"
+  },
+  {
+    "id": "Cancha Rancho Viejo, Usulután",
+    "title": "Rancho Viejo"
+  },
+  {
+    "id": "Cancha San Dionisio, Usulután",
+    "title": "San Dionisio"
+  },
+  {
+    "id": "Puerto el Triunfo, Usulután",
+    "title": "Pto. Triunfo"
+  },
+  {
+    "id": "Estadio Nacional Costa del Sol, La Herradura",
+    "title": "Costa del Sol"
+  },
+  {
+    "id": "Turicentro Apulo, Ilopango",
+    "title": "Apulo"
+  }
+]
