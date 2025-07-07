@@ -2,17 +2,17 @@
   {
     "id": "Masculino",
     "title": "Masculino",
+    "icon": "https://iili.io/F3dZJkb.png".
     "color1": "#043ba8",
     "color2": "#649ae1",
-    "color3": "#00154b",
-    "icon": "https://iili.io/F3dZJkb.png"
+    "color3": "#00154b"
   },
   {
     "id": "Femenino",
     "title": "Femenino",
+    "icon": "https://iili.io/F3dZHYu.png",
     "color1": "#572C85",
     "color2": "#A175DB",
-    "color3": "#3e005c",
-    "icon": "https://iili.io/F3dZHYu.png"
+    "color3": "#3e005c"
   }
 ]
