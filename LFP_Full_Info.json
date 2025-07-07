@@ -44,7 +44,7 @@
       "title": "Apulo Ilopango",
       "nombre": "Apulo Ilopango FP",
       "icon": "https://iili.io/F3dZ3Tx.png",
-      "alin_masc": "APULO!C10:D35",
+      "alin_masc": "APULO!C10:D25",
       "alin_fem": null,
       "data_masc": "APULO!A1:B35",
       "data_fem": null
@@ -54,7 +54,7 @@
       "title": "Arcos",
       "nombre": "Arcos FC",
       "icon": "https://iili.io/F3dZzva.png",
-      "alin_masc": "ARCOS!C10:D35",
+      "alin_masc": "ARCOS!C10:D25",
       "alin_fem": null,
       "data_masc": "ARCOS!A1:B35",
       "data_fem": null
@@ -64,7 +64,7 @@
       "title": "Barra de Santiago",
       "nombre": "Barra de Santiago FP",
       "icon": "https://iili.io/F3dZxYg.png",
-      "alin_masc": "B STGO!C10:D35",
+      "alin_masc": "B STGO!C10:D25",
       "alin_fem": "B STGO!C10:D25",
       "ddata_masc": "B STGO!A1:B35",
       "data_fem": "B STGO!A1:B35"
@@ -74,7 +74,7 @@
       "title": "Barra Ciega",
       "nombre": "Barra Ciega BS",
       "icon": "https://iili.io/F3dZIyJ.png",
-      "alin_masc": "B. CIEGA!C10:D35",
+      "alin_masc": "B. CIEGA!C10:D25",
       "alin_fem": "B CIEGA!C10:D25",
       "data_masc": "B CIEGA!A1:B35",
       "data_fem": "B CIEGA!A1:B35"
@@ -84,7 +84,7 @@
       "title": "Chiquirin",
       "nombre": "Chiquirin FP",
       "icon": "https://iili.io/F3dZuTv.png",
-      "alin_masc": "CHIQUIRIN!C10:D35",
+      "alin_masc": "CHIQUIRIN!C10:D25",
       "alin_fem": "CHIQUI!C10:D25",
       "data_masc": "CHIQUIRIN!A1:B35",
       "ddata_fem": "CHIQUI!A1:B35"
@@ -94,7 +94,7 @@
       "title": "Chirilagua",
       "nombre": "Chirilagua FP",
       "icon": "https://iili.io/F3dZAjR.png",
-      "alin_masc": "CHIRILAGUA!C10:D35",
+      "alin_masc": "CHIRILAGUA!C10:D25",
       "alin_fem": "CHIRI!C10:D25",
       "data_masc": "CHIRILAGUA!A1:B35",
       "data_fem": "CHIRI!A1:B35"
@@ -114,7 +114,7 @@
       "title": "Corral de Mulas",
       "nombre": "Corral de Mulas",
       "icon": "https://iili.io/F3dZ0an.png",
-      "alin_masc": "CORRAL DE MULAS!C10:D35",
+      "alin_masc": "CORRAL DE MULAS!C10:D25",
       "alin_fem": "CORRAL!C10:D25",
       "data_masc": "CORRAL DE MULAS!A1:B35",
       "data_fem": "CORRAL!A1:B35"
@@ -124,7 +124,7 @@
       "title": "Costa del Sol",
       "nombre": "Costa del Sol BS",
       "icon": "https://iili.io/F3dZ1vs.png",
-      "alin_masc": "COSTA SOL!C10:D35",
+      "alin_masc": "COSTA SOL!C10:D25",
       "alin_fem": "COSTA!C10:D25",
       "data_masc": "COSTA DEL SOL!A1:B35",
       "data_fem": "COSTA!A1:B35"
@@ -134,7 +134,7 @@
       "title": "El Espino",
       "nombre": "El Espino FC",
       "icon": "https://iili.io/F3dZVj4.png",
-      "alin_masc": "EL ESPINO!C10:D35",
+      "alin_masc": "EL ESPINO!C10:D25",
       "alin_fem": null,
       "data_masc": "EL ESPINO!A1:B35",
       "data_fem": null
@@ -144,7 +144,7 @@
       "title": "Garita Palmera",
       "nombre": "Garita Palmera BS",
       "icon": "https://iili.io/F3dZWZl.png",
-      "alin_masc": "GARITA!C10:D35",
+      "alin_masc": "GARITA!C10:D25",
       "alin_fem": "GARITA!C10:D25",
       "data_masc": "GARITA!A1:B35",
       "data_fem": "GARITA!A1:B35"
@@ -154,7 +154,7 @@
       "title": "Isla de Méndez",
       "nombre": "Isla de Méndez",
       "icon": "https://iili.io/F3dZhn2.png",
-      "alin_masc": "I MENDEZ!C10:D35",
+      "alin_masc": "I MENDEZ!C10:D25",
       "alin_fem": "I MENDEZ!C10:D25",
       "data_masc": "I MENDEZ!A1:B35",
       "data_fem": "I MENDEZ!A1:B35"
@@ -164,7 +164,7 @@
       "title": "Rancho Viejo",
       "nombre": "Isla Rancho Viejo",
       "icon": "https://iili.io/F3dZgZQ.png",
-      "alin_masc": "RANCHO VIEJO!C10:D35",
+      "alin_masc": "RANCHO VIEJO!C10:D25",
       "alin_fem": "RANCHO!C10:D25",
       "data_masc": "RANCHO VIEJO!A1:B35",
       "data_fem": "RANCHO!A1:B35"
@@ -174,7 +174,7 @@
       "title": "San Sebastián",
       "nombre": "Isla San Sebastián",
       "icon": "https://iili.io/F3dZjGS.png",
-      "alin_masc": "SAN SEBASTIAN!C10:D35",
+      "alin_masc": "SAN SEBASTIAN!C10:D25",
       "alin_fem": null,
       "data_masc": "SAN SEBASTIAN!A1:B35",
       "data_fem": null
@@ -184,7 +184,7 @@
       "title": "Joya Grande",
       "nombre": "Joya Grande BS",
       "icon": "https://iili.io/F3dZw67.png",
-      "alin_masc": "JOYA GRANDE!C10:D35",
+      "alin_masc": "JOYA GRANDE!C10:D25",
       "alin_fem": "JOYA!C10:D25",
       "data_masc": "JOYA GRANDE!A1:B35",
       "data_fem": "JOYA!A1:B35"
@@ -194,7 +194,7 @@
       "title": "La Canoa",
       "nombre": "La Canoa BS",
       "icon": "https://iili.io/F3dZeae.png",
-      "alin_masc": "LA CANOA!C10:D35",
+      "alin_masc": "LA CANOA!C10:D25",
       "alin_fem": "CANOA!C10:D25",
       "data_masc": "LA CANOA!A1:B35",
       "data_fem": "CANOA!A1:B35"
@@ -204,7 +204,7 @@
       "title": "La Herradura",
       "nombre": "La Herradura BS",
       "icon": "https://iili.io/F3dZvyb.png",
-      "alin_masc": "LA HERRADURA!C10:D35",
+      "alin_masc": "LA HERRADURA!C10:D25",
       "alin_fem": null,
       "data_masc": "LA HERRADURA!A1:B35",
       "data_fem": null
@@ -224,7 +224,7 @@
       "title": "Puerto El Triunfo",
       "nombre": "Puerto El Triunfo",
       "icon": "https://iili.io/F3dZk8u.png",
-      "alin_masc": "P. EL TRIUNFO!C10:D35",
+      "alin_masc": "P. EL TRIUNFO!C10:D25",
       "alin_fem": "EL TRIUNFO!C10:D25",
       "data_masc": "P. EL TRIUNFO!A1:B35",
       "data_fem": "EL TRIUNFO!A1:B35"
@@ -234,7 +234,7 @@
       "title": "San Marcelino",
       "nombre": "San Marcelino FC",
       "icon": "https://iili.io/F3dZUwx.png",
-      "alin_masc": "SAN MARCELINO!C10:D35",
+      "alin_masc": "SAN MARCELINO!C10:D25",
       "alin_fem": "SAN MARCELINO!C10:D25",
       "data_masc": "SAN MARCELINO!A1:B35",
       "data_fem": "SAN MARCELINO!A1:B35"
@@ -254,7 +254,7 @@
       "title": "Teotepeque",
       "nombre": "Teotepeque",
       "icon": "https://iili.io/F3dZ6MB.png",
-      "alin_masc": "TEOTEPEQUE!C10:D35",
+      "alin_masc": "TEOTEPEQUE!C10:D25",
       "alin_fem": null,
       "data_masc": "TEOTEPEQUE!A1:B35",
       "data_fem": null
@@ -264,7 +264,7 @@
       "title": "UES",
       "nombre": "BS UES",
       "icon": "https://iili.io/F3dZP6P.png",
-      "alin_masc": "UES!C10:D35",
+      "alin_masc": "UES!C10:D25",
       "alin_fem": "UES!C10:D25",
       "data_masc": "UES!A1:B35",
       "data_fem": "UES!A1:B35"
@@ -274,7 +274,7 @@
       "title": "Warriors",
       "nombre": "Warriors SV BS",
       "icon": "https://iili.io/F3dZsF1.png",
-      "alin_masc": "WARRIORS!C10:D35",
+      "alin_masc": "WARRIORS!C10:D25",
       "alin_met": "WARRIOR!C10:D25",
       "data_masc": "WARRIORS!A1:B35",
       "data_met": "WARRIOR!A1:B35"
