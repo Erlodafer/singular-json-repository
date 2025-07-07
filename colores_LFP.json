@@ -1,6 +1,6 @@
 [
   {
-    "id": "Masculino",
+    "id": "Masc",
     "title": "Masculino",
     "icon": "https://iili.io/F3dZJkb.png".
     "color1": "#043ba8",
@@ -8,7 +8,7 @@
     "color3": "#00154b"
   },
   {
-    "id": "Femenino",
+    "id": "Fem",
     "title": "Femenino",
     "icon": "https://iili.io/F3dZHYu.png",
     "color1": "#572C85",
