@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Masculino",
+    "title": "Masculino",
+    "color1": "#043ba8",
+    "color2": "#649ae1",
+    "color3": "#00154b"
+  },
+  {
+    "id": "Femenino",
+    "title": "Femenino",
+    "color1": "#572C85",
+    "color2": "#A175DB",
+    "color3": "#3e005c"
+  }
+]
