@@ -1,0 +1,67 @@
+[
+  {
+    "id": "Estadio Cuscatlán",
+    "title": "Cuscatlán",
+    "municipio": "San Salvador"
+  },
+  {
+    "id": "Estadio Nacional Jorge "El Mágico" González",
+    "title": "Mágico",
+    "municipio": "San Salvador"
+  },
+  {
+    "id": "Estadio Óscar Alberto Quiteño, Santa Ana",
+    "title": "Quiteño",
+    "municipio": "Santa Ana"
+  },
+  {
+    "id": "José Gregorio Martínez",
+    "title": "J. Gregorio Martínez",
+    "municipio": "Chalatenango"
+  },
+  {
+    "id": "Juan Francisco Barraza",
+    "title": "Barraza",
+    "municipio": "San Miguel"
+  },
+  {
+    "id": "Estadio Nacional Las Delicias",
+    "title": "Las Delicias",
+    "municipio": "Santa Tecla"
+  },
+  {
+    "id": "Jorge "Calero" Suárez",
+    "title": "Calero",
+    "municipio": "Metapán"
+  },
+  {
+    "id": "Antonio Toledo Valle",
+    "title": "Toledo Valle",
+    "municipio": "Zacatecoluca"
+  },
+  {
+    "id": "Arturo Simeón Magaña",
+    "title": "Magaña",
+    "municipio": "Ahuachapán"
+  },
+  {
+    "id": "Dr. Ramón Flores Berríos",
+    "title": "Flores Berríos",
+    "municipio": "Santa Rosa de Lima"
+  },
+  {
+    "id": "Sergio Torres Rivera",
+    "title": "Sergio T. Rivera",
+    "municipio": "Usulután"
+  },
+  {
+    "id": "Cancha Once Lobos",
+    "title": "11 Lobos",
+    "municipio": "Chalchuapa"
+  },
+  {
+    "id": "Cancha #1 FESFUT",
+    "title": "FESFUT",
+    "municipio": "San Salvador"
+  }
+]
