@@ -76,5 +76,11 @@
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "ticode": "ZFC"
+  },
+  {
+    "id": "C.D. Platense",
+    "title": "Platense",
+    "icon": "https://erlodafer.github.io/Logos-Primera/CD PLATENSE.webp",
+    "tricode": "PLA"
   }
 ]
