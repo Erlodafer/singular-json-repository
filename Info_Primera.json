@@ -3,84 +3,108 @@
     "id": "C.D. Águila",
     "title": "Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
-    "ticode": "Agu"
+    "ticode": "Agu",
+    "codeR": "AGUILA!A1:B75",
+    "codeF": "AGUILA!A1:B31"
   },
   {
     "id": "Alianza F.C.",
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
-    "ticode": "Ali"
+    "ticode": "Ali",
+    "codeR": "ALIANZA!A1:B75",
   },
   {
     "id": "Alianza Women",
     "title": "Alianza F",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
-    "ticode": "Ali"
+    "ticode": "Ali",
+    "codeF": "ALIANZA!A1:B31",
   },
   {
     "id": "C.D. Cacahuatique",
     "title": "Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
-    "ticode": "Cah"    
+    "ticode": "Cah",
+    "codeR": "CACAHUA!A1:B66",
+    "codeF": "CACAHUA!A1:B32" 
   },
   {
     "id": "C.D. FAS",
     "title": "FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
-    "ticode": "FAS"
+    "ticode": "FAS",
+    "codeR": "FAS!A1:B66",
+    "codeF": "FAS!A1:B31"
   },
   {
     "id": "L.A. Firpo",
     "title": "Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
-    "ticode": "Fir"
+    "ticode": "Fir",
+    "codeR": "FIRPO!A1:B66",
+    "codeF": "FIRPO!A1:B31"
   },
   {
     "id": "C.D. Fuerte San Francisco",
     "title": "Fuerte SF",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
-    "ticode": "FSF"
+    "ticode": "FSF",
+    "codeR": "FUERTE!A1:B66",
+    "codeF": "FUERTE!A1:B31"
   },
   {
     "id": "C.D. Hércules",
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
-    "ticode": "CDH"
+    "ticode": "CDH",
+    "codeR": "HERCULES!A1:B66",
+    "codeF": "HERCULES!A1:B31"
   },
   {
     "id": "Inter FA",
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
-    "ticode": "IFA"
+    "ticode": "IFA",
+    "codeR": "INTER!A1:B66",
   },
   {
     "id": "Inter F.A.",
-    "title": "inter F",
+    "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "ticode": "IFA"
+    "codeF": "Inter!A1:B31"
   },
   {
     "id": "C.D. Municipal Limeño",
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
-    "ticode": "Lim"
+    "ticode": "Lim",
+    "codeR": "LIIMEÑO!A1:B66",
+    "codeF": "LIMEÑO!A1:B31"
   },
   {
     "id": "A.D. Isidro Metapán",
     "title": "Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
-    "ticode": "Met"
+    "ticode": "Met",
+    "codeR": "METAPAN!A1:B66",
+    "codeF": "METAPAN!A1:B31"
   },
   {
     "id": "Zacatecoluca FC",
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
-    "ticode": "ZFC"
+    "ticode": "ZFC",
+    "codeR": "ZACATE!A1:B66",
+    "codeF": "ZACATE!A1:B31"
   },
   {
     "id": "C.D. Platense",
     "title": "Platense",
     "icon": "https://iili.io/FOMoVQn.png",
-    "ticode": "PLA"
+    "ticode": "PLA",
+    "codeR": "PLATENSE!A1:B66",
+    "codeF": "PLATENSE!A1:B31"
   }
 ]
