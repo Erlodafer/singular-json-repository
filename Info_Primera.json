@@ -12,14 +12,14 @@
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "ticode": "Ali",
-    "coder": "ALIANZA!A1:B75",
+    "coder": "ALIANZA!A1:B75"
   },
   {
     "id": "Alianza Women",
     "title": "Alianza F",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "ticode": "Ali",
-    "codef": "ALIANZA!A1:B31",
+    "codef": "ALIANZA!A1:B31"
   },
   {
     "id": "C.D. Cacahuatique",
@@ -66,13 +66,13 @@
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "ticode": "IFA",
-    "coder": "INTER!A1:B66",
+    "coder": "INTER!A1:B66"
   },
   {
     "id": "Inter F.A.",
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
-    "ticode": "IFA"
+    "ticode": "IFA",
     "codef": "Inter!A1:B31"
   },
   {
