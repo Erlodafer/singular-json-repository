@@ -1,0 +1,911 @@
+{
+  "FAS": {
+    "33": {
+      "Nombre Jugador": "Steven Martinez"
+    },
+    "34": {
+      "Nombre Jugador": "Luis Santa"
+    },
+    "35": {
+      "Nombre Jugador": "Noah Figura"
+    },
+    "36": {
+      "Nombre Jugador": "Anderson Leiva"
+    },
+    "37": {
+      "Nombre Jugador": "David Ruiz"
+    },
+    "38": {
+      "Nombre Jugador": "Ramiro Guillen"
+    },
+    "40": {
+      "Nombre Jugador": "David Funes"
+    },
+    "41": {
+      "Nombre Jugador": "Hector Vasquez"
+    },
+    "43": {
+      "Nombre Jugador": "Christopher Ortiz"
+    },
+    "44": {
+      "Nombre Jugador": "Brandon Retana"
+    },
+    "45": {
+      "Nombre Jugador": "Brayan Monge"
+    },
+    "47": {
+      "Nombre Jugador": "Jerry Cruz"
+    },
+    "48": {
+      "Nombre Jugador": "Anderson Rivera"
+    },
+    "49": {
+      "Nombre Jugador": "Anderson Martinez"
+    },
+    "53": {
+      "Nombre Jugador": "Edurdo Pinto"
+    },
+    "54": {
+      "Nombre Jugador": "Oscar Delgado"
+    },
+    "57": {
+      "Nombre Jugador": "Ederson Chicas"
+    },
+    "58": {
+      "Nombre Jugador": "Ovidio Guzman"
+    },
+    "59": {
+      "Nombre Jugador": "Henry Escobar"
+    },
+    "60": {
+      "Nombre Jugador": "Noe Ayala"
+    }
+  },
+  "ZACATE": {
+    "31": {
+      "Nombre Jugador": "Víctor Mejía"
+    },
+    "32": {
+      "Nombre Jugador": "Cristian Gómez"
+    },
+    "33": {
+      "Nombre Jugador": "Jefferson Ángel"
+    },
+    "34": {
+      "Nombre Jugador": "Jairo Chávez"
+    },
+    "35": {
+      "Nombre Jugador": "José Arteaga"
+    },
+    "36": {
+      "Nombre Jugador": "Andy Rodríguez"
+    },
+    "37": {
+      "Nombre Jugador": "Luis González"
+    },
+    "38": {
+      "Nombre Jugador": "Antony Luna"
+    },
+    "39": {
+      "Nombre Jugador": "William Barrera"
+    },
+    "40": {
+      "Nombre Jugador": "José Landaverde"
+    },
+    "41": {
+      "Nombre Jugador": "Brandon Aguillón"
+    },
+    "43": {
+      "Nombre Jugador": "Josué Ortiz"
+    },
+    "44": {
+      "Nombre Jugador": "Glend Henrínquez"
+    },
+    "45": {
+      "Nombre Jugador": "Moisés ntonio"
+    },
+    "47": {
+      "Nombre Jugador": "Cristofer Martínez"
+    },
+    "48": {
+      "Nombre Jugador": "Jhosten De"
+    },
+    "49": {
+      "Nombre Jugador": "Kenner Arévalo"
+    },
+    "50": {
+      "Nombre Jugador": "Jeffrie Henríquez"
+    },
+    "51": {
+      "Nombre Jugador": "Numas Azucena"
+    },
+    "52": {
+      "Nombre Jugador": "Hendrick Renderos"
+    },
+    "53": {
+      "Nombre Jugador": "David González"
+    },
+    "54": {
+      "Nombre Jugador": "Bany Mendoza"
+    },
+    "55": {
+      "Nombre Jugador": "Rudy Aguilar"
+    },
+    "57": {
+      "Nombre Jugador": "Antonio Cerna"
+    },
+    "58": {
+      "Nombre Jugador": "Daniel Barahona"
+    },
+    "60": {
+      "Nombre Jugador": "Jefferson Hernández"
+    }
+  },
+  "ALIANZA": {
+    "31": {
+      "Nombre Jugador": "Diego Bigueur"
+    },
+    "32": {
+      "Nombre Jugador": "Moris Aguirre"
+    },
+    "33": {
+      "Nombre Jugador": "Michael Mendez"
+    },
+    "34": {
+      "Nombre Jugador": "Gonzalo Sibrian"
+    },
+    "35": {
+      "Nombre Jugador": "Javi de Paz"
+    },
+    "36": {
+      "Nombre Jugador": "Daniel Franco"
+    },
+    "37": {
+      "Nombre Jugador": "Cristofer Benitez"
+    },
+    "38": {
+      "Nombre Jugador": "Rodrigo Aguilar"
+    },
+    "39": {
+      "Nombre Jugador": "Kevin Garcia"
+    },
+    "40": {
+      "Nombre Jugador": "David Pineda"
+    },
+    "41": {
+      "Nombre Jugador": "Francisco Carpio"
+    },
+    "42": {
+      "Nombre Jugador": "Diego Peña"
+    },
+    "44": {
+      "Nombre Jugador": "Daniel Valladares"
+    },
+    "45": {
+      "Nombre Jugador": "Luis Tobar"
+    },
+    "46": {
+      "Nombre Jugador": "Guillermo Zarate"
+    },
+    "47": {
+      "Nombre Jugador": "Fernando Pineda"
+    },
+    "49": {
+      "Nombre Jugador": "Lemuel Castillo"
+    },
+    "50": {
+      "Nombre Jugador": "Jose Martinez"
+    },
+    "51": {
+      "Nombre Jugador": "Christian Méndez"
+    },
+    "52": {
+      "Nombre Jugador": "Rene Hernandez"
+    },
+    "53": {
+      "Nombre Jugador": "Matias Alas"
+    },
+    "54": {
+      "Nombre Jugador": "Daniel Flores"
+    },
+    "55": {
+      "Nombre Jugador": "Christopher Guardado"
+    },
+    "56": {
+      "Nombre Jugador": "David Leon"
+    },
+    "57": {
+      "Nombre Jugador": "Nathan Andrade"
+    },
+    "58": {
+      "Nombre Jugador": "Marvin Diaz"
+    },
+    "59": {
+      "Nombre Jugador": "Luis Ramirez"
+    },
+    "61": {
+      "Nombre Jugador": "Emerson Guardado"
+    },
+    "63": {
+      "Nombre Jugador": "José Hernández"
+    },
+    "64": {
+      "Nombre Jugador": "Esteban Hernández"
+    }
+  },
+  "AGUILA": {
+    "31": {
+      "Nombre Jugador": "Ricardo Jesús"
+    },
+    "32": {
+      "Nombre Jugador": "Jjohansson Zaenz"
+    },
+    "33": {
+      "Nombre Jugador": "José Villalobos"
+    },
+    "34": {
+      "Nombre Jugador": "Melquin Prudencio"
+    },
+    "35": {
+      "Nombre Jugador": "Ramon Portillo"
+    },
+    "36": {
+      "Nombre Jugador": "Jefferson Perla"
+    },
+    "37": {
+      "Nombre Jugador": "Amadeo Martinez"
+    },
+    "38": {
+      "Nombre Jugador": "José Gutierrez"
+    },
+    "39": {
+      "Nombre Jugador": "Victor Asencio"
+    },
+    "40": {
+      "Nombre Jugador": "Marvin Benitez"
+    },
+    "41": {
+      "Nombre Jugador": "Bryan Escobar"
+    },
+    "42": {
+      "Nombre Jugador": "Andersson Zapata"
+    },
+    "43": {
+      "Nombre Jugador": "Roger Portillo"
+    },
+    "44": {
+      "Nombre Jugador": "Wilmer Blanco"
+    },
+    "45": {
+      "Nombre Jugador": "Oscar Treminio"
+    },
+    "46": {
+      "Nombre Jugador": "Eduardo Cruz"
+    },
+    "47": {
+      "Nombre Jugador": "David Parada"
+    },
+    "48": {
+      "Nombre Jugador": "Joab Zelaya"
+    },
+    "49": {
+      "Nombre Jugador": "Vicente Guevara"
+    },
+    "50": {
+      "Nombre Jugador": "Jonathan Diaz"
+    },
+    "51": {
+      "Nombre Jugador": "David Torres"
+    },
+    "52": {
+      "Nombre Jugador": "Carlos Garay"
+    },
+    "53": {
+      "Nombre Jugador": "Francisco Portillo"
+    },
+    "54": {
+      "Nombre Jugador": "Kevin Torrez"
+    },
+    "55": {
+      "Nombre Jugador": "Alexander Amaya"
+    },
+    "56": {
+      "Nombre Jugador": "Juan Zelaya"
+    },
+    "57": {
+      "Nombre Jugador": "Wilfredo Jandres"
+    },
+    "58": {
+      "Nombre Jugador": "Isaak Hernandez"
+    },
+    "59": {
+      "Nombre Jugador": "Osmin Loza"
+    },
+    "60": {
+      "Nombre Jugador": "Isaak Rivera"
+    }
+  },
+  "FIRPO": {
+    "31": {
+      "Nombre Jugador": "Jorge Serpas"
+    },
+    "32": {
+      "Nombre Jugador": "Diego Hernández"
+    },
+    "33": {
+      "Nombre Jugador": "José Serpas"
+    },
+    "34": {
+      "Nombre Jugador": "Jairo Estrada"
+    },
+    "35": {
+      "Nombre Jugador": "Nelson Diaz"
+    },
+    "36": {
+      "Nombre Jugador": "Josué Lazo"
+    },
+    "37": {
+      "Nombre Jugador": "Jhosep Galindo"
+    },
+    "38": {
+      "Nombre Jugador": "Diego Hernandez"
+    },
+    "39": {
+      "Nombre Jugador": "Gabriel Guzman"
+    },
+    "40": {
+      "Nombre Jugador": "Diogo Ramirez"
+    },
+    "41": {
+      "Nombre Jugador": "Ruben Cruz"
+    },
+    "42": {
+      "Nombre Jugador": "Yaser Bonilla"
+    },
+    "43": {
+      "Nombre Jugador": "Walter Machado"
+    },
+    "44": {
+      "Nombre Jugador": "Elmer Rodríguez"
+    },
+    "45": {
+      "Nombre Jugador": "Bryant Pineda"
+    },
+    "46": {
+      "Nombre Jugador": "Elmer Bonilla"
+    },
+    "47": {
+      "Nombre Jugador": "Jeyson Sanchexz"
+    },
+    "48": {
+      "Nombre Jugador": "Ricardo Navarrete"
+    },
+    "49": {
+      "Nombre Jugador": "Elison Claros"
+    },
+    "50": {
+      "Nombre Jugador": "Enmanuel Calero"
+    },
+    "51": {
+      "Nombre Jugador": "Brian Coreas"
+    },
+    "52": {
+      "Nombre Jugador": "Kerin Torres"
+    },
+    "53": {
+      "Nombre Jugador": "Deris Quitanilla"
+    },
+    "54": {
+      "Nombre Jugador": "Luis Vela"
+    },
+    "55": {
+      "Nombre Jugador": "Brayan Ortez"
+    },
+    "56": {
+      "Nombre Jugador": "Santiago Mejia"
+    },
+    "57": {
+      "Nombre Jugador": "Yeferson Ortiz"
+    },
+    "59": {
+      "Nombre Jugador": "Billy Rodríguez"
+    }
+  },
+  "METAPAN": {
+    "31": {
+      "Nombre Jugador": "Uriel Miranda"
+    },
+    "33": {
+      "Nombre Jugador": "Xavier Arévalo"
+    },
+    "34": {
+      "Nombre Jugador": "Hugo Aguilar"
+    },
+    "35": {
+      "Nombre Jugador": "Steven Sandoval"
+    },
+    "36": {
+      "Nombre Jugador": "Jesús Montoya"
+    },
+    "37": {
+      "Nombre Jugador": "Gael Avelar"
+    },
+    "38": {
+      "Nombre Jugador": "José Pacheco"
+    },
+    "39": {
+      "Nombre Jugador": "Jefferson Lemus"
+    },
+    "40": {
+      "Nombre Jugador": "Brandon Herrera"
+    },
+    "42": {
+      "Nombre Jugador": "Andrés Juárez"
+    },
+    "43": {
+      "Nombre Jugador": "Edwin Méndez"
+    },
+    "44": {
+      "Nombre Jugador": "Jonathan López"
+    },
+    "45": {
+      "Nombre Jugador": "Rossemberg Zepeda"
+    },
+    "46": {
+      "Nombre Jugador": "Kevin Pérez"
+    },
+    "47": {
+      "Nombre Jugador": "Mauricio Zavala"
+    },
+    "48": {
+      "Nombre Jugador": "Wilber Diaz"
+    },
+    "53": {
+      "Nombre Jugador": "Andersson Peñate"
+    },
+    "58": {
+      "Nombre Jugador": "Alfredo Esquivel"
+    },
+    "59": {
+      "Nombre Jugador": "Eduardo Galdámez"
+    },
+    "60": {
+      "Nombre Jugador": "Hamilton Lemus"
+    }
+  },
+  "INTER": {
+    "31": {
+      "Nombre Jugador": "Diego Luna"
+    },
+    "32": {
+      "Nombre Jugador": "Bryan Delgado"
+    },
+    "33": {
+      "Nombre Jugador": "Walter Gutiérrez"
+    },
+    "34": {
+      "Nombre Jugador": "Anderson Lemus"
+    },
+    "36": {
+      "Nombre Jugador": "Jostin Romero"
+    },
+    "37": {
+      "Nombre Jugador": "Rodolfo Amaya"
+    },
+    "38": {
+      "Nombre Jugador": "Wilber Menjivar"
+    },
+    "39": {
+      "Nombre Jugador": "Stanley Zamora"
+    },
+    "40": {
+      "Nombre Jugador": "Anthony Velásquez"
+    },
+    "41": {
+      "Nombre Jugador": "Adrián Murgas"
+    },
+    "42": {
+      "Nombre Jugador": "Bryan Torres"
+    },
+    "43": {
+      "Nombre Jugador": "Andrew Santos"
+    },
+    "44": {
+      "Nombre Jugador": "Ronald Vargas"
+    },
+    "45": {
+      "Nombre Jugador": "Robert Guerra"
+    },
+    "46": {
+      "Nombre Jugador": "Diego Olazabal"
+    },
+    "47": {
+      "Nombre Jugador": "Enzo Salazar"
+    },
+    "48": {
+      "Nombre Jugador": "Miguel Monge"
+    },
+    "49": {
+      "Nombre Jugador": "Marcelo Fonseca"
+    },
+    "50": {
+      "Nombre Jugador": "Gerardo Pineda"
+    },
+    "51": {
+      "Nombre Jugador": "Joseph Alvarenga"
+    },
+    "52": {
+      "Nombre Jugador": "Gabriel Morán"
+    },
+    "53": {
+      "Nombre Jugador": "Matias López"
+    },
+    "54": {
+      "Nombre Jugador": "Dylan Alvarenga"
+    },
+    "55": {
+      "Nombre Jugador": "Alan Azcúnaga"
+    },
+    "57": {
+      "Nombre Jugador": "Selvin Recinos"
+    }
+  },
+  "FUERTE": {
+    "31": {
+      "Nombre Jugador": "Jeffrey Benitez"
+    },
+    "32": {
+      "Nombre Jugador": "Julio Garcia"
+    },
+    "33": {
+      "Nombre Jugador": "Carlos Amaya"
+    },
+    "36": {
+      "Nombre Jugador": "Alejadro Guevara"
+    },
+    "37": {
+      "Nombre Jugador": "Alister Sanchez"
+    },
+    "38": {
+      "Nombre Jugador": "Jairo Martinez"
+    },
+    "40": {
+      "Nombre Jugador": "Wilber Perez"
+    },
+    "45": {
+      "Nombre Jugador": "Jeffrey Sosa"
+    },
+    "46": {
+      "Nombre Jugador": "Junior Alvarez"
+    },
+    "48": {
+      "Nombre Jugador": "Yostin Sandoval"
+    },
+    "50": {
+      "Nombre Jugador": "Jonathan Garcia"
+    },
+    "51": {
+      "Nombre Jugador": "Oscar Velasquez"
+    },
+    "52": {
+      "Nombre Jugador": "Juan Juarez"
+    },
+    "53": {
+      "Nombre Jugador": "Mario Arevalo"
+    },
+    "54": {
+      "Nombre Jugador": "Jonatthan Matus"
+    },
+    "55": {
+      "Nombre Jugador": "Jason Arriaza"
+    },
+    "56": {
+      "Nombre Jugador": "Kerin Lopez"
+    },
+    "57": {
+      "Nombre Jugador": "Jose Herrera"
+    },
+    "58": {
+      "Nombre Jugador": "Felix Castro"
+    }
+  },
+  "HERCULES": {
+    "31": {
+      "Nombre Jugador": "Julio Paulino"
+    },
+    "32": {
+      "Nombre Jugador": "Sebastián Larios"
+    },
+    "33": {
+      "Nombre Jugador": "Christian Soriano"
+    },
+    "34": {
+      "Nombre Jugador": "Gabriel Arriaza"
+    },
+    "35": {
+      "Nombre Jugador": "Diego Durán"
+    },
+    "36": {
+      "Nombre Jugador": "Gianpaolo Bigit"
+    },
+    "37": {
+      "Nombre Jugador": "Máximo Sandoval"
+    },
+    "38": {
+      "Nombre Jugador": "Enrique Rodezno"
+    },
+    "39": {
+      "Nombre Jugador": "Néstor Castro"
+    },
+    "40": {
+      "Nombre Jugador": "Melvin Urbina"
+    },
+    "41": {
+      "Nombre Jugador": "Raúl Beltrán"
+    },
+    "42": {
+      "Nombre Jugador": "Diego Lara"
+    },
+    "43": {
+      "Nombre Jugador": "Néstor Delgado"
+    },
+    "44": {
+      "Nombre Jugador": "Rodrigo Rivera"
+    },
+    "45": {
+      "Nombre Jugador": "Sergio Peraza"
+    }
+  },
+  "LIMEÑO": {
+    "31": {
+      "Nombre Jugador": "Wiliam Molina"
+    },
+    "32": {
+      "Nombre Jugador": "Juan Blanco"
+    },
+    "33": {
+      "Nombre Jugador": "Notiel García"
+    },
+    "34": {
+      "Nombre Jugador": "Amilcar Iglesia"
+    },
+    "35": {
+      "Nombre Jugador": "Claudio López"
+    },
+    "36": {
+      "Nombre Jugador": "Cruz Romero"
+    },
+    "37": {
+      "Nombre Jugador": "Anderson Cisneros"
+    },
+    "38": {
+      "Nombre Jugador": "Jefferson Martínez"
+    },
+    "39": {
+      "Nombre Jugador": "Gerson Robles"
+    },
+    "40": {
+      "Nombre Jugador": "Jasson Ayala"
+    },
+    "41": {
+      "Nombre Jugador": "Romel Flores"
+    },
+    "42": {
+      "Nombre Jugador": "Eduardo Sorto"
+    },
+    "43": {
+      "Nombre Jugador": "Rogelio Urbina"
+    },
+    "44": {
+      "Nombre Jugador": "Denis Cruz"
+    },
+    "45": {
+      "Nombre Jugador": "Ever Granados"
+    },
+    "46": {
+      "Nombre Jugador": "Elder Figueroa"
+    },
+    "47": {
+      "Nombre Jugador": "Alberth Reyes"
+    },
+    "48": {
+      "Nombre Jugador": "Brandon Guevara"
+    },
+    "50": {
+      "Nombre Jugador": "Kevin Montalván"
+    },
+    "51": {
+      "Nombre Jugador": "Alexander Buruca"
+    },
+    "52": {
+      "Nombre Jugador": "Juan Cabrera"
+    },
+    "53": {
+      "Nombre Jugador": "Mario García"
+    },
+    "54": {
+      "Nombre Jugador": "Jason Castillo"
+    },
+    "55": {
+      "Nombre Jugador": "Oscar Rubio"
+    },
+    "56": {
+      "Nombre Jugador": "Luis Grande"
+    },
+    "57": {
+      "Nombre Jugador": "Jefferson Flores"
+    },
+    "58": {
+      "Nombre Jugador": "Brayan Velásquez"
+    },
+    "59": {
+      "Nombre Jugador": "José Rivera"
+    },
+    "60": {
+      "Nombre Jugador": "Kevin Flores"
+    }
+  },
+  "CACAHUA": {
+    "31": {
+      "Nombre Jugador": "German Palacios"
+    },
+    "32": {
+      "Nombre Jugador": "Herberth Chicas"
+    },
+    "33": {
+      "Nombre Jugador": "William Guandique"
+    },
+    "34": {
+      "Nombre Jugador": "Cesar Marquez"
+    },
+    "35": {
+      "Nombre Jugador": "Cristian Bonilla"
+    },
+    "36": {
+      "Nombre Jugador": "Carlos Hernandez"
+    },
+    "37": {
+      "Nombre Jugador": "Yair Pineda"
+    },
+    "38": {
+      "Nombre Jugador": "Anderson Portillo"
+    },
+    "39": {
+      "Nombre Jugador": "Wilfredo Rivera"
+    },
+    "40": {
+      "Nombre Jugador": "Fernando Carmona"
+    },
+    "41": {
+      "Nombre Jugador": "Pedro Amaya"
+    },
+    "42": {
+      "Nombre Jugador": "Angel Carranza"
+    },
+    "43": {
+      "Nombre Jugador": "Erick Mendoza"
+    },
+    "44": {
+      "Nombre Jugador": "Fernando Chicas"
+    },
+    "45": {
+      "Nombre Jugador": "Anderson Garcia"
+    },
+    "46": {
+      "Nombre Jugador": "Franklin Amaya"
+    },
+    "47": {
+      "Nombre Jugador": "Jose Arevalo"
+    },
+    "48": {
+      "Nombre Jugador": "Jefferson Ventura"
+    },
+    "49": {
+      "Nombre Jugador": "Luis Mendoza"
+    },
+    "51": {
+      "Nombre Jugador": "Jacobo Guevara"
+    },
+    "52": {
+      "Nombre Jugador": "Juan Membreño"
+    },
+    "53": {
+      "Nombre Jugador": "Fernando Mejia"
+    },
+    "54": {
+      "Nombre Jugador": "Franklin Chicas"
+    },
+    "55": {
+      "Nombre Jugador": "Brayan Romero"
+    },
+    "56": {
+      "Nombre Jugador": "Jonathan Ramirez"
+    },
+    "57": {
+      "Nombre Jugador": "Xander Vasquez"
+    },
+    "58": {
+      "Nombre Jugador": "Jose Romero"
+    },
+    "60": {
+      "Nombre Jugador": "Ivan Rodriguez"
+    }
+  },
+  "PLATENSE": {
+    "31": {
+      "Nombre Jugador": "Beethoven Martinez"
+    },
+    "33": {
+      "Nombre Jugador": "Jefferson Maldonado"
+    },
+    "34": {
+      "Nombre Jugador": "Denis Bautista"
+    },
+    "35": {
+      "Nombre Jugador": "Jefferson Cantor"
+    },
+    "36": {
+      "Nombre Jugador": "Cesar Gochez"
+    },
+    "37": {
+      "Nombre Jugador": "Christian Hernandez"
+    },
+    "38": {
+      "Nombre Jugador": "Fernando Ramos"
+    },
+    "39": {
+      "Nombre Jugador": "Diego Joya"
+    },
+    "40": {
+      "Nombre Jugador": "Amadiel Garcias"
+    },
+    "41": {
+      "Nombre Jugador": "Vicente Diaz"
+    },
+    "42": {
+      "Nombre Jugador": "Lenin Gonzalez"
+    },
+    "43": {
+      "Nombre Jugador": "Wilber Ascencio"
+    },
+    "44": {
+      "Nombre Jugador": "Jonatan Alvaro"
+    },
+    "45": {
+      "Nombre Jugador": "Jefferson Rivera"
+    },
+    "47": {
+      "Nombre Jugador": "Amado Ceron"
+    },
+    "49": {
+      "Nombre Jugador": "Lester Hernandez"
+    },
+    "50": {
+      "Nombre Jugador": "Fernando Arevalo"
+    },
+    "51": {
+      "Nombre Jugador": "Noe Ventura"
+    },
+    "52": {
+      "Nombre Jugador": "Gabriel Sorto"
+    },
+    "53": {
+      "Nombre Jugador": "Luis Arevalo"
+    },
+    "54": {
+      "Nombre Jugador": "Jostyn Linarez"
+    },
+    "55": {
+      "Nombre Jugador": "Jeffry Umaña"
+    },
+    "56": {
+      "Nombre Jugador": "Oscar Flores"
+    },
+    "57": {
+      "Nombre Jugador": "Edilson Montano"
+    },
+    "60": {
+      "Nombre Jugador": "Moises Carpio"
+    }
+  }
+}
