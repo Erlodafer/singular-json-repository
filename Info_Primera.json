@@ -27,7 +27,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "ticode": "Cah",
     "coder": "CACAHUA!A1:B66",
-    "codef": "CACAHUA!A1:B32" 
+    "codef": "CACAHUA!A1:B32"
   },
   {
     "id": "C.D. FAS",
@@ -73,14 +73,14 @@
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "ticode": "IFA",
-    "codef": "Inter!A1:B31"
+    "codef": "INTER!A1:B31"
   },
   {
     "id": "C.D. Municipal Limeño",
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "ticode": "Lim",
-    "coder": "LIIMEÑO!A1:B66",
+    "coder": "LIMEÑO!A1:B66",
     "codef": "LIMEÑO!A1:B31"
   },
   {
