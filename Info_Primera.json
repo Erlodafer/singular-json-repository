@@ -130,5 +130,15 @@
     "dtr": "David Hernández",
     "codef": "PLATENSE!A1:B31",
     "dtf": "Everist Martínez"
+  },
+  {
+    "id": "El Salvador",
+    "title": "El Salvador",
+    "icon": "https://iili.io/FGk0lMN.jpg"
+  },
+  {
+    "id": "Honduras",
+    "title": "Honduras",
+    "icon": "https://iili.io/Fsz90FV.jpg"
   }
 ]
