@@ -4,9 +4,9 @@
     "title": "Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "ticode": "Agu",
-    "coder": "AGUILA!A1:B75",
+    "coder": "AGUILA!A1:B85",
     "dtr": "Hérbert Coreas",
-    "codef": "AGUILA!A1:B31",
+    "codef": "AGUILA!A1:B85",
     "dtf": "Amilcar Guzmán"
   },
   {
@@ -14,7 +14,7 @@
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "ticode": "Ali",
-    "coder": "ALIANZA!A1:B75",
+    "coder": "ALIANZA!A1:B85",
     "dtr": "Marcos Portillo"
   },
   {
@@ -22,7 +22,7 @@
     "title": "Alianza F",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "ticode": "Ali",
-    "codef": "ALIANZA!A1:B31",
+    "codef": "ALIANZA!A1:B85",
     "dtf": "Luis Sosa"
   },
   {
@@ -30,9 +30,9 @@
     "title": "Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "ticode": "Cah",
-    "coder": "CACAHUA!A1:B66",
+    "coder": "CACAHUA!A1:B85",
     "dtr": "José González",
-    "codef": "CACAHUA!A1:B32",
+    "codef": "CACAHUA!A1:B85",
     "dtf": "Pascual Orellana"
   },
   {
@@ -40,9 +40,9 @@
     "title": "FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "ticode": "FAS",
-    "coder": "FAS!A1:B66",
+    "coder": "FAS!A1:B85",
     "dtr": "Vidal Jiménez",
-    "codef": "FAS!A1:B31",
+    "codef": "FAS!A1:B85",
     "dtf": "Edwin Deras"
   },
   {
@@ -50,9 +50,9 @@
     "title": "Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "ticode": "Fir",
-    "coder": "FIRPO!A1:B66",
+    "coder": "FIRPO!A1:B85",
     "dtr": "Ever Mejía",
-    "codef": "FIRPO!A1:B31",
+    "codef": "FIRPO!A1:B85",
     "dtf": "Jaime Jungblunth"
   },
   {
@@ -60,9 +60,9 @@
     "title": "Fuerte SF",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "ticode": "FSF",
-    "coder": "FUERTE!A1:B66",
+    "coder": "FUERTE!A1:B85",
     "dtr": "Marvin Rivera",
-    "codef": "FUERTE!A1:B31",
+    "codef": "FUERTE!A1:B85",
     "dtf": "Douglas Palacios"
   },
   {
@@ -72,7 +72,7 @@
     "ticode": "CDH",
     "coder": "HERCULES!A1:B66",
     "dtr": "Santiago Iraheta",
-    "codef": "HERCULES!A1:B31",
+    "codef": "HERCULES!A1:B85",
     "dtf": "Gilberto Campos"
   },
   {
@@ -80,7 +80,7 @@
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "ticode": "IFA",
-    "coder": "INTER!A1:B66",
+    "coder": "INTER!A1:B85",
     "dtr": "Cristian López"
   },
   {
@@ -88,7 +88,7 @@
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "ticode": "IFA",
-    "codef": "INTER!A1:B31",
+    "codef": "INTER!A1:B85",
     "dtf": "Dalila Guerrera"
   },
   {
@@ -96,9 +96,9 @@
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "ticode": "Lim",
-    "coder": "LIMEÑO!A1:B66",
+    "coder": "LIMEÑO!A1:B85",
     "dtr": "Marvin Rosales",
-    "codef": "LIMEÑO!A1:B31",
+    "codef": "LIMEÑO!A1:B85",
     "dtf": "Edwin Prudencio"
   },
   {
@@ -106,9 +106,9 @@
     "title": "Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "ticode": "Met",
-    "coder": "METAPAN!A1:B80",
+    "coder": "METAPAN!A1:B85",
     "dtr": "José Tobar",
-    "codef": "METAPAN!A1:B80",
+    "codef": "METAPAN!A1:B85",
     "dtf": "José Figueroa"
   },
   {
@@ -116,9 +116,9 @@
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "ticode": "ZFC",
-    "coder": "ZACATE!A1:B66",
+    "coder": "ZACATE!A1:B85",
     "dtr": "Eduardo Lara",
-    "codef": "ZACATE!A1:B31",
+    "codef": "ZACATE!A1:B85",
     "dtf": "Ivan Ruiz"
   },
   {
@@ -126,9 +126,9 @@
     "title": "Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "ticode": "PLA",
-    "coder": "PLATENSE!A1:B66",
+    "coder": "PLATENSE!A1:B85",
     "dtr": "David Hernández",
-    "codef": "PLATENSE!A1:B31",
+    "codef": "PLATENSE!A1:B85",
     "dtf": "Everist Martínez"
   },
   {
