@@ -1,0 +1,410 @@
+[
+  {
+    "id": "Argentina",
+    "title": "Argentina",
+    "tricode": "ARG",
+    "icon": "https://iili.io/FZ96XMg.png"
+  },
+  {
+    "id": "Austria",
+    "title": "Austria",
+    "tricode": "AUT",
+    "icon": "https://iili.io/FZ96hPa.png"
+  },
+  {
+    "id": "Barbados",
+    "title": "Barbados",
+    "tricode": "BAR",
+    "icon": "https://iili.io/FZ96wKJ.png"
+  },
+  {
+    "id": "Bélgica",
+    "title": "Bélgica",
+    "tricode": "BEL",
+    "icon": "https://iili.io/FZ96wKJ.png"
+  },
+  {
+    "id": "Bosnia y Herzegovina",
+    "title": "Bosnia",
+    "tricode": "BIH",
+    "icon": "https://iili.io/FZ96OSR.png"
+  },
+  {
+    "id": "Bolivia",
+    "title": "Bolivia",
+    "tricode": "BOL",
+    "icon": "https://iili.io/FZ96k9p.png"
+  },
+  {
+    "id": "Brasil",
+    "title": "Brasil",
+    "tricode": "BRA",
+    "icon": "https://iili.io/FZ96vAN.png"
+  },
+  {
+    "id": "Bulgaria",
+    "title": "Bulgaria",
+    "tricode": "BUL",
+    "icon": "https://iili.io/FZ968NI.png"
+  },
+  {
+    "id": "Canada",
+    "title": "Canada",
+    "tricode": "CAN",
+    "icon": "https://iili.io/FZ96Stt.png"
+  },
+  {
+    "id": "Chile",
+    "title": "Chile",
+    "tricode": "CHI",
+    "icon": "https://iili.io/FZ96rVn.png"
+  },
+  {
+    "id": "China",
+    "title": "China",
+    "tricode": "CHN",
+    "icon": "https://iili.io/FZ964Ps.png"
+  },
+  {
+    "id": "Colombia",
+    "title": "Colombia",
+    "tricode": "COL",
+    "icon": "https://iili.io/FZ96PKG.png"
+  },
+  {
+    "id": "Costa Rica",
+    "title": "Costa Rica",
+    "tricode": "CRC",
+    "icon": "https://iili.io/FZ96sS4.png"
+  },
+  {
+    "id": "Croacia",
+    "title": "Croacia",
+    "tricode": "CRO",
+    "icon": "https://iili.io/FZ96QHl.png"
+  },
+  {
+    "id": "Chipre",
+    "title": "Chipre",
+    "tricode": "CYP",
+    "icon": "https://iili.io/FZ96ZR2.png"
+  },
+  {
+    "id": "República Checa",
+    "title": "República Checa",
+    "tricode": "CZE",
+    "icon": "https://iili.io/FZ96tNS.png"
+  },
+  {
+    "id": "Dinamarca",
+    "title": "Dinamarca",
+    "tricode": "DEN",
+    "icon": "https://iili.io/FZ96DD7.png"
+  },
+  {
+    "id": "Ecuador",
+    "title": "Ecuador",
+    "tricode": "ECU",
+    "icon": "https://iili.io/FZ96mx9.png"
+  },
+  {
+    "id": "Egipto",
+    "title": "Egipto",
+    "tricode": "EGY",
+    "icon": "https://iili.io/FZ96pVe.png"
+  },
+  {
+    "id": "El Salvador",
+    "title": "El Salvador",
+    "tricode": "ESA",
+    "icon": "https://iili.io/FZ96yiu.png"
+  },
+  {
+    "id": "Estonia",
+    "title": "Estonia",
+    "tricode": "Est",
+    "icon": "https://iili.io/FZ9PHKb.png"
+  },
+  {
+    "id": "Finlandia",
+    "title": "Finlandia",
+    "tricode": "FIN",
+    "icon": "https://iili.io/FZ9PJlj.png"
+  },
+  {
+    "id": "Francia",
+    "title": "Francia",
+    "tricode": "FRA",
+    "icon": "https://iili.io/FZ9PdUx.png"
+  },
+  {
+    "id": "Georgia",
+    "title": "Georgia",
+    "tricode": "GEO",
+    "icon": "https://iili.io/FZ9P3HQ.png"
+  },
+  {
+    "id": "Alemania",
+    "title": "Alemania",
+    "tricode": "GER",
+    "icon": "https://iili.io/FZ9PFRV.png"
+  },
+  {
+    "id": "Grecia",
+    "title": "Grecia",
+    "tricode": "GRE",
+    "icon": "https://iili.io/FZ9PKOB.png"
+  },
+  {
+    "id": "Honkong",
+    "title": "Honkong",
+    "tricode": "HKG",
+    "icon": "https://iili.io/FZ9PfDP.png"
+  },
+  {
+    "id": "Hungría",
+    "title": "Hungría",
+    "tricode": "HUN",
+    "icon": "https://iili.io/FZ9PBx1.png"
+  },
+  {
+    "id": "Indonesia",
+    "title": "Indonesia",
+    "tricode": "INA",
+    "icon": "https://iili.io/FZ9PCWF.png"
+  },
+  {
+    "id": "India",
+    "title": "India",
+    "tricode": "IND",
+    "icon": "https://iili.io/FZ9Pnig.png"
+  },
+  {
+    "id": "Irán",
+    "title": "Irán",
+    "tricode": "IRI",
+    "icon": "https://iili.io/FZ94YkN.png"
+  },
+  {
+    "id": "Israel",
+    "title": "Israel",
+    "tricode": "ISR",
+    "icon": "https://iili.io/FZ94apI.png"
+  },
+  {
+    "id": "Kazajistán",
+    "title": "Kazajistán",
+    "tricode": "KAZ",
+    "icon": "https://iili.io/FZ941Qn.png"
+  },
+  {
+    "id": "Latvia",
+    "title": "Latvia",
+    "tricode": "LAT",
+    "icon": "https://iili.io/FZ94GBs.png"
+  },
+  {
+    "id": "Líbano",
+    "title": "Líbano",
+    "tricode": "LBN",
+    "icon": "https://iili.io/FZ94MEG.png"
+  },
+  {
+    "id": "Korea del Sur",
+    "title": "Korea",
+    "tricode": "KOR",
+    "icon": "https://iili.io/FZ94V4f.png"
+  },
+  {
+    "id": "Lituania",
+    "title": "Lituania",
+    "tricode": "LTU",
+    "icon": "https://iili.io/FZ94X24.png"
+  },
+  {
+    "id": "Luxemburgo",
+    "title": "Luxemburgo",
+    "tricode": "LUX",
+    "icon": "https://iili.io/FZ94jv2.png"
+  },
+  {
+    "id": "Marruecos",
+    "title": "Marruecos",
+    "tricode": "MAR",
+    "icon": "https://iili.io/FZ94OT7.png"
+  },
+  {
+    "id": "Moldavia",
+    "title": "Moldavia",
+    "tricode": "MDA",
+    "icon": "https://iili.io/FZ94ej9.png"
+  },
+  {
+    "id": "México",
+    "title": "México",
+    "tricode": "MEX",
+    "icon": "https://iili.io/FZ94kQe.png"
+  },
+  {
+    "id": "Mónaco",
+    "title": "Mónaco",
+    "tricode": "MON",
+    "icon": "https://iili.io/FZ94SEb.png"
+  },
+  {
+    "id": "Países Bajos",
+    "title": "Países Bajos",
+    "tricode": "NED",
+    "icon": "https://iili.io/FZ94U4j.png"
+  },
+  {
+    "id": "Noruega",
+    "title": "Noruega",
+    "tricode": "NOR",
+    "icon": "https://iili.io/FZ944YQ.png"
+  },
+  {
+    "id": "Nueva Zelanda",
+    "title": "Nueva Zelanda",
+    "tricode": "NZL",
+    "icon": "https://iili.io/FZ946vV.png"
+  },
+  {
+    "id": "Pakistán",
+    "title": "Pakistán",
+    "tricode": "PAK",
+    "icon": "https://iili.io/FZ94QZF.png"
+  },
+  {
+    "id": "Paraguay",
+    "title": "Paraguay",
+    "tricode": "PAR",
+    "icon": "https://iili.io/FZ94tCg.png"
+  },
+  {
+    "id": "Perú",
+    "title": "Perú",
+    "tricode": "PER",
+    "icon": "https://iili.io/FZ94DGa.png"
+  },
+  {
+    "id": "Polonia",
+    "title": "Polonia",
+    "tricode": "POL",
+    "icon": "https://iili.io/FZ94yaR.png"
+  },
+  {
+    "id": "Portugal",
+    "title": "Portugal",
+    "tricode": "POR",
+    "icon": "https://iili.io/FZ96duI.png"
+  },
+  {
+    "id": "Rumania",
+    "title": "Rumania",
+    "tricode": "ROU",
+    "icon": "https://iili.io/FZ96duI.png"
+  },
+  {
+    "id": "Sudáfrica",
+    "title": "Sudáfrica",
+    "tricode": "RSA",
+    "icon": "https://iili.io/FZ963ZX.png"
+  },
+  {
+    "id": "Eslovenia",
+    "title": "Eslovaquia",
+    "tricode": "SLO",
+    "icon": "https://iili.io/FZ96q6G.png"
+  },
+  {
+    "id": "Serbia",
+    "title": "Serbia",
+    "tricode": "SRB",
+    "icon": "https://iili.io/FZ96o8l.png"
+  },
+  {
+    "id": "Suiza",
+    "title": "Suiza",
+    "tricode": "SUI",
+    "icon": "https://iili.io/FZ96z92.png"
+  },
+  {
+    "id": "Eslovakia",
+    "title": "Eslovaquia",
+    "tricode": "SVK",
+    "icon": "https://iili.io/FZ96IuS.png"
+  },
+  {
+    "id": "Suecia",
+    "title": "Suecia",
+    "tricode": "SWE",
+    "icon": "https://iili.io/FZ96Tw7.png"
+  },
+  {
+    "id": "Tailandia",
+    "title": "Tailandia",
+    "tricode": "THA",
+    "icon": "https://iili.io/FZ96ut9.png"
+  },
+  {
+    "id": "Togo",
+    "title": "Togo",
+    "tricode": "TOG",
+    "icon": "https://iili.io/FZ96Rne.png"
+  },
+  {
+    "id": "China Taipei",
+    "title": "China Taipei",
+    "tricode": "TPE",
+    "icon": "https://iili.io/FZ965Mu.png"
+  },
+  {
+    "id": "Túnez",
+    "title": "Túnez",
+    "tricode": "TUN",
+    "icon": "https://iili.io/FZ9676b.png"
+  },
+  {
+    "id": "Turquía",
+    "title": "Turquía",
+    "tricode": "TUR",
+    "icon": "https://iili.io/FZ96aFj.png"
+  },
+  {
+    "id": "Ucrania",
+    "title": "Ucrania",
+    "tricode": "UKR",
+    "icon": "https://iili.io/FZ96ccx.png"
+  },
+  {
+    "id": "Uruguay",
+    "title": "Uruguay",
+    "tricode": "URU",
+    "icon": "https://iili.io/FZ96l8Q.png"
+  },
+  {
+    "id": "Estados Unidos",
+    "title": "Estados Unidos",
+    "tricode": "USA",
+    "icon": "https://iili.io/FZ96EAB.png"
+  },
+  {
+    "id": "Uzbequistán",
+    "title": "Uzbequistán",
+    "tricode": "UZB",
+    "icon": "https://iili.io/FZ96GwP.png"
+  },
+  {
+    "id": "Vietnam",
+    "title": "Vietnam",
+    "tricode": "VIE",
+    "icon": "https://iili.io/FZ96Mt1.png"
+  },
+  {
+    "id": "Zimbabue",
+    "title": "Zimbabue",
+    "tricode": "ZIM",
+    "icon": "https://iili.io/FZ96WoF.png"
+  }
+]
