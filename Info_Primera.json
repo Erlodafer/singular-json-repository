@@ -164,15 +164,15 @@
     "ticode": "DIC"
   },
   {
-    "id": "",
-    "title": "",
-    "icon": "",
-    "ticode": ""
+    "id": "CE Cantón Puerto El Flor",
+    "title": "Puerto Flor",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/5lBrSbmPSLBl3PtJzSFVeh_w207h244.png",
+    "ticode": "PEF"
   },
   {
-    "id": "",
-    "title": "",
-    "icon": "",
-    "ticode": ""
+    "id": "CE República de China",
+    "title": "Rep. China",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/14IXpLf4hMpFgxJj3DdI2m_w374h474.png",
+    "ticode": "RCH"
   }
 ]
