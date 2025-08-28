@@ -150,5 +150,29 @@
     "dtr": "",
     "codef": "",
     "dtf": ""
+  },
+  {
+    "id": "Academia Británica Cuscatleca",
+    "title": "Academia Británica",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/3O5gVyc5r28rNNAAf94MyD_w597h623.png",
+    "ticode": "ABC"
+  },
+  {
+    "id": "CE Dr. Irinéo Chacón",
+    "title": "Dr. Irinéo",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0tPIeSl0ydaNxEDns9PcAE_w348h445.png",
+    "ticode": "DIC"
+  },
+  {
+    "id": "",
+    "title": "",
+    "icon": "",
+    "ticode": ""
+  },
+  {
+    "id": "",
+    "title": "",
+    "icon": "",
+    "ticode": ""
   }
 ]
