@@ -174,5 +174,16 @@
     "title": "Rep. China",
     "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/14IXpLf4hMpFgxJj3DdI2m_w374h474.png",
     "ticode": "RCH"
-  }
+  },
+  {
+    "id": "Team Yanira",
+    "title": "Yanira",
+    "ticode": "YAN",
+    "icon": "https://iili.io/FZ96yiu.png"
+  },
+  {
+    "id": "Team Shantal",
+    "title": "Shantal",
+    "ticode": "SHA",
+    "icon": "https:
 ]
