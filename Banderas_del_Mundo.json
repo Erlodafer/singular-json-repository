@@ -422,13 +422,13 @@
    {
     "id": "Team Yanira",
     "title": "Yanira",
-    "ticode": "YAN",
+    "tricode": "YAN",
     "icon": "https://iili.io/FZ96yiu.png"
   },
   {
     "id": "Team Shantal",
     "title": "Shantal",
-    "ticode": "SHA",
+    "tricode": "SHA",
     "icon": "https://iili.io/FZ96yiu.png"
   }
 ]
