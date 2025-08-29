@@ -418,5 +418,17 @@
     "title": "Zimbabue",
     "tricode": "ZIM",
     "icon": "https://iili.io/FZ96WoF.png"
+  },
+   {
+    "id": "Team Yanira",
+    "title": "Yanira",
+    "tricode": "ESA",
+    "icon": "https://iili.io/FZ96yiu.png"
+  },
+  {
+    "id": "Team Shantal",
+    "title": "Shantal",
+    "tricode": "ESA",
+    "icon": "https://iili.io/FZ96yiu.png"
   }
 ]
