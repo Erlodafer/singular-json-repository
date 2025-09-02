@@ -1,0 +1,20 @@
+[
+	{
+		"id": "El Salvador",
+		"title": "El Salvador",
+		"icon": "https://iili.io/Kq2u07a.png",
+		"tricode": "SLV"
+	},
+  {
+		"id": "Real Betis",
+		"title": "Betis",
+		"icon": "https://iili.io/Kq27H4S.png",
+		"tricode": "BET"
+	},
+  {
+		"id": "",
+		"title": "",
+		"icon": "",
+		"tricode": ""
+	}
+]
