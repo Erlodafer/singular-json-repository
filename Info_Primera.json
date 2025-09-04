@@ -3,7 +3,7 @@
     "id": "C.D. Águila",
     "title": "Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
-    1 "Agu",
+    "tricode": "Agu",
     "coder": "AGUILA!A1:B85",
     "dtr": "Hérbert Coreas",
     "codef": "AGUILA!A1:B85",
@@ -130,15 +130,5 @@
     "dtr": "David Hernández",
     "codef": "PLATENSE!A1:B85",
     "dtf": "Everist Martínez"
-  },
-  {
-    "id": "El Salvador",
-    "title": "El Salvador",
-    "icon": "https://iili.io/FGk0lMN.jpg",
-    "ticode": "ESA",
-    "coder": "",
-    "dtr": "",
-    "codef": "",
-    "dtf": ""
   }
 ]
