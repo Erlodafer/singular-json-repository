@@ -53,7 +53,7 @@
     "coder": "FIRPO!A1:B85",
     "dtr": "Ever Mejía",
     "codef": "FIRPO!A1:B85",
-    "dtf": "Jaime Jungblunth"
+    "dtf": "Jaime Jungbluth"
   },
   {
     "id": "C.D. Fuerte San Francisco",
@@ -70,7 +70,7 @@
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
-    "coder": "HERCULES!A1:B66",
+    "coder": "HERCULES!A1:B85",
     "dtr": "Santiago Iraheta",
     "codef": "HERCULES!A1:B85",
     "dtf": "Gilberto Campos"
@@ -108,27 +108,3 @@
     "tricode": "Met",
     "coder": "METAPAN!A1:B85",
     "dtr": "José Tobar",
-    "codef": "METAPAN!A1:B85",
-    "dtf": "José Figueroa"
-  },
-  {
-    "id": "Zacatecoluca FC",
-    "title": "Zacate",
-    "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
-    "tricode": "ZFC",
-    "coder": "ZACATE!A1:B85",
-    "dtr": "Eduardo Lara",
-    "codef": "ZACATE!A1:B85",
-    "dtf": "Ivan Ruiz"
-  },
-  {
-    "id": "C.D. Platense",
-    "title": "Platense",
-    "icon": "https://iili.io/FOMoVQn.png",
-    "tricode": "PLA",
-    "coder": "PLATENSE!A1:B85",
-    "dtr": "David Hernández",
-    "codef": "PLATENSE!A1:B85",
-    "dtf": "Everist Martínez"
-  }
-]
