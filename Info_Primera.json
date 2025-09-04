@@ -3,7 +3,7 @@
     "id": "C.D. Águila",
     "title": "Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
-    "ticode": "Agu",
+    1 "Agu",
     "coder": "AGUILA!A1:B85",
     "dtr": "Hérbert Coreas",
     "codef": "AGUILA!A1:B85",
@@ -13,7 +13,7 @@
     "id": "Alianza F.C.",
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
-    "ticode": "Ali",
+    "tricode": "Ali",
     "coder": "ALIANZA!A1:B85",
     "dtr": "Marcos Portillo"
   },
@@ -21,7 +21,7 @@
     "id": "Alianza Women",
     "title": "Alianza F",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
-    "ticode": "Ali",
+    "tricode": "Ali",
     "codef": "ALIANZA!A1:B85",
     "dtf": "Luis Sosa"
   },
@@ -29,7 +29,7 @@
     "id": "C.D. Cacahuatique",
     "title": "Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
-    "ticode": "Cah",
+    "tricode": "Cah",
     "coder": "CACAHUA!A1:B85",
     "dtr": "José González",
     "codef": "CACAHUA!A1:B85",
@@ -39,7 +39,7 @@
     "id": "C.D. FAS",
     "title": "FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
-    "ticode": "FAS",
+    "tricode": "FAS",
     "coder": "FAS!A1:B85",
     "dtr": "Vidal Jiménez",
     "codef": "FAS!A1:B85",
@@ -49,7 +49,7 @@
     "id": "L.A. Firpo",
     "title": "Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
-    "ticode": "Fir",
+    "tricode": "Fir",
     "coder": "FIRPO!A1:B85",
     "dtr": "Ever Mejía",
     "codef": "FIRPO!A1:B85",
@@ -59,7 +59,7 @@
     "id": "C.D. Fuerte San Francisco",
     "title": "Fuerte SF",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
-    "ticode": "FSF",
+    "tricode": "FSF",
     "coder": "FUERTE!A1:B85",
     "dtr": "Marvin Rivera",
     "codef": "FUERTE!A1:B85",
@@ -69,7 +69,7 @@
     "id": "C.D. Hércules",
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
-    "ticode": "CDH",
+    "tricode": "CDH",
     "coder": "HERCULES!A1:B66",
     "dtr": "Santiago Iraheta",
     "codef": "HERCULES!A1:B85",
@@ -79,7 +79,7 @@
     "id": "Inter FA",
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
-    "ticode": "IFA",
+    "tricode": "IFA",
     "coder": "INTER!A1:B85",
     "dtr": "Cristian López"
   },
@@ -87,7 +87,7 @@
     "id": "Inter F.A.",
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
-    "ticode": "IFA",
+    "tricode": "IFA",
     "codef": "INTER!A1:B85",
     "dtf": "Dalila Guerra"
   },
@@ -95,7 +95,7 @@
     "id": "C.D. Municipal Limeño",
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
-    "ticode": "Lim",
+    "tricode": "Lim",
     "coder": "LIMEÑO!A1:B85",
     "dtr": "Marvin Rosales",
     "codef": "LIMEÑO!A1:B85",
@@ -105,7 +105,7 @@
     "id": "A.D. Isidro Metapán",
     "title": "Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
-    "ticode": "Met",
+    "tricode": "Met",
     "coder": "METAPAN!A1:B85",
     "dtr": "José Tobar",
     "codef": "METAPAN!A1:B85",
@@ -115,7 +115,7 @@
     "id": "Zacatecoluca FC",
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
-    "ticode": "ZFC",
+    "tricode": "ZFC",
     "coder": "ZACATE!A1:B85",
     "dtr": "Eduardo Lara",
     "codef": "ZACATE!A1:B85",
@@ -125,7 +125,7 @@
     "id": "C.D. Platense",
     "title": "Platense",
     "icon": "https://iili.io/FOMoVQn.png",
-    "ticode": "PLA",
+    "tricode": "PLA",
     "coder": "PLATENSE!A1:B85",
     "dtr": "David Hernández",
     "codef": "PLATENSE!A1:B85",
@@ -140,51 +140,5 @@
     "dtr": "",
     "codef": "",
     "dtf": ""
-  },
-  {
-    "id": "Honduras",
-    "title": "Honduras",
-    "icon": "https://iili.io/Fsz90FV.jpg",
-    "ticode": "HON",
-    "coder": "",
-    "dtr": "",
-    "codef": "",
-    "dtf": ""
-  },
-  {
-    "id": "Academia Británica Cuscatleca",
-    "title": "Academia Británica",
-    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/3O5gVyc5r28rNNAAf94MyD_w597h623.png",
-    "ticode": "ABC"
-  },
-  {
-    "id": "CE Dr. Irinéo Chacón",
-    "title": "Dr. Irinéo",
-    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0tPIeSl0ydaNxEDns9PcAE_w348h445.png",
-    "ticode": "DIC"
-  },
-  {
-    "id": "CE Cantón Puerto El Flor",
-    "title": "Puerto Flor",
-    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/5lBrSbmPSLBl3PtJzSFVeh_w207h244.png",
-    "ticode": "PEF"
-  },
-  {
-    "id": "CE República de China",
-    "title": "Rep. China",
-    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/14IXpLf4hMpFgxJj3DdI2m_w374h474.png",
-    "ticode": "RCH"
-  },
-  {
-    "id": "Team Yanira",
-    "title": "Yanira",
-    "ticode": "YAN",
-    "icon": "https://iili.io/FZ96yiu.png"
-  },
-  {
-    "id": "Team Shantal",
-    "title": "Shantal",
-    "ticode": "SHA",
-    "icon": "https://iili.io/FZ96yiu.png"
   }
 ]
