@@ -108,3 +108,27 @@
     "tricode": "Met",
     "coder": "METAPAN!A1:B85",
     "dtr": "José Tobar",
+    "codef": "METAPAN!A1:B85",
+    "dtf": "José Figueroa"
+  },
+  {
+    "id": "Zacatecoluca FC",
+    "title": "Zacate",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
+    "tricode": "ZFC",
+    "coder": "ZACATE!A1:B85",
+    "dtr": "Eduardo Lara",
+    "codef": "ZACATE!A1:B85",
+    "dtf": "Ivan Ruiz"
+  },
+  {
+    "id": "C.D. Platense",
+    "title": "Platense",
+    "icon": "https://iili.io/FOMoVQn.png",
+    "tricode": "PLA",
+    "coder": "PLATENSE!A1:B85",
+    "dtr": "David Hernández",
+    "codef": "PLATENSE!A1:B85",
+    "dtf": "Everist Martínez"
+  }
+]
