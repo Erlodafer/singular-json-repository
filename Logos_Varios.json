@@ -16,5 +16,52 @@
 		"title": "",
 		"icon": "",
 		"tricode": ""
-	}
+	},
+	,
+  {
+    "id": "Honduras",
+    "title": "Honduras",
+    "icon": "https://iili.io/Fsz90FV.jpg",
+    "tricode": "HON",
+    "coder": "",
+    "dtr": "",
+    "codef": "",
+    "dtf": ""
+  },
+  {
+    "id": "Academia Británica Cuscatleca",
+    "title": "Academia Británica",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/3O5gVyc5r28rNNAAf94MyD_w597h623.png",
+    "tricode": "ABC"
+  },
+  {
+    "id": "CE Dr. Irinéo Chacón",
+    "title": "Dr. Irinéo",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0tPIeSl0ydaNxEDns9PcAE_w348h445.png",
+    "tricode": "DIC"
+  },
+  {
+    "id": "CE Cantón Puerto El Flor",
+    "title": "Puerto Flor",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/5lBrSbmPSLBl3PtJzSFVeh_w207h244.png",
+    "tricode": "PEF"
+  },
+  {
+    "id": "CE República de China",
+    "title": "Rep. China",
+    "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/14IXpLf4hMpFgxJj3DdI2m_w374h474.png",
+    "tricode": "RCH"
+  },
+  {
+    "id": "Team Yanira",
+    "title": "Yanira",
+    "tricode": "YAN",
+    "icon": "https://iili.io/FZ96yiu.png"
+  },
+  {
+    "id": "Team Shantal",
+    "title": "Shantal",
+    "tricode": "SHA",
+    "icon": "https://iili.io/FZ96yiu.png"
+  }
 ]
