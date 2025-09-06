@@ -63,5 +63,11 @@
     "title": "Shantal",
     "tricode": "SHA",
     "icon": "https://iili.io/FZ96yiu.png"
-  }
+  },
+	{
+		"id". "Atlético de Madrid",
+		"title": "Atl. Madrid",
+		"tricode": "ATM",
+		"icon": "https://iili.io/Kn8LzKJ.png"
+	}
 ]
