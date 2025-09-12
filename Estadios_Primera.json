@@ -15,12 +15,12 @@
     "municipio": "Santa Ana"
   },
   {
-    "id": "José Gregorio Martínez",
-    "title": "J. Gregorio Martínez",
+    "id": "Est. José Gregorio Martínez",
+    "title": "Gregorio Martínez",
     "municipio": "Chalatenango"
   },
   {
-    "id": "Juan Francisco Barraza",
+    "id": "Est. Juan Francisco Barraza",
     "title": "Barraza",
     "municipio": "San Miguel"
   },
@@ -68,5 +68,10 @@
     "id": "Est. Municipal de Quelepa",
     "title": "Est Quelepa",
     "municipio": "Quelepa"
+  },
+  {
+    "id": "Estadio Correcaminos",
+    "title": "Correcaminos",
+    "municipio": "San Francisco Gotera"
   }
 ]
