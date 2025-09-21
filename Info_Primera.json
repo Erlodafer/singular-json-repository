@@ -6,7 +6,7 @@
     "tricode": "Agu",
     "coder": "AGUILA!A1:B85",
     "dtr": "Hérbert Coreas",
-    "codef": "AGUILA!A1:B85",
+    "codef": "AGUILA!A1:B110",
     "dtf": "Amilcar Guzmán"
   },
   {
@@ -14,7 +14,7 @@
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
-    "coder": "ALIANZA!A1:B85",
+    "coder": "ALIANZA!A1:B110",
     "dtr": "Marcos Portillo"
   },
   {
@@ -22,7 +22,7 @@
     "title": "Alianza Fem",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "tricode": "Ali",
-    "codef": "ALIANZA!A1:B85",
+    "codef": "ALIANZA!A1:B110",
     "dtf": "Luis Sosa"
   },
   {
@@ -30,9 +30,9 @@
     "title": "Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
-    "coder": "CACAHUA!A1:B85",
+    "coder": "CACAHUA!A1:B110",
     "dtr": "José González",
-    "codef": "CACAHUA!A1:B85",
+    "codef": "CACAHUA!A1:B110",
     "dtf": "Pascual Orellana"
   },
   {
@@ -40,9 +40,9 @@
     "title": "FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
-    "coder": "FAS!A1:B85",
+    "coder": "FAS!A1:B110",
     "dtr": "Vidal Jiménez",
-    "codef": "FAS!A1:B85",
+    "codef": "FAS!A1:B110",
     "dtf": "Edwin Deras"
   },
   {
@@ -50,9 +50,9 @@
     "title": "Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
-    "coder": "FIRPO!A1:B85",
+    "coder": "FIRPO!A1:B110",
     "dtr": "Ever Mejía",
-    "codef": "FIRPO!A1:B85",
+    "codef": "FIRPO!A1:B110",
     "dtf": "Jaime Jungbluth"
   },
   {
@@ -60,9 +60,9 @@
     "title": "Fuerte SF",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
-    "coder": "FUERTE!A1:B85",
+    "coder": "FUERTE!A1:B110",
     "dtr": "Marvin Rivera",
-    "codef": "FUERTE!A1:B85",
+    "codef": "FUERTE!A1:B110",
     "dtf": "Marvin García"
   },
   {
@@ -70,9 +70,9 @@
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
-    "coder": "HERCULES!A1:B85",
+    "coder": "HERCULES!A1:B110",
     "dtr": "Santiago Iraheta",
-    "codef": "HERCULES!A1:B85",
+    "codef": "HERCULES!A1:B110",
     "dtf": "Gilberto Campos"
   },
   {
@@ -80,7 +80,7 @@
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
-    "coder": "INTER!A1:B85",
+    "coder": "INTER!A1:B110",
     "dtr": "Cristian López"
   },
   {
@@ -88,7 +88,7 @@
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "tricode": "IFA",
-    "codef": "INTER!A1:B85",
+    "codef": "INTER!A1:B110",
     "dtf": "Dalila Guerra"
   },
   {
@@ -96,9 +96,9 @@
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
-    "coder": "LIMEÑO!A1:B85",
+    "coder": "LIMEÑO!A1:B110",
     "dtr": "Marvin Rosales",
-    "codef": "LIMEÑO!A1:B85",
+    "codef": "LIMEÑO!A1:B110",
     "dtf": "Edwin Prudencio"
   },
   {
@@ -106,9 +106,9 @@
     "title": "Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
-    "coder": "METAPAN!A1:B85",
+    "coder": "METAPAN!A1:B110",
     "dtr": "José Tobar",
-    "codef": "METAPAN!A1:B85",
+    "codef": "METAPAN!A1:B110",
     "dtf": "José Figueroa"
   },
   {
@@ -116,9 +116,9 @@
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
-    "coder": "ZACATE!A1:B85",
+    "coder": "ZACATE!A1:B110",
     "dtr": "Eduardo Lara",
-    "codef": "ZACATE!A1:B85",
+    "codef": "ZACATE!A1:B110",
     "dtf": "Ivan Ruiz"
   },
   {
@@ -126,9 +126,9 @@
     "title": "Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
-    "coder": "PLATENSE!A1:B85",
+    "coder": "PLATENSE!A1:B110",
     "dtr": "David Hernández",
-    "codef": "PLATENSE!A1:B85",
+    "codef": "PLATENSE!A1:B110",
     "dtf": "Everist Martínez"
   }
 ]
