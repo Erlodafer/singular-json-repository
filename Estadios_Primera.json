@@ -74,5 +74,10 @@
     "id": "Estadio Correcaminos",
     "title": "Correcaminos",
     "municipio": "San Francisco Gotera"
+  },
+  {
+    "id": "Estadio Municipal de Chapeltique",
+    "title": "Chapeltique",
+    "municipio": "Chapeltique"
   }
 ]
