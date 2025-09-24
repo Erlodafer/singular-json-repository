@@ -76,6 +76,14 @@
     "dtf": "Gilberto Campos"
   },
   {
+    "id": "Inter F.A.",
+    "title": "Inter M",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
+    "tricode": "IFA",
+    "coder": "INTER!A1:B110",
+    "dtr": "Cristian López"
+  },
+  {
     "id": "Inter Women F.A.",
     "title": "Inter F",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
