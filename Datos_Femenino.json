@@ -52,10 +52,8 @@
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
-    "coder": "HERCULES!A1:B110",
-    "dtr": "Santiago Iraheta",
-    "codef": "HERCULES!A1:B110",
-    "dtf": "Gilberto Campos"
+    "code": "HERCULES!A1:B110",
+    "dt": "Gilberto Campos"
   },
   {
     "id": "Inter Women F.A.",
