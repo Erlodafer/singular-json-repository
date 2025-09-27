@@ -9,7 +9,7 @@
   },
   {
     "id": "Alianza Women F.C.",
-    "title": "Alianza Fem",
+    "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "tricode": "Ali",
     "code": "ALIANZA!A1:B110",
@@ -71,7 +71,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "code": "LIMEÑO!A1:B110",
-    "dtf: "Edwin Prudencio"
+    "dt": "Edwin Prudencio"
   },
   {
     "id": "A.D. Isidro Metapán",
