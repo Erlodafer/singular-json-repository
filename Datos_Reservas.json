@@ -4,131 +4,95 @@
     "title": "Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
-    "coder": "AGUILA!A1:B85",
-    "dtr": "Hérbert Coreas",
-    "codef": "AGUILA!A1:B110",
-    "dtf": "Giovanni Zapata"
+    "code": "AGUILA!A1:B85",
+    "dt": "Hérbert Coreas"
   },
   {
     "id": "Alianza F.C.",
     "title": "Alianza",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
-    "coder": "ALIANZA!A1:B110",
-    "dtr": "Luis Sosa"
-  },
-  {
-    "id": "Alianza Women F.C.",
-    "title": "Alianza Fem",
-    "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
-    "tricode": "Ali",
-    "codef": "ALIANZA!A1:B110",
-    "dtf": "Luis Sosa"
+    "code": "ALIANZA!A1:B110",
+    "dt": "Luis Sosa"
   },
   {
     "id": "C.D. Cacahuatique",
     "title": "Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
-    "coder": "CACAHUA!A1:B110",
-    "dtr": "Manuel González",
-    "codef": "CACAHUA!A1:B110",
-    "dtf": "Pascual Orellana"
+    "code": "CACAHUA!A1:B110",
+    "dt": "Manuel González"
   },
   {
     "id": "C.D. FAS",
     "title": "FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
-    "coder": "FAS!A1:B110",
-    "dtr": "Vidal Jiménez",
-    "codef": "FAS!A1:B110",
-    "dtf": "Edwin Deras"
+    "code": "FAS!A1:B110",
+    "dt": "Vidal Jiménez"
   },
   {
     "id": "C.D. Luis Ángel Firpo",
     "title": "Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
-    "coder": "FIRPO!A1:B110",
-    "dtr": "Ever Mejía",
-    "codef": "FIRPO!A1:B110",
-    "dtf": "Jaime Jungbluth"
+    "code": "FIRPO!A1:B110",
+    "dt": "Ever Mejía"
   },
   {
     "id": "C.D. Fuerte San Francisco",
     "title": "Fuerte SF",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
-    "coder": "FUERTE!A1:B110",
-    "dtr": "Marvin Rivera",
-    "codef": "FUERTE!A1:B110",
-    "dtf": "Marvin García"
+    "code": "FUERTE!A1:B110",
+    "dt": "Marvin Rivera"
   },
   {
     "id": "C.D. Hércules",
     "title": "Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
-    "coder": "HERCULES!A1:B110",
-    "dtr": "Santiago Iraheta",
-    "codef": "HERCULES!A1:B110",
-    "dtf": "Gilberto Campos"
+    "code": "HERCULES!A1:B110",
+    "dt": "Santiago Iraheta"
   },
   {
     "id": "Inter F.A.",
     "title": "Inter M",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
-    "coder": "INTER!A1:B110",
-    "dtr": "Cristian López"
-  },
-  {
-    "id": "Inter Women F.A.",
-    "title": "Inter F",
-    "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
-    "tricode": "IFA",
-    "codef": "INTER!A1:B110",
-    "dtf": "Dalila Guerra"
+    "code": "INTER!A1:B110",
+    "dt": "Cristian López"
   },
   {
     "id": "C.D. Municipal Limeño",
     "title": "Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
-    "coder": "LIMEÑO!A1:B110",
-    "dtr": "Marvin Rosales",
-    "codef": "LIMEÑO!A1:B110",
-    "dtf": "Edwin Prudencio"
+    "code": "LIMEÑO!A1:B110",
+    "dt": "Marvin Rosales"
   },
   {
     "id": "A.D. Isidro Metapán",
     "title": "Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
-    "coder": "METAPAN!A1:B110",
-    "dtr": "José Tobar",
-    "codef": "METAPAN!A1:B110",
-    "dtf": "José Figueroa"
+    "code": "METAPAN!A1:B110",
+    "dt": "José Tobar"
   },
   {
     "id": "Zacatecoluca FC",
     "title": "Zacate",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
-    "coder": "ZACATE!A1:B110",
-    "dtr": "Eduardo Lara",
-    "codef": "ZACATE!A1:B110",
-    "dtf": "Ivan Ruiz"
+    "code": "ZACATE!A1:B110",
+    "dt": "Eduardo Lara"
   },
   {
     "id": "C.D. Platense",
     "title": "Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
-    "coder": "PLATENSE!A1:B110",
-    "dtr": "David Hernández",
-    "codef": "PLATENSE!A1:B110",
-    "dtf": "Everist Martínez"
+    "code": "PLATENSE!A1:B110",
+    "dt": "David Hernández"
   }
 ]
