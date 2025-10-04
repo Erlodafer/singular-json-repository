@@ -436,5 +436,11 @@
     "title": "Shantal",
     "tricode": "SHA",
     "icon": "https://iili.io/FZ96yiu.png"
+  },
+  {
+    "id": "Colombia / Estados Unidos",
+    "title": "Colusa"
+    "tricode": "",
+    "icon": "https://iili.io/KWmx2ls.png"
   }
 ]
