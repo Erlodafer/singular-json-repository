@@ -69,11 +69,11 @@
     "title": "Black or White",
     "icon": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0YiqNJjNC7JKFjh0IY1ORZ_w209h209.png",
     "payload": {
-      "Color 1": "585858",
+      "Color 1": "ff0000",
       "Text Color 1": "FFFFFF",
-      "Color 2": "343434",
+      "Color 2": "0024ff",
       "Text Color 2": "FFFFFF",
-      "Color 3": "000000",
+      "Color 3": "f6ff00",
       "Text Color 3": "FFFFFF"
     }
   }
