@@ -1,1 +1,73 @@
-[{"id":"001c6c","title":"Aqua","icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/2FPCjKLznWcGz7BpVOTpNF_w209h209.png","payload":{"Color 1":"006444","Text Color 1":"FFFFFF","Color 2":"5cffba","Text Color 2":"#083222","Color 3":"5cffba","Text Color 3":"0E0E0E"}},{"id":"00008f","title":"Deepsea","icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/72v7nFxn63wVW46XX91pVd_w209h209.png","payload":{"Color 1":"00008f","Text Color 1":"FFFFFF","Color 2":"009dff","Text Color 2":"000056","Color 3":"022874","Text Color 3":"FFFFFF"}},{"id":"24003d","title":"Berry","icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/29QybJfvnTN8rwbeTMP9bG_w209h209.png","payload":{"Color 1":"24003d","Text Color 1":"FFFFFF","Color 2":"a013ff","Text Color 2":"#160025","Color 3":"3e2960","Text Color 3":"FFFFFF"}},{"id":"450313","title":"Merlot","icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/5QAUnFHyu4a5GsPkKGAoZs_w209h209.png","payload":{"Color 1":"450313","Text Color 1":"FFFFFF","Color 2":"ff0035","Text Color 2":"#2A030C","Color 3":"690808","Text Color 3":"FFFFFF"}},{"id":"1B5603","title":"Fairy","icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/3w7QOxZQcgrSZdaZdEPJ3Q_w209h209.png","payload":{"Color 1":"1B5603","Text Color 1":"FFFFFF","Color 2":"81ff47","Text Color 2":"#103406","Color 3":"690808","Text Color 3":"FFFFFF"}}]
+[
+  {
+    "id":"001c6c",
+    "title":"Aqua",
+    "icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/2FPCjKLznWcGz7BpVOTpNF_w209h209.png",
+    "payload":{"Color 1":"006444",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"5cffba",
+      "Text Color 2":"#083222",
+      "Color 3":"5cffba",
+      "Text Color 3":"0E0E0E"
+    }
+  },
+  {
+    "id":"00008f",
+    "title":"Deepsea",
+    "icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/72v7nFxn63wVW46XX91pVd_w209h209.png",
+    "payload":{"Color 1":"00008f",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"009dff",
+      "Text Color 2":"000056",
+      "Color 3":"022874",
+      "Text Color 3":"FFFFFF"
+    }
+  },
+  {
+    "id":"24003d",
+    "title":"Berry",
+    "icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/29QybJfvnTN8rwbeTMP9bG_w209h209.png",
+    "payload":{"Color 1":"24003d",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"a013ff",
+      "Text Color 2":"#160025",
+      "Color 3":"3e2960",
+      "Text Color 3":"FFFFFF"
+    }
+  },
+  {
+    "id":"450313",
+    "title":"Merlot",
+    "icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/5QAUnFHyu4a5GsPkKGAoZs_w209h209.png",
+    "payload":{"Color 1":"450313",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"ff0035",
+      "Text Color 2":"#2A030C",
+      "Color 3":"690808",
+      "Text Color 3":"FFFFFF"
+    }
+  },
+  {
+    "id":"1B5603",
+    "title":"Fairy",
+    "icon":"https://image.singular.live/7072b13f9e20b98034f48d6202400ff9/images/3w7QOxZQcgrSZdaZdEPJ3Q_w209h209.png",
+    "payload":{"Color 1":"1B5603",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"81ff47",
+      "Text Color 2":"#103406",
+      "Color 3":"690808",
+      "Text Color 3":"FFFFFF"
+    },
+  {
+    "id":"000000",
+    "title":"Black or White",
+    "icon":"https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0YiqNJjNC7JKFjh0IY1ORZ_w209h209.png",
+    "payload":{"Color 1":"000000",
+      "Text Color 1":"FFFFFF",
+      "Color 2":"FFFFFF",
+      "Text Color 2":"#000000",
+      "Color 3":"000000",
+      "Text Color 3":"FFFFFF"
+    }
+  }
+]
