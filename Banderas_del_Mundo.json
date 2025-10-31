@@ -122,7 +122,7 @@
   {
     "id": "Estonia",
     "title": "Estonia",
-    "tricode": "Est",
+    "tricode": "EST",
     "icon": "https://iili.io/FZ9PHKb.png"
   },
   {
@@ -425,7 +425,7 @@
     "tricode": "ZIM",
     "icon": "https://iili.io/FZ96WoF.png"
   },
-   {
+  {
     "id": "Team Yanira",
     "title": "Yanira",
     "tricode": "YAN",
@@ -439,7 +439,7 @@
   },
   {
     "id": "Colombia / Estados Unidos",
-    "title": "Colusa"
+    "title": "Colusa",
     "tricode": "",
     "icon": "https://iili.io/KWmx2ls.png"
   }
