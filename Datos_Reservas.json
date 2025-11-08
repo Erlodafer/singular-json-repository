@@ -94,5 +94,21 @@
     "tricode": "PLA",
     "code": "PLATENSE!A1:B110",
     "dt": "David Hernández"
+  },
+  {
+    "id": "Barcelona F.C.",
+    "title": "Barcelona",
+    "icon": "https://iili.io/KDVGiog.png",
+    "tricode": "BAR",
+    "code": "BARCELONA!A1:B110",
+    "dt": ""
+  },
+  {
+    "id": "Real Madrid",
+    "title": "Real Madrid",
+    "icon": "https://iili.io/KDVGsVa.png",
+    "tricode": "RMD",
+    "code": "MANDRIL!A1:B110",
+    "dt": ""
   }
 ]
