@@ -94,31 +94,6 @@
     "tricode": "PLA",
     "code": "PLATENSE!A1:B110",
     "dt": "David Hernández"
-  },
-  {
-    "id": "Gol",
-    "title": "Gol",
-    "color": "00ff00"
-  },
-  {
-    "id": "Auto-Gol",
-    "title": "Auto-Gol",
-    "color": "00ff00"
-  },
-  {
-    "id": "Amarilla",
-    "title": "Tarjeta Amarilla",
-    "color": "ffff00"
-  },
-  {
-    "id": "Doble-Amarilla",
-    "title": "Doble-Amarilla",
-    "color": "ffff00"
-  },
-  {
-    "id": "Roja",
-    "title": "Tarjeta Roja",
-    "color": "ff0000"
   }
 ]
 
