@@ -103,22 +103,22 @@
   {
     "id": "Auto-Gol",
     "title": "Auto-Gol",
-    "color": "00ff00"
+    "color": "#00ff00"
   },
   {
     "id": "Amarilla",
     "title": "Tarjeta Amarilla",
-    "color": "ffff00"
+    "color": "#ffff00"
   },
   {
     "id": "Doble-Amarilla",
     "title": "Doble-Amarilla",
-    "color": "ffff00"
+    "color": "#ffff00"
   },
   {
     "id": "Roja",
     "title": "Tarjeta Roja",
-    "color": "ff0000"
+    "color": "#ff0000"
   }
 ]
 
