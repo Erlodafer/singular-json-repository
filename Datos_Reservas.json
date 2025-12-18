@@ -96,19 +96,29 @@
     "dt": "David Hernández"
   },
   {
-    "id": "Barcelona F.C.",
-    "title": "Barcelona",
-    "icon": "https://iili.io/KDVGiog.png",
-    "tricode": "BAR",
-    "code": "BARCELONA!A1:B110",
-    "dt": ""
+    "id": "Gol",
+    "title": "Gol",
+    "color": "#00ff00",
   },
   {
-    "id": "Real Madrid",
-    "title": "Real Madrid",
-    "icon": "https://iili.io/KDVGsVa.png",
-    "tricode": "RMD",
-    "code": "MANDRIL!A1:B110",
-    "dt": ""
+    "id": "Auto-Gol",
+    "title": "Auto-Gol",
+    "color": "00ff00"
+  },
+  {
+    "id": "Amarilla",
+    "title": "Tarjeta Amarilla",
+    "color": "ffff00"
+  },
+  {
+    "id": "Doble-Amarilla",
+    "title": "Doble-Amarilla",
+    "color": "ffff00"
+  },
+  {
+    "id": "Roja",
+    "title": "Tarjeta Roja",
+    "color": "ff0000"
   }
 ]
+
