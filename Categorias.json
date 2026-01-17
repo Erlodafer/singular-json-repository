@@ -1,6 +1,26 @@
 [
   {
-  "id": "Reservas",
-  "
+    "id": "Sub-17",
+    "title": "Copa Chocovitos Sub-17",
+    "logo-1": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/4z4MypV5XmD2Jwp3y8Uqi0_w591h834.png",
+    "logo-2": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/4vwtLv6IMEG1eg6o8FalFT_w591h834.png"
+  },
+  {
+    "id": "Femenino",
+    "title": "Primera División de Fútbol Femenino",
+    "logo-1": "",
+    "logo-2": ""
+  },
+  {
+    "id": "Reservas",
+    "title": "Primera División de Fútbol Reservas",
+    "logo-1": "",
+    "logo-2": ""
+  },
+  {
+    "id": "Presidente"
+    "title": "Copa Presidente",
+    "logo-1": "",
+    "logo-2": ""
   }
 ]
