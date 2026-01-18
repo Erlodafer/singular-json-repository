@@ -3,89 +3,162 @@
     "id": "Estadio Cuscatlán",
     "title": "Cuscatlán",
     "municipio": "San Salvador",
-    "ubicación": "13.68129375077581, -89.22235254629238"
+    "ubicacion": {
+      "lat": 13.68129,
+      "long": -89.22235
+    }
   },
   {
     "id": "Est. Nac. Jorge 'El Mágico' González",
     "title": "Mágico",
-    "municipio": "San Salvador"
+    "municipio": "San Salvador",
+    "ubicacion": {
+      "lat": 13.69291,
+      "long": -89.21824
+    }
   },
   {
     "id": "Est. Óscar Alberto Quiteño",
     "title": "Quiteño",
-    "municipio": "Santa Ana"
+    "municipio": "Santa Ana",
+    "ubicacion": {
+      "lat": 13.99445,
+      "long": -89.55976
+    }
   },
   {
     "id": "Est. José Gregorio Martínez",
     "title": "Gregorio Martínez",
-    "municipio": "Chalatenango"
+    "municipio": "Chalatenango",
+    "ubicacion": {
+      "lat": 14.03333,
+      "long": -88.93333
+    }
   },
   {
     "id": "Est. Juan Francisco Barraza",
     "title": "Barraza",
-    "municipio": "San Miguel"
+    "municipio": "San Miguel",
+    "ubicacion": {
+      "lat": 13.48333,
+      "long": -88.18333
+    }
   },
   {
     "id": "Est. Nac. Las Delicias",
     "title": "Las Delicias",
-    "municipio": "Santa Tecla"
+    "municipio": "Santa Tecla",
+    "ubicacion": {
+      "lat": 13.67694,
+      "long": -89.27972
+    }
   },
   {
     "id": "Est. Jorge 'Calero' Suárez",
     "title": "Calero",
-    "municipio": "Metapán"
+    "municipio": "Metapán",
+    "ubicacion": {
+      "lat": 14.33306,
+      "long": -89.44694
+    }
   },
   {
     "id": "Est. Antonio Toledo Valle",
     "title": "Toledo Valle",
-    "municipio": "Zacatecoluca"
+    "municipio": "Zacatecoluca",
+    "ubicacion": {
+      "lat": 13.50694,
+      "long": -88.86972
+    }
   },
   {
     "id": "Est. Arturo Simeón Magaña",
     "title": "Magaña",
-    "municipio": "Ahuachapán"
+    "municipio": "Ahuachapán",
+    "ubicacion": {
+      "lat": 13.92194,
+      "long": -89.84528
+    }
   },
   {
     "id": "Est. Dr. Ramón Flores Berríos",
     "title": "Flores Berríos",
-    "municipio": "Santa Rosa de Lima"
+    "municipio": "Santa Rosa de Lima",
+    "ubicacion": {
+      "lat": 13.62417,
+      "long": -87.89389
+    }
   },
   {
     "id": "Est. Sergio Torres Rivera",
     "title": "Sergio T. Rivera",
-    "municipio": "Usulután"
+    "municipio": "Usulután",
+    "ubicacion": {
+      "lat": 13.34500,
+      "long": -88.43694
+    }
   },
   {
     "id": "Cancha Once Lobos",
     "title": "11 Lobos",
-    "municipio": "Chalchuapa"
+    "municipio": "Chalchuapa",
+    "ubicacion": {
+      "lat": 13.98667,
+      "long": -89.68028
+    }
   },
   {
     "id": "Cancha #1 FESFUT",
     "title": "FESFUT",
-    "municipio": "San Salvador"
+    "municipio": "San Salvador",
+    "ubicacion": {
+      "lat": 13.70639,
+      "long": -89.22056
+    }
   },
   {
     "id": "Est. Municipal de Quelepa",
     "title": "Est Quelepa",
-    "municipio": "Quelepa"
+    "municipio": "Quelepa",
+    "ubicacion": {
+      "lat": 13.59556,
+      "long": -88.28361
+    }
   },
   {
     "id": "Estadio Correcaminos",
     "title": "Correcaminos",
-    "municipio": "San Francisco Gotera"
+    "municipio": "San Francisco Gotera",
+    "ubicacion": {
+      "lat": 13.69806,
+      "long": -88.10361
+    }
   },
   {
     "id": "Estadio Municipal de Chapeltique",
     "title": "Chapeltique",
-    "municipio": "Chapeltique"
+    "municipio": "Chapeltique",
+    "ubicacion": {
+      "lat": 13.63333,
+      "long": -88.28333
+    }
   },
   {
     "id": "Estadio Municipal de Masahuat",
-    "title": "Masahuat"
+    "title": "Masahuat",
+    "municipio": "Masahuat",
+    "ubicacion": {
+      "lat": 13.77889,
+      "long": -89.63806
+    }
   },
   {
     "id": "Estadio Borja Castillo",
-    "title": "Borja Castillo"
+    "title": "Borja Castillo",
+    "municipio": "Sonsonate",
+    "ubicacion": {
+      "lat": 13.71917,
+      "long": -89.72417
+    }
   }
 ]
