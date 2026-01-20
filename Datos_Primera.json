@@ -1,99 +1,98 @@
 [
   {
-    "id": "C.D. Águila",
-    "title": "Águila",
+    "id": "Águila Reservas",
+    "title": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "code": "AGUILA!A1:B110",
     "dt": "Hérbert Coreas"
   },
   {
-    "id": "Alianza F.C.",
-    "title": "Alianza",
+    "id": "Alianza Reservas",
+    "title": "Alianza F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
     "code": "ALIANZA!A1:B110",
     "dt": "Luis Sosa"
   },
   {
-    "id": "C.D. Cacahuatique",
-    "title": "Cacahuatique",
+    "id": "Cacahuatique Reservas",
+    "title": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "code": "CACAHUA!A1:B110",
     "dt": "Manuel González"
   },
   {
-    "id": "C.D. FAS",
-    "title": "FAS",
+    "id": "FAS Reservas",
+    "title": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "code": "FAS!A1:B110",
     "dt": "Ricardo Mancía"
   },
   {
-    "id": "C.D. Luis Ángel Firpo",
-    "title": "Firpo",
+    "id": "Firpo Reservas",
+    "title": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "code": "FIRPO!A1:B110",
     "dt": "Ever Mejía"
   },
   {
-    "id": "C.D. Fuerte San Francisco",
-    "title": "Fuerte SF",
+    "id": "Fuerte SF Reservas",
+    "title": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "code": "FUERTE!A1:B110",
     "dt": "Marvin Rivera"
   },
   {
-    "id": "C.D. Hércules",
-    "title": "Hércules",
+    "id": "Hércules Reservas",
+    "title": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "code": "HERCULES!A1:B110",
     "dt": "Santiago Iraheta"
   },
   {
-    "id": "Inter F.A.",
-    "title": "Inter M",
+    "id": "Inter M Reservas",
+    "title": "Inter F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
     "code": "INTER!A1:B110",
     "dt": "Cristian López"
   },
   {
-    "id": "C.D. Municipal Limeño",
-    "title": "Limeño",
+    "id": "Limeño Reservas",
+    "title": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "code": "LIMEÑO!A1:B110",
     "dt": "Marvin Rosales"
   },
   {
-    "id": "A.D. Isidro Metapán",
-    "title": "Metapán",
+    "id": "Metapán Reservas",
+    "title": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "code": "METAPAN!A1:B110",
     "dt": "José Figueroa"
   },
   {
-    "id": "Zacatecoluca FC",
-    "title": "Zacate",
+    "id": "Zacate Reservas",
+    "title": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "code": "ZACATE!A1:B110",
     "dt": "Eduardo Lara"
   },
   {
-    "id": "C.D. Platense",
-    "title": "Platense",
+    "id": "Platense Reservas",
+    "title": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "code": "PLATENSE!A1:B110",
     "dt": "David Hernández"
   }
 ]
-
