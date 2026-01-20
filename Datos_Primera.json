@@ -1,7 +1,8 @@
 [
   {
-    "id": "Águila Reservas",
-    "title": "C.D. Águila",
+    "id": "agureservas",
+    "title": "Águila Reservas",
+    "eqName": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "dt": "Hérbert Coreas",
@@ -9,8 +10,9 @@
     "sheetRange": "Aguila!A1:B110"
   },
   {
-    "id": "Alianza Reservas",
-    "title": "Alianza F.C.",
+    "id": "alireservas",
+    "title": "Alianza Reservas",
+    "eqName": "Alianza F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
     "dt": "Luis Sosa",
@@ -18,8 +20,9 @@
     "sheetRange": "Alianza!A1:B110"
   },
   {
-    "id": "Cacahuatique Reservas",
-    "title": "C.D. Cacahuatique",
+    "id": "cahreservas",
+    "title": "Cacahuatique Reservas",
+    "eqName": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "dt": "Manuel González",
@@ -27,8 +30,9 @@
     "sheetRange": "Cacahuatique!A1:B110"
   },
   {
-    "id": "FAS Reservas",
-    "title": "C.D. FAS",
+    "id": "fasreservas",
+    "title": "FAS Reservas",
+    "eqName": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "dt": "Ricardo Mancía",
@@ -36,8 +40,9 @@
     "sheetRange": "FAS!A1:B110"
   },
   {
-    "id": "Firpo Reservas",
-    "title": "C.D. Luis Ángel Firpo",
+    "id": "firreservas",
+    "title": "Firpo Reservas",
+    "eqName": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "dt": "Ever Mejía",
@@ -45,8 +50,9 @@
     "sheetRange": "Firpo!A1:B110"
   },
   {
-    "id": "Fuerte SF Reservas",
-    "title": "C.D. Fuerte San Francisco",
+    "id": "fsfreservas",
+    "title": "Fuerte SF Reservas",
+    "eqName": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "dt": "Marvin Rivera",
@@ -54,8 +60,9 @@
     "sheetRange": "Fuerte!A1:B100"
   },
   {
-    "id": "Hércules Reservas",
-    "title": "C.D. Hércules",
+    "id": "cdhreservas",
+    "title": "Hércules Reservas",
+    "eqName": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "dt": "Santiago Iraheta",
@@ -63,8 +70,9 @@
     "sheetRange": "Hércules!A1:B110"
   },
   {
-    "id": "Inter M Reservas",
-    "title": "Inter F.A.",
+    "id": "ifareservas",
+    "title": "Inter M Reservas",
+    "eqName": "Inter F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
     "dt": "Cristian López",
@@ -72,8 +80,9 @@
     "sheetRange": "Inter M!A1:B110"
   },
   {
-    "id": "Limeño Reservas",
-    "title": "C.D. Municipal Limeño",
+    "id": "limreservas",
+    "title": "Limeño Reservas",
+    "eqName": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "dt": "Marvin Rosales",
@@ -81,8 +90,9 @@
     "sheetRange": "Limeño!A1:B110"
   },
   {
-    "id": "Metapán Reservas",
-    "title": "A.D. Isidro Metapán",
+    "id": "metreservas",
+    "title": "Metapán Reservas",
+    "eqName": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "dt": "José Figueroa",
@@ -90,8 +100,9 @@
     "sheetRange": "Metapán!A1:B110"
   },
   {
-    "id": "Zacate Reservas",
-    "title": "Zacatecoluca FC",
+    "id": "zfcreservas",
+    "title": "Zacate Reservas",
+    "eqName": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "dt": "Eduardo Lara",
@@ -99,8 +110,9 @@
     "sheetRange": "Zacate!A1:B110"
   },
   {
-    "id": "Platense Reservas",
-    "title": "C.D. Platense",
+    "id": "plareservas",
+    "title": "Platense Reservas",
+    "eqName": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "dt": "David Hernández",
@@ -108,8 +120,9 @@
     "sheetRange": "Platense!A1:B110"
   },
   {
-    "id": "Águila Sub17",
-    "title": "C.D. Águila",
+    "id": "agusub17",
+    "title": "Águila Sub17",
+    "eqName": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "dt": "Hérbert Coreas",
@@ -117,8 +130,9 @@
     "sheetRange": "Aguila!A1:B110"
   },
   {
-    "id": "Alianza Sub17",
-    "title": "Alianza F.C.",
+    "id": "alisub17",
+    "title": "Alianza Sub17",
+    "eqName": "Alianza F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
     "dt": "Luis Sosa",
@@ -126,8 +140,9 @@
     "sheetRange": "Alianza!A1:B110"
   },
   {
-    "id": "Cacahuatique Sub17",
-    "title": "C.D. Cacahuatique",
+    "id": "cahsub17",
+    "title": "Cacahuatique Sub17",
+    "eqName": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "dt": "Manuel González",
@@ -135,8 +150,9 @@
     "sheetRange": "Cacahuatique!A1:B110"
   },
   {
-    "id": "FAS Sub17",
-    "title": "C.D. FAS",
+    "id": "fassub17",
+    "title": "FAS Sub17",
+    "eqName": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "dt": "Ricardo Mancía",
@@ -144,8 +160,9 @@
     "sheetRange": "FAS!A1:B110"
   },
   {
-    "id": "Firpo Sub17",
-    "title": "C.D. Luis Ángel Firpo",
+    "id": "firsub17",
+    "title": "Firpo Sub17",
+    "eqName": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "dt": "Ever Mejía",
@@ -153,8 +170,9 @@
     "sheetRange": "Firpo!A1:B110"
   },
   {
-    "id": "Fuerte SF Sub17",
-    "title": "C.D. Fuerte San Francisco",
+    "id": "fsfsub17",
+    "title": "Fuerte SF Sub17",
+    "eqName": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "dt": "Marvin Rivera",
@@ -162,8 +180,9 @@
     "sheetRange": "Fuerte!A1:B100"
   },
   {
-    "id": "Hércules Sub17",
-    "title": "C.D. Hércules",
+    "id": "cdhsub17",
+    "title": "Hércules Sub17",
+    "eqName": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "dt": "Santiago Iraheta",
@@ -171,8 +190,9 @@
     "sheetRange": "Hércules!A1:B110"
   },
   {
-    "id": "Inter M Sub17",
-    "title": "Inter F.A.",
+    "id": "ifasub17",
+    "title": "Inter M Sub17",
+    "eqName": "Inter F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
     "dt": "Cristian López",
@@ -180,8 +200,9 @@
     "sheetRange": "Inter M!A1:B110"
   },
   {
-    "id": "Limeño Sub17",
-    "title": "C.D. Municipal Limeño",
+    "id": "limsub17",
+    "title": "Limeño Sub17",
+    "eqName": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "dt": "Marvin Rosales",
@@ -189,8 +210,9 @@
     "sheetRange": "Limeño!A1:B110"
   },
   {
-    "id": "Metapán Sub17",
-    "title": "A.D. Isidro Metapán",
+    "id": "metsub17",
+    "title": "Metapán Sub17",
+    "eqName": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "dt": "José Figueroa",
@@ -198,8 +220,9 @@
     "sheetRange": "Metapán!A1:B110"
   },
   {
-    "id": "Zacate Sub17",
-    "title": "Zacatecoluca FC",
+    "id": "zfcsub17",
+    "title": "Zacate Sub17",
+    "eqName": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "dt": "Eduardo Lara",
@@ -207,8 +230,9 @@
     "sheetRange": "Zacate!A1:B110"
   },
   {
-    "id": "Platense Sub17",
-    "title": "C.D. Platense",
+    "id": "plasub17",
+    "title": "Platense Sub17",
+    "eqName": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "dt": "David Hernández",
@@ -216,8 +240,9 @@
     "sheetRange": "Platense!A1:B110"
   },
   {
-    "id": "Águila Femenino",
-    "title": "C.D. Águila",
+    "id": "agufemenino",
+    "title": "Águila Femenino",
+    "eqName": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "dt": "Kilmar Jiménez",
@@ -225,8 +250,9 @@
     "sheetRange": "Aguila!A1:B110"
   },
   {
-    "id": "Alianza Femenino",
-    "title": "Alianza Women F.C.",
+    "id": "alifemenino",
+    "title": "Alianza Femenino",
+    "eqName": "Alianza Women F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "tricode": "Ali",
     "dt": "Luis Sosa",
@@ -234,8 +260,9 @@
     "sheetRange": "Alianza!A1:B110"
   },
   {
-    "id": "Cacahuatique Femenino",
-    "title": "C.D. Cacahuatique",
+    "id": "cahfemenino",
+    "title": "Cacahuatique Femenino",
+    "eqName": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "dt": "Pascual Orellana",
@@ -243,8 +270,9 @@
     "sheetRange": "Cacahuatique!A1:B110"
   },
   {
-    "id": "FAS Femenino",
-    "title": "C.D. FAS",
+    "id": "fasfemenino",
+    "title": "FAS Femenino",
+    "eqName": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "dt": "Edwin Deras",
@@ -252,8 +280,9 @@
     "sheetRange": "FAS!A1:B110"
   },
   {
-    "id": "Firpo Femenino",
-    "title": "C.D. Luis Ángel Firpo",
+    "id": "firfemenino",
+    "title": "Firpo Femenino",
+    "eqName": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "dt": "Ever Mejía",
@@ -261,8 +290,9 @@
     "sheetRange": "Firpo!A1:B110"
   },
   {
-    "id": "Fuerte SF Femenino",
-    "title": "C.D. Fuerte San Francisco",
+    "id": "fsffemenino",
+    "title": "Fuerte SF Femenino",
+    "eqName": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "dt": "Marvin García",
@@ -270,8 +300,9 @@
     "sheetRange": "Fuerte!A1:B100"
   },
   {
-    "id": "Hércules Femenino",
-    "title": "C.D. Hércules",
+    "id": "cdhfemenino",
+    "title": "Hércules Femenino",
+    "eqName": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "dt": "Gilberto Campos",
@@ -279,8 +310,9 @@
     "sheetRange": "Hércules!A1:B110"
   },
   {
-    "id": "Inter F Femenino",
-    "title": "Inter Women F.A.",
+    "id": "ifafemenino",
+    "title": "Inter F Femenino",
+    "eqName": "Inter Women F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "tricode": "IFA",
     "dt": "Dalila Guerra",
@@ -288,8 +320,9 @@
     "sheetRange": "Inter F!A1:B110"
   },
   {
-    "id": "Limeño Femenino",
-    "title": "C.D. Municipal Limeño",
+    "id": "limfemenino",
+    "title": "Limeño Femenino",
+    "eqName": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "dt": "Edwin Prudencio",
@@ -297,8 +330,9 @@
     "sheetRange": "Limeño!A1:B110"
   },
   {
-    "id": "Metapán Femenino",
-    "title": "A.D. Isidro Metapán",
+    "id": "metfemenino",
+    "title": "Metapán Femenino",
+    "eqName": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "dt": "José Figueroa",
@@ -306,8 +340,9 @@
     "sheetRange": "Metapán!A1:B110"
   },
   {
-    "id": "Zacate Femenino",
-    "title": "Zacatecoluca FC",
+    "id": "zfcfemenino",
+    "title": "Zacate Femenino",
+    "eqName": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "dt": "Ivan Ruiz",
@@ -315,8 +350,9 @@
     "sheetRange": "Zacate!A1:B110"
   },
   {
-    "id": "Platense Femenino",
-    "title": "C.D. Platense",
+    "id": "plafemenino",
+    "title": "Platense Femenino",
+    "eqName": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "dt": "Everist Martínez",
@@ -324,8 +360,9 @@
     "sheetRange": "Platense!A1:B110"
   },
   {
-    "id": "Águila Presidente",
-    "title": "C.D. Águila",
+    "id": "agupresidente",
+    "title": "Águila Presidente",
+    "eqName": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "dt": "Kilmar Jiménez",
@@ -333,8 +370,9 @@
     "sheetRange": "Aguila!A1:B110"
   },
   {
-    "id": "Alianza Presidente",
-    "title": "Alianza Women F.C.",
+    "id": "alipresidente",
+    "title": "Alianza Presidente",
+    "eqName": "Alianza Women F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
     "tricode": "Ali",
     "dt": "Luis Sosa",
@@ -342,8 +380,9 @@
     "sheetRange": "Alianza!A1:B110"
   },
   {
-    "id": "Cacahuatique Presidente",
-    "title": "C.D. Cacahuatique",
+    "id": "cahpresidente",
+    "title": "Cacahuatique Presidente",
+    "eqName": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "dt": "Pascual Orellana",
@@ -351,8 +390,9 @@
     "sheetRange": "Cacahuatique!A1:B110"
   },
   {
-    "id": "FAS Presidente",
-    "title": "C.D. FAS",
+    "id": "faspresidente",
+    "title": "FAS Presidente",
+    "eqName": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "dt": "Edwin Deras",
@@ -360,8 +400,9 @@
     "sheetRange": "FAS!A1:B110"
   },
   {
-    "id": "Firpo Presidente",
-    "title": "C.D. Luis Ángel Firpo",
+    "id": "firpresidente",
+    "title": "Firpo Presidente",
+    "eqName": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "dt": "Ever Mejía",
@@ -369,8 +410,9 @@
     "sheetRange": "Firpo!A1:B110"
   },
   {
-    "id": "Fuerte SF Presidente",
-    "title": "C.D. Fuerte San Francisco",
+    "id": "fsfpresidente",
+    "title": "Fuerte SF Presidente",
+    "eqName": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "dt": "Marvin García",
@@ -378,8 +420,9 @@
     "sheetRange": "Fuerte!A1:B100"
   },
   {
-    "id": "Hércules Presidente",
-    "title": "C.D. Hércules",
+    "id": "cdhpresidente",
+    "title": "Hércules Presidente",
+    "eqName": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "dt": "Gilberto Campos",
@@ -387,8 +430,9 @@
     "sheetRange": "Hércules!A1:B110"
   },
   {
-    "id": "Inter F Presidente",
-    "title": "Inter Women F.A.",
+    "id": "ifapresidente",
+    "title": "Inter F Presidente",
+    "eqName": "Inter Women F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
     "tricode": "IFA",
     "dt": "Dalila Guerra",
@@ -396,8 +440,9 @@
     "sheetRange": "Inter F!A1:B110"
   },
   {
-    "id": "Limeño Presidente",
-    "title": "C.D. Municipal Limeño",
+    "id": "limpresidente",
+    "title": "Limeño Presidente",
+    "eqName": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "dt": "Edwin Prudencio",
@@ -405,8 +450,9 @@
     "sheetRange": "Limeño!A1:B110"
   },
   {
-    "id": "Metapán Presidente",
-    "title": "A.D. Isidro Metapán",
+    "id": "metpresidente",
+    "title": "Metapán Presidente",
+    "eqName": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "dt": "José Figueroa",
@@ -414,8 +460,9 @@
     "sheetRange": "Metapán!A1:B110"
   },
   {
-    "id": "Zacate Presidente",
-    "title": "Zacatecoluca FC",
+    "id": "zfcpresidente",
+    "title": "Zacate Presidente",
+    "eqName": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "dt": "Ivan Ruiz",
@@ -423,8 +470,9 @@
     "sheetRange": "Zacate!A1:B110"
   },
   {
-    "id": "Platense Presidente",
-    "title": "C.D. Platense",
+    "id": "plapresidente",
+    "title": "Platense Presidente",
+    "eqName": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "dt": "Everist Martínez",
