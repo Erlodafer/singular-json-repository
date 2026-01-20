@@ -5,7 +5,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
     "dt": "Hérbert Coreas",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Águila!A1:B110"
   },
   {
@@ -14,7 +14,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
     "dt": "Luis Sosa",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Alianza!A1:B110"
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
     "dt": "Manuel González",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Cacahuatique!A1:B110"
   },
   {
@@ -32,7 +32,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
     "dt": "Ricardo Mancía",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "FAS!A1:B110"
   },
   {
@@ -41,7 +41,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
     "dt": "Ever Mejía",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Firpo!A1:B110"
   },
   {
@@ -50,8 +50,8 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
     "dt": "Marvin Rivera",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
-    "sheetRange": "Fuerte SF!A1:B110"
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Fuerte!A1:B100"
   },
   {
     "id": "Hércules Reservas",
@@ -59,7 +59,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
     "dt": "Santiago Iraheta",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Hércules!A1:B110"
   },
   {
@@ -68,7 +68,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
     "dt": "Cristian López",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Inter M!A1:B110"
   },
   {
@@ -77,7 +77,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
     "dt": "Marvin Rosales",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Limeño!A1:B110"
   },
   {
@@ -86,7 +86,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
     "dt": "José Figueroa",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Metapán!A1:B110"
   },
   {
@@ -95,7 +95,7 @@
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
     "dt": "Eduardo Lara",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
     "sheetRange": "Zacate!A1:B110"
   },
   {
@@ -104,7 +104,331 @@
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
     "dt": "David Hernández",
-    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Platense!A1:B110"
+  },
+  {
+    "id": "Águila Sub17",
+    "title": "C.D. Águila",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
+    "tricode": "Agu",
+    "dt": "Hérbert Coreas",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Águila!A1:B110"
+  },
+  {
+    "id": "Alianza Sub17",
+    "title": "Alianza F.C.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Alianza!A1:B110"
+  },
+  {
+    "id": "Cacahuatique Sub17",
+    "title": "C.D. Cacahuatique",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
+    "tricode": "Cah",
+    "dt": "Manuel González",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Cacahuatique!A1:B110"
+  },
+  {
+    "id": "FAS Sub17",
+    "title": "C.D. FAS",
+    "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
+    "tricode": "FAS",
+    "dt": "Ricardo Mancía",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "FAS!A1:B110"
+  },
+  {
+    "id": "Firpo Sub17",
+    "title": "C.D. Luis Ángel Firpo",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Firpo!A1:B110"
+  },
+  {
+    "id": "Fuerte SF Sub17",
+    "title": "C.D. Fuerte San Francisco",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
+    "tricode": "FSF",
+    "dt": "Marvin Rivera",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Fuerte!A1:B100"
+  },
+  {
+    "id": "Hércules Sub17",
+    "title": "C.D. Hércules",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
+    "tricode": "CDH",
+    "dt": "Santiago Iraheta",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Hércules!A1:B110"
+  },
+  {
+    "id": "Inter M Sub17",
+    "title": "Inter F.A.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
+    "tricode": "IFA",
+    "dt": "Cristian López",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Inter M!A1:B110"
+  },
+  {
+    "id": "Limeño Sub17",
+    "title": "C.D. Municipal Limeño",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
+    "tricode": "Lim",
+    "dt": "Marvin Rosales",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Limeño!A1:B110"
+  },
+  {
+    "id": "Metapán Sub17",
+    "title": "A.D. Isidro Metapán",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Metapán!A1:B110"
+  },
+  {
+    "id": "Zacate Sub17",
+    "title": "Zacatecoluca FC",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
+    "tricode": "ZFC",
+    "dt": "Eduardo Lara",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Zacate!A1:B110"
+  },
+  {
+    "id": "Platense Sub17",
+    "title": "C.D. Platense",
+    "icon": "https://iili.io/FOMoVQn.png",
+    "tricode": "PLA",
+    "dt": "David Hernández",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Platense!A1:B110"
+  },
+  {
+    "id": "Águila Femenino",
+    "title": "C.D. Águila",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
+    "tricode": "Agu",
+    "dt": "Kilmar Jiménez",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Águila!A1:B110"
+  },
+  {
+    "id": "Alianza Femenino",
+    "title": "Alianza Women F.C.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Alianza!A1:B110"
+  },
+  {
+    "id": "Cacahuatique Femenino",
+    "title": "C.D. Cacahuatique",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
+    "tricode": "Cah",
+    "dt": "Pascual Orellana",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Cacahuatique!A1:B110"
+  },
+  {
+    "id": "FAS Femenino",
+    "title": "C.D. FAS",
+    "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
+    "tricode": "FAS",
+    "dt": "Edwin Deras",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "FAS!A1:B110"
+  },
+  {
+    "id": "Firpo Femenino",
+    "title": "C.D. Luis Ángel Firpo",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Firpo!A1:B110"
+  },
+  {
+    "id": "Fuerte SF Femenino",
+    "title": "C.D. Fuerte San Francisco",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
+    "tricode": "FSF",
+    "dt": "Marvin García",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Fuerte!A1:B100"
+  },
+  {
+    "id": "Hércules Femenino",
+    "title": "C.D. Hércules",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
+    "tricode": "CDH",
+    "dt": "Gilberto Campos",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Hércules!A1:B110"
+  },
+  {
+    "id": "Inter F Femenino",
+    "title": "Inter Women F.A.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
+    "tricode": "IFA",
+    "dt": "Dalila Guerra",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Inter F!A1:B110"
+  },
+  {
+    "id": "Limeño Femenino",
+    "title": "C.D. Municipal Limeño",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
+    "tricode": "Lim",
+    "dt": "Edwin Prudencio",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Limeño!A1:B110"
+  },
+  {
+    "id": "Metapán Femenino",
+    "title": "A.D. Isidro Metapán",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Metapán!A1:B110"
+  },
+  {
+    "id": "Zacate Femenino",
+    "title": "Zacatecoluca FC",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
+    "tricode": "ZFC",
+    "dt": "Ivan Ruiz",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Zacate!A1:B110"
+  },
+  {
+    "id": "Platense Femenino",
+    "title": "C.D. Platense",
+    "icon": "https://iili.io/FOMoVQn.png",
+    "tricode": "PLA",
+    "dt": "Everist Martínez",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Platense!A1:B110"
+  },
+  {
+    "id": "Águila Presidente",
+    "title": "C.D. Águila",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
+    "tricode": "Agu",
+    "dt": "Kilmar Jiménez",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Águila!A1:B110"
+  },
+  {
+    "id": "Alianza Presidente",
+    "title": "Alianza Women F.C.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/AlianzaWomen.webp",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Alianza!A1:B110"
+  },
+  {
+    "id": "Cacahuatique Presidente",
+    "title": "C.D. Cacahuatique",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
+    "tricode": "Cah",
+    "dt": "Pascual Orellana",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Cacahuatique!A1:B110"
+  },
+  {
+    "id": "FAS Presidente",
+    "title": "C.D. FAS",
+    "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
+    "tricode": "FAS",
+    "dt": "Edwin Deras",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "FAS!A1:B110"
+  },
+  {
+    "id": "Firpo Presidente",
+    "title": "C.D. Luis Ángel Firpo",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Firpo!A1:B110"
+  },
+  {
+    "id": "Fuerte SF Presidente",
+    "title": "C.D. Fuerte San Francisco",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
+    "tricode": "FSF",
+    "dt": "Marvin García",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Fuerte!A1:B100"
+  },
+  {
+    "id": "Hércules Presidente",
+    "title": "C.D. Hércules",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
+    "tricode": "CDH",
+    "dt": "Gilberto Campos",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Hércules!A1:B110"
+  },
+  {
+    "id": "Inter F Presidente",
+    "title": "Inter Women F.A.",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Femenino.webp",
+    "tricode": "IFA",
+    "dt": "Dalila Guerra",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Inter F!A1:B110"
+  },
+  {
+    "id": "Limeño Presidente",
+    "title": "C.D. Municipal Limeño",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
+    "tricode": "Lim",
+    "dt": "Edwin Prudencio",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Limeño!A1:B110"
+  },
+  {
+    "id": "Metapán Presidente",
+    "title": "A.D. Isidro Metapán",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Metapán!A1:B110"
+  },
+  {
+    "id": "Zacate Presidente",
+    "title": "Zacatecoluca FC",
+    "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
+    "tricode": "ZFC",
+    "dt": "Ivan Ruiz",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
+    "sheetRange": "Zacate!A1:B110"
+  },
+  {
+    "id": "Platense Presidente",
+    "title": "C.D. Platense",
+    "icon": "https://iili.io/FOMoVQn.png",
+    "tricode": "PLA",
+    "dt": "Everist Martínez",
+    "sheetId": "12S-PW191IV7g-_RygmlQwZoANdDHKsTcRi5wbPiBb4Y",
     "sheetRange": "Platense!A1:B110"
   }
 ]
