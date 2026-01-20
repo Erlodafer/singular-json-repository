@@ -4,95 +4,107 @@
     "title": "C.D. Águila",
     "icon": "https://erlodafer.github.io/Logos-Primera/Aguila.webp",
     "tricode": "Agu",
-    "code": "AGUILA!A1:B110",
-    "dt": "Hérbert Coreas"
+    "dt": "Hérbert Coreas",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Águila!A1:B110"
   },
   {
     "id": "Alianza Reservas",
     "title": "Alianza F.C.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Alianza.webp",
     "tricode": "Ali",
-    "code": "ALIANZA!A1:B110",
-    "dt": "Luis Sosa"
+    "dt": "Luis Sosa",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Alianza!A1:B110"
   },
   {
     "id": "Cacahuatique Reservas",
     "title": "C.D. Cacahuatique",
     "icon": "https://erlodafer.github.io/Logos-Primera/Cacahuatique.webp",
     "tricode": "Cah",
-    "code": "CACAHUA!A1:B110",
-    "dt": "Manuel González"
+    "dt": "Manuel González",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Cacahuatique!A1:B110"
   },
   {
     "id": "FAS Reservas",
     "title": "C.D. FAS",
     "icon": "https://erlodafer.github.io/Logos-Primera/FAS.webp",
     "tricode": "FAS",
-    "code": "FAS!A1:B110",
-    "dt": "Ricardo Mancía"
+    "dt": "Ricardo Mancía",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "FAS!A1:B110"
   },
   {
     "id": "Firpo Reservas",
     "title": "C.D. Luis Ángel Firpo",
     "icon": "https://erlodafer.github.io/Logos-Primera/Firpo.webp",
     "tricode": "Fir",
-    "code": "FIRPO!A1:B110",
-    "dt": "Ever Mejía"
+    "dt": "Ever Mejía",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Firpo!A1:B110"
   },
   {
     "id": "Fuerte SF Reservas",
     "title": "C.D. Fuerte San Francisco",
     "icon": "https://erlodafer.github.io/Logos-Primera/Fuerte_SF.webp",
     "tricode": "FSF",
-    "code": "FUERTE!A1:B110",
-    "dt": "Marvin Rivera"
+    "dt": "Marvin Rivera",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Fuerte SF!A1:B110"
   },
   {
     "id": "Hércules Reservas",
     "title": "C.D. Hércules",
     "icon": "https://erlodafer.github.io/Logos-Primera/Hercules.webp",
     "tricode": "CDH",
-    "code": "HERCULES!A1:B110",
-    "dt": "Santiago Iraheta"
+    "dt": "Santiago Iraheta",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Hércules!A1:B110"
   },
   {
     "id": "Inter M Reservas",
     "title": "Inter F.A.",
     "icon": "https://erlodafer.github.io/Logos-Primera/Inter_Masculino.webp",
     "tricode": "IFA",
-    "code": "INTER!A1:B110",
-    "dt": "Cristian López"
+    "dt": "Cristian López",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Inter M!A1:B110"
   },
   {
     "id": "Limeño Reservas",
     "title": "C.D. Municipal Limeño",
     "icon": "https://erlodafer.github.io/Logos-Primera/Limeño.webp",
     "tricode": "Lim",
-    "code": "LIMEÑO!A1:B110",
-    "dt": "Marvin Rosales"
+    "dt": "Marvin Rosales",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Limeño!A1:B110"
   },
   {
     "id": "Metapán Reservas",
     "title": "A.D. Isidro Metapán",
     "icon": "https://erlodafer.github.io/Logos-Primera/Metapan.webp",
     "tricode": "Met",
-    "code": "METAPAN!A1:B110",
-    "dt": "José Figueroa"
+    "dt": "José Figueroa",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Metapán!A1:B110"
   },
   {
     "id": "Zacate Reservas",
     "title": "Zacatecoluca FC",
     "icon": "https://erlodafer.github.io/Logos-Primera/Zacate.webp",
     "tricode": "ZFC",
-    "code": "ZACATE!A1:B110",
-    "dt": "Eduardo Lara"
+    "dt": "Eduardo Lara",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Zacate!A1:B110"
   },
   {
     "id": "Platense Reservas",
     "title": "C.D. Platense",
     "icon": "https://iili.io/FOMoVQn.png",
     "tricode": "PLA",
-    "code": "PLATENSE!A1:B110",
-    "dt": "David Hernández"
+    "dt": "David Hernández",
+    "sheetId": "1A2B3C4D5E6F7G8H9I0J",
+    "sheetRange": "Platense!A1:B110"
   }
 ]
