@@ -1,25 +1,5 @@
 [
   {
-    "id": "agufemenino",
-    "title": "Águila Femenino",
-    "eqName": "C.D. Águila",
-    "icon": "https://iili.io/frt3eVa.png",
-    "tricode": "Agu",
-    "dt": "Julio Martínez",
-    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "Aguila!A1:B200"
-  },
-  {
-    "id": "agupresidente",
-    "title": "Águila Presidente",
-    "eqName": "C.D. Águila",
-    "icon": "https://iili.io/frt3eVa.png",
-    "tricode": "Agu",
-    "dt": "Kilmar Jiménez",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Aguila!A1:B200"
-  },
-  {
     "id": "agureservas",
     "title": "Águila Reservas",
     "eqName": "C.D. Águila",
@@ -30,6 +10,116 @@
     "sheetRange": "Aguila!A1:B200"
   },
   {
+    "id": "alireservas",
+    "title": "Alianza Reservas",
+    "eqName": "Alianza F.C.",
+    "icon": "https://iili.io/frt3USp.png",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Alianza!A1:B200"
+  },
+  {
+    "id": "cahreservas",
+    "title": "Cacahuatique Reservas",
+    "eqName": "C.D. Cacahuatique",
+    "icon": "https://iili.io/frt34RI.png",
+    "tricode": "Cah",
+    "dt": "Manuel González",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Cacahuatique!A1:B200"
+  },
+  {
+    "id": "cdhreservas",
+    "title": "Hércules Reservas",
+    "eqName": "C.D. Hércules",
+    "icon": "https://iili.io/frt3QiG.png",
+    "tricode": "CDH",
+    "dt": "Santiago Iraheta",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Hercules!A1:B200"
+  },
+  {
+    "id": "fasreservas",
+    "title": "FAS Reservas",
+    "eqName": "C.D. FAS",
+    "icon": "https://iili.io/frt3PDX.png",
+    "tricode": "FAS",
+    "dt": "Ricardo Mancía",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "FAS!A1:B200"
+  },
+  {
+    "id": "firreservas",
+    "title": "Firpo Reservas",
+    "eqName": "C.D. Luis Ángel Firpo",
+    "icon": "https://iili.io/frt36Nt.png",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Firpo!A1:B200"
+  },
+  {
+    "id": "fsfreservas",
+    "title": "Fuerte SF Reservas",
+    "eqName": "C.D. Fuerte San Francisco",
+    "icon": "https://iili.io/frt3tff.png",
+    "tricode": "FSF",
+    "dt": "Marvin Rivera",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Fuerte!A1:B200"
+  },
+  {
+    "id": "ifareservas",
+    "title": "Inter Reservas",
+    "eqName": "Inter F.A.",
+    "icon": "https://iili.io/frt3Dl4.png",
+    "tricode": "IFA",
+    "dt": "Cristian López",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Inter!A1:B200"
+  },
+  {
+    "id": "limreservas",
+    "title": "Limeño Reservas",
+    "eqName": "C.D. Municipal Limeño",
+    "icon": "https://iili.io/frt3bUl.png",
+    "tricode": "Lim",
+    "dt": "Marvin Rosales",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Limeño!A1:B200"
+  },
+  {
+    "id": "metreservas",
+    "title": "Metapán Reservas",
+    "eqName": "A.D. Isidro Metapán",
+    "icon": "https://iili.io/frt3Oog.png",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Metapán!A1:B200"
+  },
+  {
+    "id": "plareservas",
+    "title": "Platense Reservas",
+    "eqName": "C.D. Platense",
+    "icon": "https://iili.io/frt3SlR.png",
+    "tricode": "PLA",
+    "dt": "David Hernández",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Platense!A1:B200"
+  },
+  {
+    "id": "zfcreservas",
+    "title": "Zacate Reservas",
+    "eqName": "Zacatecoluca FC",
+    "icon": "https://iili.io/frt3rHN.png",
+    "tricode": "ZFC",
+    "dt": "Eduardo Lara",
+    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
+    "sheetRange": "Zacate!A1:B200"
+  },
+  {
     "id": "agusub17",
     "title": "Águila Sub17",
     "eqName": "C.D. Águila",
@@ -37,6 +127,126 @@
     "tricode": "Agu",
     "dt": "Manuel Ponce",
     "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Aguila!A1:B200"
+  },
+  {
+    "id": "alisub17",
+    "title": "Alianza Sub17",
+    "eqName": "Alianza F.C.",
+    "icon": "https://iili.io/frt3USp.png",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Alianza!A1:B200"
+  },
+  {
+    "id": "cahsub17",
+    "title": "Cacahuatique Sub17",
+    "eqName": "C.D. Cacahuatique",
+    "icon": "https://iili.io/frt34RI.png",
+    "tricode": "Cah",
+    "dt": "Manuel González",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Cacahuatique!A1:B200"
+  },
+  {
+    "id": "cdhsub17",
+    "title": "Hércules Sub17",
+    "eqName": "C.D. Hércules",
+    "icon": "https://iili.io/frt3QiG.png",
+    "tricode": "CDH",
+    "dt": "Santiago Iraheta",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Hércules!A1:B200"
+  },
+  {
+    "id": "fassub17",
+    "title": "FAS Sub17",
+    "eqName": "C.D. FAS",
+    "icon": "https://iili.io/frt3PDX.png",
+    "tricode": "FAS",
+    "dt": "Pablo Quiñones",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "FAS!A1:B200"
+  },
+  {
+    "id": "firsub17",
+    "title": "Firpo Sub17",
+    "eqName": "C.D. Luis Ángel Firpo",
+    "icon": "https://iili.io/frt36Nt.png",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Firpo!A1:B200"
+  },
+  {
+    "id": "fsfsub17",
+    "title": "Fuerte SF Sub17",
+    "eqName": "C.D. Fuerte San Francisco",
+    "icon": "https://iili.io/frt3tff.png",
+    "tricode": "FSF",
+    "dt": "Marvin Rivera",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Fuerte!A1:B200"
+  },
+  {
+    "id": "ifasub17",
+    "title": "Inter M Sub17",
+    "eqName": "Inter F.A.",
+    "icon": "https://iili.io/frt3Dl4.png",
+    "tricode": "IFA",
+    "dt": "Cristian López",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Inter M!A1:B200"
+  },
+  {
+    "id": "limsub17",
+    "title": "Limeño Sub17",
+    "eqName": "C.D. Municipal Limeño",
+    "icon": "https://iili.io/frt3bUl.png",
+    "tricode": "Lim",
+    "dt": "Marvin Rosales",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Limeño!A1:B200"
+  },
+  {
+    "id": "metsub17",
+    "title": "Metapán Sub17",
+    "eqName": "A.D. Isidro Metapán",
+    "icon": "https://iili.io/frt3Oog.png",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Metapán!A1:B200"
+  },
+  {
+    "id": "plasub17",
+    "title": "Platense Sub17",
+    "eqName": "C.D. Platense",
+    "icon": "https://iili.io/frt3SlR.png",
+    "tricode": "PLA",
+    "dt": "David Hernández",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Platense!A1:B200"
+  },
+  {
+    "id": "zfcsub17",
+    "title": "Zacate Sub17",
+    "eqName": "Zacatecoluca FC",
+    "icon": "https://iili.io/frt3rHN.png",
+    "tricode": "ZFC",
+    "dt": "Eduardo Lara",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Zacate!A1:B200"
+  },
+  {
+    "id": "agufemenino",
+    "title": "Águila Femenino",
+    "eqName": "C.D. Águila",
+    "icon": "https://iili.io/frt3eVa.png",
+    "tricode": "Agu",
+    "dt": "Julio Martínez",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
     "sheetRange": "Aguila!A1:B200"
   },
   {
@@ -50,36 +260,6 @@
     "sheetRange": "Alianza!A1:B200"
   },
   {
-    "id": "alipresidente",
-    "title": "Alianza Presidente",
-    "eqName": "Alianza Women F.C.",
-    "icon": "https://iili.io/frt3USp.png",
-    "tricode": "Ali",
-    "dt": "Luis Sosa",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Alianza!A1:B200"
-  },
-  {
-    "id": "alireservas",
-    "title": "Alianza Reservas",
-    "eqName": "Alianza F.C.",
-    "icon": "https://iili.io/frt3USp.png",
-    "tricode": "Ali",
-    "dt": "Luis Sosa",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Alianza!A1:B200"
-  },
-  {
-    "id": "alisub17",
-    "title": "Alianza Sub17",
-    "eqName": "Alianza F.C.",
-    "icon": "https://iili.io/frt3USp.png",
-    "tricode": "Ali",
-    "dt": "Luis Sosa",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Alianza!A1:B200"
-  },
-  {
     "id": "cahfemenino",
     "title": "Cacahuatique Femenino",
     "eqName": "C.D. Cacahuatique",
@@ -90,34 +270,14 @@
     "sheetRange": "Cacahuatique!A1:B200"
   },
   {
-    "id": "cahpresidente",
-    "title": "Cacahuatique Presidente",
-    "eqName": "C.D. Cacahuatique",
-    "icon": "https://iili.io/frt34RI.png",
-    "tricode": "Cah",
-    "dt": "Pascual Orellana",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Cacahuatique!A1:B200"
-  },
-  {
-    "id": "cahreservas",
-    "title": "Cacahuatique Reservas",
-    "eqName": "C.D. Cacahuatique",
-    "icon": "https://iili.io/frt34RI.png",
-    "tricode": "Cah",
-    "dt": "Manuel González",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Cacahuatique!A1:B200"
-  },
-  {
-    "id": "cahsub17",
-    "title": "Cacahuatique Sub17",
-    "eqName": "C.D. Cacahuatique",
-    "icon": "https://iili.io/frt34RI.png",
-    "tricode": "Cah",
-    "dt": "Manuel González",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Cacahuatique!A1:B200"
+    "id": "cdhfemenino",
+    "title": "Hércules Femenino",
+    "eqName": "C.D. Hércules",
+    "icon": "https://iili.io/frt3QiG.png",
+    "tricode": "CDH",
+    "dt": "Gilberto Campos",
+    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
+    "sheetRange": "Hércules!A1:B200"
   },
   {
     "id": "fasfemenino",
@@ -127,36 +287,6 @@
     "tricode": "FAS",
     "dt": "Edwin Deras",
     "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "FAS!A1:B200"
-  },
-  {
-    "id": "faspresidente",
-    "title": "FAS Presidente",
-    "eqName": "C.D. FAS",
-    "icon": "https://iili.io/frt3PDX.png",
-    "tricode": "FAS",
-    "dt": "Edwin Deras",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "FAS!A1:B200"
-  },
-  {
-    "id": "fasreservas",
-    "title": "FAS Reservas",
-    "eqName": "C.D. FAS",
-    "icon": "https://iili.io/frt3PDX.png",
-    "tricode": "FAS",
-    "dt": "Ricardo Mancía",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "FAS!A1:B200"
-  },
-  {
-    "id": "fassub17",
-    "title": "FAS Sub17",
-    "eqName": "C.D. FAS",
-    "icon": "https://iili.io/frt3PDX.png",
-    "tricode": "FAS",
-    "dt": "Pablo Quiñones",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "FAS!A1:B200"
   },
   {
@@ -170,36 +300,6 @@
     "sheetRange": "Firpo!A1:B200"
   },
   {
-    "id": "firpresidente",
-    "title": "Firpo Presidente",
-    "eqName": "C.D. Luis Ángel Firpo",
-    "icon": "https://iili.io/frt36Nt.png",
-    "tricode": "Fir",
-    "dt": "Ever Mejía",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Firpo!A1:B200"
-  },
-  {
-    "id": "firreservas",
-    "title": "Firpo Reservas",
-    "eqName": "C.D. Luis Ángel Firpo",
-    "icon": "https://iili.io/frt36Nt.png",
-    "tricode": "Fir",
-    "dt": "Ever Mejía",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Firpo!A1:B200"
-  },
-  {
-    "id": "firsub17",
-    "title": "Firpo Sub17",
-    "eqName": "C.D. Luis Ángel Firpo",
-    "icon": "https://iili.io/frt36Nt.png",
-    "tricode": "Fir",
-    "dt": "Ever Mejía",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Firpo!A1:B200"
-  },
-  {
     "id": "fsffemenino",
     "title": "Fuerte SF Femenino",
     "eqName": "C.D. Fuerte San Francisco",
@@ -208,76 +308,6 @@
     "dt": "Marvin García",
     "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
     "sheetRange": "Fuerte!A1:B200"
-  },
-  {
-    "id": "fsfpresidente",
-    "title": "Fuerte SF Presidente",
-    "eqName": "C.D. Fuerte San Francisco",
-    "icon": "https://iili.io/frt3tff.png",
-    "tricode": "FSF",
-    "dt": "Marvin García",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Fuerte!A1:B200"
-  },
-  {
-    "id": "fsfreservas",
-    "title": "Fuerte SF Reservas",
-    "eqName": "C.D. Fuerte San Francisco",
-    "icon": "https://iili.io/frt3tff.png",
-    "tricode": "FSF",
-    "dt": "Marvin Rivera",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Fuerte!A1:B200"
-  },
-  {
-    "id": "fsfsub17",
-    "title": "Fuerte SF Sub17",
-    "eqName": "C.D. Fuerte San Francisco",
-    "icon": "https://iili.io/frt3tff.png",
-    "tricode": "FSF",
-    "dt": "Marvin Rivera",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Fuerte!A1:B200"
-  },
-  {
-    "id": "cdhfemenino",
-    "title": "Hércules Femenino",
-    "eqName": "C.D. Hércules",
-    "icon": "https://iili.io/frt3QiG.png",
-    "tricode": "CDH",
-    "dt": "Gilberto Campos",
-    "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "Hércules!A1:B200"
-  },
-  {
-    "id": "cdhpresidente",
-    "title": "Hércules Presidente",
-    "eqName": "C.D. Hércules",
-    "icon": "https://iili.io/frt3QiG.png",
-    "tricode": "CDH",
-    "dt": "Gilberto Campos",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Hércules!A1:B200"
-  },
-  {
-    "id": "cdhreservas",
-    "title": "Hércules Reservas",
-    "eqName": "C.D. Hércules",
-    "icon": "https://iili.io/frt3QiG.png",
-    "tricode": "CDH",
-    "dt": "Santiago Iraheta",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Hercules!A1:B200"
-  },
-  {
-    "id": "cdhsub17",
-    "title": "Hércules Sub17",
-    "eqName": "C.D. Hércules",
-    "icon": "https://iili.io/frt3QiG.png",
-    "tricode": "CDH",
-    "dt": "Santiago Iraheta",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Hércules!A1:B200"
   },
   {
     "id": "ifafemenino",
@@ -290,36 +320,6 @@
     "sheetRange": "Inter F!A1:B200"
   },
   {
-    "id": "ifapresidente",
-    "title": "Inter F Presidente",
-    "eqName": "Inter Women F.A.",
-    "icon": "https://iili.io/frt3Dl4.png",
-    "tricode": "IFA",
-    "dt": "Dalila Guerra",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Inter F!A1:B200"
-  },
-  {
-    "id": "ifasub17",
-    "title": "Inter M Sub17",
-    "eqName": "Inter F.A.",
-    "icon": "https://iili.io/frt3Dl4.png",
-    "tricode": "IFA",
-    "dt": "Cristian López",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Inter M!A1:B200"
-  },
-  {
-    "id": "ifareservas",
-    "title": "Inter Reservas",
-    "eqName": "Inter F.A.",
-    "icon": "https://iili.io/frt3Dl4.png",
-    "tricode": "IFA",
-    "dt": "Cristian López",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Inter!A1:B200"
-  },
-  {
     "id": "limfemenino",
     "title": "Limeño Femenino",
     "eqName": "C.D. Municipal Limeño",
@@ -327,36 +327,6 @@
     "tricode": "Lim",
     "dt": "Edwin Prudencio",
     "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "Limeño!A1:B200"
-  },
-  {
-    "id": "limpresidente",
-    "title": "Limeño Presidente",
-    "eqName": "C.D. Municipal Limeño",
-    "icon": "https://iili.io/frt3bUl.png",
-    "tricode": "Lim",
-    "dt": "Edwin Prudencio",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Limeño!A1:B200"
-  },
-  {
-    "id": "limreservas",
-    "title": "Limeño Reservas",
-    "eqName": "C.D. Municipal Limeño",
-    "icon": "https://iili.io/frt3bUl.png",
-    "tricode": "Lim",
-    "dt": "Marvin Rosales",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Limeño!A1:B200"
-  },
-  {
-    "id": "limsub17",
-    "title": "Limeño Sub17",
-    "eqName": "C.D. Municipal Limeño",
-    "icon": "https://iili.io/frt3bUl.png",
-    "tricode": "Lim",
-    "dt": "Marvin Rosales",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "Limeño!A1:B200"
   },
   {
@@ -370,36 +340,6 @@
     "sheetRange": "Metapán!A1:B200"
   },
   {
-    "id": "metpresidente",
-    "title": "Metapán Presidente",
-    "eqName": "A.D. Isidro Metapán",
-    "icon": "https://iili.io/frt3Oog.png",
-    "tricode": "Met",
-    "dt": "José Figueroa",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Metapán!A1:B200"
-  },
-  {
-    "id": "metreservas",
-    "title": "Metapán Reservas",
-    "eqName": "A.D. Isidro Metapán",
-    "icon": "https://iili.io/frt3Oog.png",
-    "tricode": "Met",
-    "dt": "José Figueroa",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Metapán!A1:B200"
-  },
-  {
-    "id": "metsub17",
-    "title": "Metapán Sub17",
-    "eqName": "A.D. Isidro Metapán",
-    "icon": "https://iili.io/frt3Oog.png",
-    "tricode": "Met",
-    "dt": "José Figueroa",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Metapán!A1:B200"
-  },
-  {
     "id": "plafemenino",
     "title": "Platense Femenino",
     "eqName": "C.D. Platense",
@@ -407,36 +347,6 @@
     "tricode": "PLA",
     "dt": "Everist Martínez",
     "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "Platense!A1:B200"
-  },
-  {
-    "id": "plapresidente",
-    "title": "Platense Presidente",
-    "eqName": "C.D. Platense",
-    "icon": "https://iili.io/frt3SlR.png",
-    "tricode": "PLA",
-    "dt": "Everist Martínez",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Platense!A1:B200"
-  },
-  {
-    "id": "plareservas",
-    "title": "Platense Reservas",
-    "eqName": "C.D. Platense",
-    "icon": "https://iili.io/frt3SlR.png",
-    "tricode": "PLA",
-    "dt": "David Hernández",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Platense!A1:B200"
-  },
-  {
-    "id": "plasub17",
-    "title": "Platense Sub17",
-    "eqName": "C.D. Platense",
-    "icon": "https://iili.io/frt3SlR.png",
-    "tricode": "PLA",
-    "dt": "David Hernández",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "Platense!A1:B200"
   },
   {
@@ -450,32 +360,122 @@
     "sheetRange": "Zacate!A1:B200"
   },
   {
+    "id": "agupresidente",
+    "title": "Águila Presidente",
+    "eqName": "C.D. Águila",
+    "icon": "https://iili.io/frt3eVa.png",
+    "tricode": "Agu",
+    "dt": "Kilmar Jiménez",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Aguila!A1:B200"
+  },
+  {
+    "id": "alipresidente",
+    "title": "Alianza Presidente",
+    "eqName": "Alianza Women F.C.",
+    "icon": "https://iili.io/frt3USp.png",
+    "tricode": "Ali",
+    "dt": "Luis Sosa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Alianza!A1:B200"
+  },
+  {
+    "id": "cahpresidente",
+    "title": "Cacahuatique Presidente",
+    "eqName": "C.D. Cacahuatique",
+    "icon": "https://iili.io/frt34RI.png",
+    "tricode": "Cah",
+    "dt": "Pascual Orellana",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Cacahuatique!A1:B200"
+  },
+  {
+    "id": "cdhpresidente",
+    "title": "Hércules Presidente",
+    "eqName": "C.D. Hércules",
+    "icon": "https://iili.io/frt3QiG.png",
+    "tricode": "CDH",
+    "dt": "Gilberto Campos",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Hércules!A1:B200"
+  },
+  {
+    "id": "faspresidente",
+    "title": "FAS Presidente",
+    "eqName": "C.D. FAS",
+    "icon": "https://iili.io/frt3PDX.png",
+    "tricode": "FAS",
+    "dt": "Edwin Deras",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "FAS!A1:B200"
+  },
+  {
+    "id": "firpresidente",
+    "title": "Firpo Presidente",
+    "eqName": "C.D. Luis Ángel Firpo",
+    "icon": "https://iili.io/frt36Nt.png",
+    "tricode": "Fir",
+    "dt": "Ever Mejía",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Firpo!A1:B200"
+  },
+  {
+    "id": "fsfpresidente",
+    "title": "Fuerte SF Presidente",
+    "eqName": "C.D. Fuerte San Francisco",
+    "icon": "https://iili.io/frt3tff.png",
+    "tricode": "FSF",
+    "dt": "Marvin García",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Fuerte!A1:B200"
+  },
+  {
+    "id": "ifapresidente",
+    "title": "Inter F Presidente",
+    "eqName": "Inter Women F.A.",
+    "icon": "https://iili.io/frt3Dl4.png",
+    "tricode": "IFA",
+    "dt": "Dalila Guerra",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Inter F!A1:B200"
+  },
+  {
+    "id": "limpresidente",
+    "title": "Limeño Presidente",
+    "eqName": "C.D. Municipal Limeño",
+    "icon": "https://iili.io/frt3bUl.png",
+    "tricode": "Lim",
+    "dt": "Edwin Prudencio",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Limeño!A1:B200"
+  },
+  {
+    "id": "metpresidente",
+    "title": "Metapán Presidente",
+    "eqName": "A.D. Isidro Metapán",
+    "icon": "https://iili.io/frt3Oog.png",
+    "tricode": "Met",
+    "dt": "José Figueroa",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Metapán!A1:B200"
+  },
+  {
+    "id": "plapresidente",
+    "title": "Platense Presidente",
+    "eqName": "C.D. Platense",
+    "icon": "https://iili.io/frt3SlR.png",
+    "tricode": "PLA",
+    "dt": "Everist Martínez",
+    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
+    "sheetRange": "Platense!A1:B200"
+  },
+  {
     "id": "zfcpresidente",
     "title": "Zacate Presidente",
     "eqName": "Zacatecoluca FC",
     "icon": "https://iili.io/frt3rHN.png",
     "tricode": "ZFC",
     "dt": "Ivan Ruiz",
-    "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "Zacate!A1:B200"
-  },
-  {
-    "id": "zfcreservas",
-    "title": "Zacate Reservas",
-    "eqName": "Zacatecoluca FC",
-    "icon": "https://iili.io/frt3rHN.png",
-    "tricode": "ZFC",
-    "dt": "Eduardo Lara",
-    "sheetId": "124ZMretTzSDlWXnCe6Cr1jwpPKlVClP8qi4haS2_Vww",
-    "sheetRange": "Zacate!A1:B200"
-  },
-  {
-    "id": "zfcsub17",
-    "title": "Zacate Sub17",
-    "eqName": "Zacatecoluca FC",
-    "icon": "https://iili.io/frt3rHN.png",
-    "tricode": "ZFC",
-    "dt": "Eduardo Lara",
     "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "Zacate!A1:B200"
   }
