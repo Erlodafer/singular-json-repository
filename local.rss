@@ -1,108 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Alineación Inicial</title>
-    <description>Once inicial del partido</description>
-    <link>https://tudominio.com/alineacion</link>
-    
-    <!-- Jugador 1 -->
-    <item>
-      <title>1 - Courtois (POR)</title>
-      <description>Thibaut Courtois - Portero</description>
-      <dorsal>1</dorsal>
-      <nombre>Courtois</nombre>
-      <posicion>POR</posicion>
-    </item>
-    
-    <!-- Jugador 2 -->
-    <item>
-      <title>2 - Carvajal (DEF)</title>
-      <description>Dani Carvajal - Defensa</description>
-      <dorsal>2</dorsal>
-      <nombre>Carvajal</nombre>
-      <posicion>DEF</posicion>
-    </item>
-    
-    <!-- Jugador 3 -->
-    <item>
-      <title>3 - Militão (DEF)</title>
-      <description>Éder Militão - Defensa</description>
-      <dorsal>3</dorsal>
-      <nombre>Militão</nombre>
-      <posicion>DEF</posicion>
-    </item>
-    
-    <!-- Jugador 4 -->
-    <item>
-      <title>4 - Alaba (DEF)</title>
-      <description>David Alaba - Defensa</description>
-      <dorsal>4</dorsal>
-      <nombre>Alaba</nombre>
-      <posicion>DEF</posicion>
-    </item>
-    
-    <!-- Jugador 5 -->
-    <item>
-      <title>5 - Mendy (DEF)</title>
-      <description>Ferland Mendy - Defensa</description>
-      <dorsal>5</dorsal>
-      <nombre>Mendy</nombre>
-      <posicion>DEF</posicion>
-    </item>
-    
-    <!-- Jugador 6 -->
-    <item>
-      <title>6 - Camavinga (MED)</title>
-      <description>Eduardo Camavinga - Mediocampista</description>
-      <dorsal>6</dorsal>
-      <nombre>Camavinga</nombre>
-      <posicion>MED</posicion>
-    </item>
-    
-    <!-- Jugador 7 -->
-    <item>
-      <title>7 - Valverde (MED)</title>
-      <description>Federico Valverde - Mediocampista</description>
-      <dorsal>7</dorsal>
-      <nombre>Valverde</nombre>
-      <posicion>MED</posicion>
-    </item>
-    
-    <!-- Jugador 8 -->
-    <item>
-      <title>8 - Modric (MED)</title>
-      <description>Luka Modric - Mediocampista</description>
-      <dorsal>8</dorsal>
-      <nombre>Modric</nombre>
-      <posicion>MED</posicion>
-    </item>
-    
-    <!-- Jugador 9 -->
-    <item>
-      <title>9 - Benzema (DEL)</title>
-      <description>Karim Benzema - Delantero</description>
-      <dorsal>9</dorsal>
-      <nombre>Benzema</nombre>
-      <posicion>DEL</posicion>
-    </item>
-    
-    <!-- Jugador 10 -->
-    <item>
-      <title>10 - Vinícius (DEL)</title>
-      <description>Vinícius Jr - Delantero</description>
-      <dorsal>10</dorsal>
-      <nombre>Vinícius</nombre>
-      <posicion>DEL</posicion>
-    </item>
-    
-    <!-- Jugador 11 -->
-    <item>
-      <title>11 - Rodrygo (DEL)</title>
-      <description>Rodrygo Goes - Delantero</description>
-      <dorsal>11</dorsal>
-      <nombre>Rodrygo</nombre>
-      <posicion>DEL</posicion>
-    </item>
-    
-  </channel>
-</rss>
+[
+  {
+    "dorsal": "1",
+    "nombre": "Courtois",
+    "posicion": "POR",
+    "display": "1 - Courtois (POR)"
+  },
+  {
+    "dorsal": "2",
+    "nombre": "Carvajal",
+    "posicion": "DEF",
+    "display": "2 - Carvajal (DEF)"
+  },
+  {
+    "dorsal": "3",
+    "nombre": "Militão",
+    "posicion": "DEF",
+    "display": "3 - Militão (DEF)"
+  },
+  {
+    "dorsal": "4",
+    "nombre": "Alaba",
+    "posicion": "DEF",
+    "display": "4 - Alaba (DEF)"
+  },
+  {
+    "dorsal": "5",
+    "nombre": "Mendy",
+    "posicion": "DEF",
+    "display": "5 - Mendy (DEF)"
+  },
+  {
+    "dorsal": "6",
+    "nombre": "Camavinga",
+    "posicion": "MED",
+    "display": "6 - Camavinga (MED)"
+  },
+  {
+    "dorsal": "7",
+    "nombre": "Valverde",
+    "posicion": "MED",
+    "display": "7 - Valverde (MED)"
+  },
+  {
+    "dorsal": "8",
+    "nombre": "Modric",
+    "posicion": "MED",
+    "display": "8 - Modric (MED)"
+  },
+  {
+    "dorsal": "9",
+    "nombre": "Benzema",
+    "posicion": "DEL",
+    "display": "9 - Benzema (DEL)"
+  },
+  {
+    "dorsal": "10",
+    "nombre": "Vinícius",
+    "posicion": "DEL",
+    "display": "10 - Vinícius (DEL)"
+  },
+  {
+    "dorsal": "11",
+    "nombre": "Rodrygo",
+    "posicion": "DEL",
+    "display": "11 - Rodrygo (DEL)"
+  }
+]
