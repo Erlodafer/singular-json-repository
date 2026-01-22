@@ -1,4 +1,4 @@
-[
+on[
   {
     "id": "agufemenino",
     "title": "Águila Femenino",
@@ -35,7 +35,7 @@
     "eqName": "C.D. Águila",
     "icon": "https://iili.io/frt3eVa.png",
     "tricode": "Agu",
-    "dt": "Hérbert Coreas",
+    "dt": "Manuel Ponce",
     "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "Aguila!A1:B110"
   },
