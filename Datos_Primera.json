@@ -1,4 +1,4 @@
-on[
+[
   {
     "id": "agufemenino",
     "title": "Águila Femenino",
@@ -155,7 +155,7 @@ on[
     "eqName": "C.D. FAS",
     "icon": "https://iili.io/frt3PDX.png",
     "tricode": "FAS",
-    "dt": "Ricardo Mancía",
+    "dt": "Pablo Quiñones",
     "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
     "sheetRange": "FAS!A1:B110"
   },
