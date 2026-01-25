@@ -160,5 +160,14 @@
       "lat": 13.71917,
       "long": -89.72417
     }
+  },
+  {
+    "id": "Cancha Municipal San Luis Talpa",
+    "title": "San Luis Talpa",
+    "municipio": "San Luis Talpa",
+    "ubicacion": {
+      "lat": "13.462968882438684",
+      "long": "-89.08646344430171"
+    }
   }
 ]
