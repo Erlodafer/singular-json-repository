@@ -5,7 +5,7 @@
     "eqName": "American Nicaraguan School",
     "icon": "https://iili.io/fiGVBxn.png",
     "tricode": "ANS",
-    "range": "ANS!A1:B85",    
+    "range": "ANS!A1:B85"
   },
   {
     "id": "ANS-F",
@@ -80,22 +80,6 @@
     "range": "CIG!D1:E85"
   },
   {
-    "id": "VSG-M",
-    "title": "Village Masculino",
-    "eqName": "Village School of Guatemala",
-    "icon": "https://iili.io/fiGVniG.png",
-    "tricode": "VSG",
-    "range": "VSG!A1:B85"
-  },
-  {
-    "id": "VSG-F",
-    "title": "Village Femenino",
-    "eqName": "Village School of Guatemala",
-    "icon": "https://iili.io/fiGVniG.png",
-    "tricode": "VSG",
-    "range": "VSG!D1:E85"
-  },
-  {
     "id": "EAS-M",
     "title": "EAS Masculino",
     "eqName": "Escuela Americana de El Salvador",
@@ -158,5 +142,21 @@
     "icon": "https://iili.io/fiGV0fj.png",
     "tricode": "LCR",
     "range": "LCR!D1:E85"
+  },
+  {
+    "id": "VSG-M",
+    "title": "Village Masculino",
+    "eqName": "Village School of Guatemala",
+    "icon": "https://iili.io/fiGVniG.png",
+    "tricode": "VSG",
+    "range": "VSG!A1:B85"
+  },
+  {
+    "id": "VSG-F",
+    "title": "Village Femenino",
+    "eqName": "Village School of Guatemala",
+    "icon": "https://iili.io/fiGVniG.png",
+    "tricode": "VSG",
+    "range": "VSG!D1:E85"
   }
 ]
