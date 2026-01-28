@@ -48,171 +48,115 @@
     "range": "CAG!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "CDS-M",
+    "title": "CDS Masculino",
+    "eqName": "Country Day School",
+    "icon": "https://iili.io/fiGVuJ2.png",
+    "tricode": "CDS",
+    "range": "CDS!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "CDS-F",
+    "title": "CDS Femenino",
+    "eqName": "Country Day School",
+    "icon": "https://iili.io/fiGVuJ2.png",
+    "tricode": "CDS",
+    "range": "CDS!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "CIG-M",
+    "title": "CIG Masculino",
+    "eqName": "Colegio Interamericano de Guatemala",
+    "icon": "https://iili.io/fiGVIUl.png",
+    "tricode": "CIG",
+    "range": "CIG!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "CIG-F",
+    "title": "CIG Femenino",
+    "eqName": "Colegio Interamericano de Guatemala",
+    "icon": "https://iili.io/fiGVIUl.png",
+    "tricode": "CIG",
+    "range": "CIG!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "VSG-M",
+    "title": "Village Masculino",
+    "eqName": "Village School of Guatemala",
+    "icon": "https://iili.io/fiGVniG.png",
+    "tricode": "VSG",
+    "range": "VSG!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "VSG-F",
+    "title": "Village Femenino",
+    "eqName": "Village School of Guatemala",
+    "icon": "https://iili.io/fiGVniG.png",
+    "tricode": "VSG",
+    "range": "VSG!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "EAS-M",
+    "title": "EAS Masculino",
+    "eqName": "Escuela Americana de El Salvador",
+    "icon": "https://iili.io/fiGVARS.png",
+    "tricode": "EAS",
+    "range": "EAS!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "EAS-F",
+    "title": "EAS Femenino",
+    "eqName": "Escuela Americana de El Salvador",
+    "icon": "https://iili.io/fiGVARS.png",
+    "tricode": "EAS",
+    "range": "EAS!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "EIS-M",
+    "title": "EIS Masculino",
+    "eqName": "Escuela Interamericana Sampedrana",
+    "icon": "https://iili.io/fiGV5b9.png",
+    "tricode": "EIS",
+    "range": "EIS!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "EIS-F",
+    "title": "EIS Femenino",
+    "eqName": "Escuela Interamericana Sampedrana",
+    "icon": "https://iili.io/fiGV5b9.png",
+    "tricode": "EIS",
+    "range": "EIS!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "ISP-M",
+    "title": "ISP Masculino",
+    "eqName": "International School of Panama",
+    "icon": "https://iili.io/fiGVaWu.png",
+    "tricode": "ISP",
+    "range": "ISP!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "ISP-F",
+    "title": "ISP Femenino",
+    "eqName": "International School of Panama",
+    "icon": "https://iili.io/fiGVaWu.png",
+    "tricode": "ISP",
+    "range": "ISP!D1:E85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "LCR-M",
+    "title": "LCR Masculino",
+    "eqName": "Lincoln School Costa Rica",
+    "icon": "https://iili.io/fiGV0fj.png",
+    "tricode": "LCR",
+    "range": "LCR!A1:B85"
   },
   {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
-  },
-  {
-    "id": "",
-    "title": "",
-    "eqName": "",
-    "icon": "",
-    "tricode": "",
-    "range": ""
+    "id": "LCR-F",
+    "title": "LCR Femenino",
+    "eqName": "Lincoln School Costa Rica",
+    "icon": "https://iili.io/fiGV0fj.png",
+    "tricode": "LCR",
+    "range": "LCR!D1:E85"
   }
 ]
