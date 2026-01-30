@@ -4,143 +4,125 @@
     "title": "Cojute",
     "eqName": "ADS. Cojute City",
     "icon": "https://iili.io/fLHDjoB.png",
-    "tricode": "COJ",
-    "range": "",
+    "tricode": "COJ"
   },
   {
     "id": "ALEF",
     "title": "Ales",
     "eqName": "Ales FUTSAL",
     "icon": "https://iili.io/fLHttjV.png",
-    "tricode": "ALF",
-    "range": "",
+    "tricode": "ALF"
   },
   {
     "id": "ALIF",
     "title": "Alianza",
     "eqName": "Alianza FUTSAL",
     "icon": "https://iili.io/fLHD1cu.png",
-    "tricode": "ALI",
-    "range": "",
+    "tricode": "ALI"
   },
   {
     "id": "AFS",
     "title": "Armenia",
     "eqName": "Armenia Fut. Sala",
     "icon": "https://iili.io/fLHDkcg.png",
-    "tricode": "AFS",
-    "range": "",
+    "tricode": "AFS"
   },
   {
     "id": "AFC",
     "title": "Asia",
     "eqName": "Asia F.C.",
     "icon": "https://iili.io/fLHDpDl.png",
-    "tricode": "AFC",
-    "range": "",
+    "tricode": "AFC"
   },
   {
     "id": "ADB",
     "title": "Batres",
     "eqName": "Asociación Deportiva Batres",
     "icon": "https://iili.io/fLHDDHG.png",
-    "tricode": "ADB",
-    "range": "",
+    "tricode": "ADB"
   },
   {
     "id": "AhC",
     "title": "Canarios",
     "eqName": "Canarios",
     "icon": "https://iili.io/fLHbJi7.png",
-    "tricode": "CAN",
-    "range": "",
+    "tricode": "CAN"
   },
   {
     "id": "ADCD",
     "title": "Cdad Delgado",
     "eqName": "Asociación Deportiva Ciudad Delgado",
     "icon": "https://iili.io/fLHDbRf.png",
-    "tricode": "DEL",
-    "range": "",
+    "tricode": "DEL"
   },
   {
     "id": "COJUTE",
     "title": "Cojute",
     "eqName": "Cojute F",
     "icon": "https://iili.io/fLHbFUu.png",
-    "tricode": "Cojute",
-    "range": "",
+    "tricode": "Cojute"
   },
   {
     "id": "ADIJR",
     "title": "Ilopango JR",
     "eqName": "A.D. Ilopango JR",
     "icon": "https://iili.io/fLHb5Ja.png",
-    "tricode": "IJR",
-    "range": "",
+    "tricode": "IJR"
   },
   {
     "id": "ADI",
     "title": "Ilopango",
     "eqName": "A.D. Ilopango Fútbol Sala",
     "icon": "https://iili.io/fLHbabR.png",
-    "tricode": "ILO",
-    "range": "",
+    "tricode": "ILO"
   },
   {
     "id": "LFFC",
     "title": "Lourdes",
     "eqName": "Lourdes FUTSAL FC",
     "icon": "https://iili.io/fLHbjef.png",
-    "tricode": "LFFC",
-    "range": "",
+    "tricode": "LFFC"
   },
   {
     "id": "ADSJJF",
     "title": "Sn. Jacinto JR",
     "eqName": "A.D. San Jacinto Juniors FUTSAL",
     "icon": "https://iili.io/fLHbVgn.png",
-    "tricode": "SNJ",
-    "range": "",
+    "tricode": "SNJ"
   },
   {
     "id": "ADSJF",
     "title": "San Jaacinto",
     "eqName": "A.D. San Jacinto FUTSAL",
     "icon": "https://iili.io/fLHb8q7.png",
-    "tricode": "SNJ",
-    "range": "",
+    "tricode": "SNJ"
   },
   {
     "id": "CDSS",
     "title": "San Salvador",
     "eqName": "C.D. San Salvador FUTSAl",
     "icon": "https://iili.io/fLHbksS.png",
-    "tricode": "SNS",
-    "range": "",
+    "tricode": "SNS"
   },
   {
     "id": "IFSV",
     "title": "Independiente",
     "eqName": "Independiente FUTSAL",
     "icon": "https://iili.io/fLHb45b.png",
-    "tricode": "IND",
-    "range": "",
+    "tricode": "IND"
   },
   {
     "id": "SFFC",
     "title": "Soyapango",
     "eqName": "Sooyapango Futsal F.C.",
     "icon": "https://iili.io/fLHbLXV.png",
-    "tricode": "SOY",
-    "range": "",
+    "tricode": "SOY"
   },
   {
     "id": "UDC",
     "title": "Unión Deportiva",
     "eqName": "Unión Deportiva Comunitaria",
     "icon": "https://iili.io/fLHDRwl.png",
-    "tricode": "UDC",
-    "range": "",
+    "tricode": "UDC"
   }
 ]
