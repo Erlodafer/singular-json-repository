@@ -285,7 +285,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetId": "1j0rbXip64z5fyD_YSEgpiR8FXR7dEnwDuUlwVp3cxZ4",
-    "sheetRange": "INTER F!A1:B200"
+    "sheetRange": "INTER!A1:B200"
   },
   {
     "id": "limfemenino",
@@ -447,7 +447,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetId": "1ldux_8TGK9AlkkNLLEMEzgnw9TTiGxAkHY9ptbk6d4A",
-    "sheetRange": "INTER F!A1:B200"
+    "sheetRange": "INTER!A1:B200"
   },
   {
     "id": "limpresidente",
