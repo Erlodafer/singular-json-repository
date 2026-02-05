@@ -173,9 +173,10 @@
   {
     "id": "Cancha de Fútbol Escuela Americana",
     "title": "Escuela Americana",
+    "municipio": "San Salvador",
     "ubicacion": {
-      "lat": "13.697042498267638",
-      "long": "-89.24331552698544"
+      "lat": 13.68129,
+      "long": -89.22235
     }
   }
 ]
