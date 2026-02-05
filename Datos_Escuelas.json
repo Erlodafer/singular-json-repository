@@ -15,8 +15,8 @@
     "eqName": "American Nicaraguan School",
     "icon": "https://iili.io/fiGVBxn.png",
     "tricode": "ANS",
-    "range": "ANS!D1:E105",
-    "range2": "ANS 2!D1:E105",
+    "range": "ANS!A1:B105",
+    "range2": "ANS 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -35,8 +35,8 @@
     "eqName": "American School Tegucigalpa",
     "icon": "https://iili.io/fiGVz14.png",
     "tricode": "AST",
-    "range": "AST!D1:B105",
-    "range2": "AST 2!D1:B105",
+    "range": "AST!A1:B105",
+    "range2": "AST 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -55,8 +55,8 @@
     "eqName": "American School of Guatemala",
     "icon": "https://iili.io/fiGVCVs.png",
     "tricode": "CAG",
-    "range": "CAG!D1:E105",
-    "range2": "CAG 2!D1:E105",
+    "range": "CAG!A1:B105",
+    "range2": "CAG 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -75,8 +75,8 @@
     "eqName": "Country Day School",
     "icon": "https://iili.io/fiGVuJ2.png",
     "tricode": "CDS",
-    "range": "CDS!D1:E105",
-    "range2": "CDS 2!D1:E105",
+    "range": "CDS!A1:B105",
+    "range2": "CDS 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -95,8 +95,8 @@
     "eqName": "Colegio Interamericano de Guatemala",
     "icon": "https://iili.io/fiGVIUl.png",
     "tricode": "CIG",
-    "range": "CIG!D1:E105",
-    "range2": "CIG 2!D1:E105",
+    "range": "CIG!A1:B105",
+    "range2": "CIG 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -115,8 +115,8 @@
     "eqName": "Escuela Americana de El Salvador",
     "icon": "https://iili.io/fiGVARS.png",
     "tricode": "EAS",
-    "range": "EAS!D1:E105",
-    "range2": "EAS 2!D1:E105",
+    "range": "EAS!A1:B105",
+    "range2": "EAS 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -135,8 +135,8 @@
     "eqName": "Escuela Interamericana Sampedrana",
     "icon": "https://iili.io/fiGV5b9.png",
     "tricode": "EIS",
-    "range": "EIS!D1:E105",
-    "range2": "EIS 2!D1:E105",
+    "range": "EIS!A1:B105",
+    "range2": "EIS 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -155,8 +155,8 @@
     "eqName": "International School of Panama",
     "icon": "https://iili.io/fiGVaWu.png",
     "tricode": "ISP",
-    "range": "ISP!D1:E105",
-    "range2": "ISP 2!D1:E105",
+    "range": "ISP!A1:B105",
+    "range2": "ISP 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -175,8 +175,8 @@
     "eqName": "Lincoln School Costa Rica",
     "icon": "https://iili.io/fiGV0fj.png",
     "tricode": "LCR",
-    "range": "LCR!D1:E105",
-    "range2": "LCR 2!D1:E105",
+    "range": "LCR!A1:B105",
+    "range2": "LCR 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -195,8 +195,8 @@
     "eqName": "Village School of Guatemala",
     "icon": "https://iili.io/fiGVniG.png",
     "tricode": "VSG",
-    "range": "VSG!D1:E105",
-    "range2": "VSG 2!D1:E105",
+    "range": "VSG!A1:B105",
+    "range2": "VSG 2!A1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   }
 ]
