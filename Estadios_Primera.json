@@ -169,5 +169,13 @@
       "lat": "13.462968882438684",
       "long": "-89.08646344430171"
     }
+  },
+  {
+    "id": "Cancha de Fútbol Escuela Americana",
+    "title": "Escuela Americana",
+    "ubicacion": {
+      "lat": "13.697042498267638",
+      "long": "-89.24331552698544"
+    }
   }
 ]
