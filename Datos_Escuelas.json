@@ -6,6 +6,7 @@
     "icon": "https://iili.io/fiGVBxn.png",
     "tricode": "ANS",
     "range": "ANS!A1:B105",
+    "range2": "ANS 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -15,6 +16,7 @@
     "icon": "https://iili.io/fiGVBxn.png",
     "tricode": "ANS",
     "range": "ANS!D1:E105",
+    "range2": "ANS 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -24,6 +26,7 @@
     "icon": "https://iili.io/fiGVzl4.png",
     "tricode": "AST",
     "range": "AST!A1:B105",
+    "range2": "AST 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -33,6 +36,7 @@
     "icon": "https://iili.io/fiGVz14.png",
     "tricode": "AST",
     "range": "AST!D1:B105",
+    "range2": "AST 2!D1:B105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -42,6 +46,7 @@
     "icon": "https://iili.io/fiGVCVs.png",
     "tricode": "CAG",
     "range": "CAG!A1:B105",
+    "range2": "CAG 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -51,6 +56,7 @@
     "icon": "https://iili.io/fiGVCVs.png",
     "tricode": "CAG",
     "range": "CAG!D1:E105",
+    "range2": "CAG 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -60,6 +66,7 @@
     "icon": "https://iili.io/fiGVuJ2.png",
     "tricode": "CDS",
     "range": "CDS!A1:B105",
+    "range2": "CDS 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -69,6 +76,7 @@
     "icon": "https://iili.io/fiGVuJ2.png",
     "tricode": "CDS",
     "range": "CDS!D1:E105",
+    "range2": "CDS 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -78,6 +86,7 @@
     "icon": "https://iili.io/fiGVIUl.png",
     "tricode": "CIG",
     "range": "CIG!A1:B105",
+    "range2": "CIG 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -87,6 +96,7 @@
     "icon": "https://iili.io/fiGVIUl.png",
     "tricode": "CIG",
     "range": "CIG!D1:E105",
+    "range2": "CIG 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -96,6 +106,7 @@
     "icon": "https://iili.io/fiGVARS.png",
     "tricode": "EAS",
     "range": "EAS!A1:B105",
+    "range2": "EAS 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -105,6 +116,7 @@
     "icon": "https://iili.io/fiGVARS.png",
     "tricode": "EAS",
     "range": "EAS!D1:E105",
+    "range2": "EAS 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -114,6 +126,7 @@
     "icon": "https://iili.io/fiGV5b9.png",
     "tricode": "EIS",
     "range": "EIS!A1:B105",
+    "range2": "EIS 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -123,6 +136,7 @@
     "icon": "https://iili.io/fiGV5b9.png",
     "tricode": "EIS",
     "range": "EIS!D1:E105",
+    "range2": "EIS 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -132,6 +146,7 @@
     "icon": "https://iili.io/fiGVaWu.png",
     "tricode": "ISP",
     "range": "ISP!A1:B105",
+    "range2": "ISP 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -141,6 +156,7 @@
     "icon": "https://iili.io/fiGVaWu.png",
     "tricode": "ISP",
     "range": "ISP!D1:E105",
+    "range2": "ISP 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -150,6 +166,7 @@
     "icon": "https://iili.io/fiGV0fj.png",
     "tricode": "LCR",
     "range": "LCR!A1:B105",
+    "range2": "LCR 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -159,6 +176,7 @@
     "icon": "https://iili.io/fiGV0fj.png",
     "tricode": "LCR",
     "range": "LCR!D1:E105",
+    "range2": "LCR 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   },
   {
@@ -168,6 +186,7 @@
     "icon": "https://iili.io/fiGVniG.png",
     "tricode": "VSG",
     "range": "VSG!A1:B105",
+    "range2": "VSG 2!A1:B105",
     "sheetId": "1GJZltr3kYJAHVk85ZIc3IOEbs8eCrDd_SusXlEZQOao"
   },
   {
@@ -177,6 +196,7 @@
     "icon": "https://iili.io/fiGVniG.png",
     "tricode": "VSG",
     "range": "VSG!D1:E105",
+    "range2": "VSG 2!D1:E105",
     "sheetId": "1XSDSYl2RwN05toLM133ZGzYn-Z6yLHhxA95sIA1XKNM"
   }
 ]
