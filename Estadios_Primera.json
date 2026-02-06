@@ -171,6 +171,69 @@
     }
   },
   {
+  "id": "Polideportivo de Sensuntepeque",
+  "title": "Sensunte",
+  "municipio": "Sensuntepeque",
+  "ubicacion": {
+    "lat": "13.878056",
+    "long": "-88.630833"
+  }
+},
+{
+  "id": "Estadio Salvador Mariona",
+  "title": "Salvador M.",
+  "municipio": "San Salvador",
+  "ubicacion": {
+    "lat": "13.718611",
+    "long": "-89.165833"
+  }
+},
+{
+  "id": "Estadio César Angulo",
+  "title": "César A.",
+  "municipio": "San Miguel",
+  "ubicacion": {
+    "lat": "13.467222",
+    "long": "-88.183611"
+  }
+},
+{
+  "id": "Estadio Juan Molina",
+  "title": "Juan M.",
+  "municipio": "Usulután",
+  "ubicacion": {
+    "lat": "13.349167",
+    "long": "-88.445278"
+  }
+},
+{
+  "id": "Estadio Joaquín Gutiérrez",
+  "title": "Joaquín G.",
+  "municipio": "Atiquizaya",
+  "ubicacion": {
+    "lat": "13.974722",
+    "long": "-89.750556"
+  }
+},
+{
+  "id": "Estadio Mauricio Vides",
+  "title": "Mauricio V.",
+  "municipio": "Sonsonate",
+  "ubicacion": {
+    "lat": "13.722222",
+    "long": "-89.723611"
+  }
+},
+{
+  "id": "Estadio Jiboa",
+  "title": "",
+  "municipio": "San Vicente",
+  "ubicacion": {
+    "lat": "13.639167",
+    "long": "-88.785833"
+  }
+}
+  {
     "id": "Cancha de Fútbol Escuela Americana",
     "title": "Escuela Americana",
     "municipio": "San Salvador",
@@ -178,5 +241,5 @@
       "lat": 13.68129,
       "long": -89.22235
     }
-  }
+  },
 ]
