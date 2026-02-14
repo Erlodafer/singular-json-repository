@@ -11,6 +11,8 @@
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
     "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
+    "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
+    "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "payload":
    {
       "Color1":"060E02",
@@ -32,6 +34,8 @@
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
     "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
+    "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
+    "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "payload":
     {
       "Color1":"060E02",
@@ -53,6 +57,8 @@
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
     "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
+    "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
+    "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "payload":
    {
       "Color1":"060E02",
@@ -74,6 +80,8 @@
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS CELESTE OUT.webm",
     "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE IN.webm",
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE OUT.webm",
+    "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS CELESTE IN.webm",
+    "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS CELESTE OUT.webm",
     "payload":
     {
       "Color1":"02020E",      
