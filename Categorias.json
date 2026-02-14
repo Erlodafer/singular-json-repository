@@ -13,7 +13,8 @@
    {
       "Color1":"#060E02",
       "Color2":"00FF00",
-      "Color3":"ffffff"
+      "Color3":"ffffff",
+     "text1": "00ff00",
     }
   },
   {
@@ -30,7 +31,8 @@
     {
       "Color1":"#060E02",
       "Color2":"00FF00",
-      "Color3":"ffffff"
+      "Color3":"ffffff",
+      "text1": "00ff00",
     }
   },
   {
@@ -47,7 +49,8 @@
    {
       "Color1":"#060E02",
       "Color2":"00FF00",
-      "Color3":"ffffff"
+      "Color3":"ffffff",
+      "text1": "00ff00",
     }
   },
   {
@@ -64,7 +67,8 @@
     {
       "Color1":"#02020E",      
       "Color2":"008bff",
-      "Color3":"ffffff"
+      "Color3":"ffffff",
+      "text1": "#00FAFF"
     }
   }
 ]
