@@ -60,6 +60,15 @@
     "logo-2": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/2AUFDYZO65rSXgSAzHTe6z_w133h231.png",
     "logo-3": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/1RxTvLiKOgomD8XHZbtvgo_w596h226.png",
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/3OuqC2zCGtwpn6NZQAxFsc_w1212h62.png",
-    "back": "https://iili.io/fppzAjp.jpg"
+    "back": "https://iili.io/fppzAjp.jpg",
+    "payload":
+    {
+      "Color 1":"#060E02",
+      "Text Color 1":"ffffff",
+      "Color 2":"00FF00",
+      "Text Color 2":"ffffff",
+      "Color 3":"ffffff",
+      "Text Color 3":"202020"
+    }
   }
 ]
