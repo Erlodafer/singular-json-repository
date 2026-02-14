@@ -10,8 +10,8 @@
     "payload":
    {
       "Color1":"#060E02",
-      "Color 2":"00FF00",
-      "Color 3":"ffffff"
+      "Color2":"00FF00",
+      "Color3":"ffffff"
     }
   },
   {
@@ -25,8 +25,8 @@
     "payload":
     {
       "Color1":"#060E02",
-      "Color 2":"00FF00",
-      "Color 3":"ffffff"
+      "Color2":"00FF00",
+      "Color3":"ffffff"
     }
   },
   {
@@ -40,8 +40,8 @@
     "payload":
    {
       "Color1":"#060E02",
-      "Color 2":"00FF00",
-      "Color 3":"ffffff"
+      "Color2":"00FF00",
+      "Color3":"ffffff"
     }
   },
   {
@@ -55,8 +55,8 @@
     "payload":
     {
       "Color1":"#02020E",      
-      "Color 2":"008bff",
-      "Color 3":"ffffff"
+      "Color2":"008bff",
+      "Color3":"ffffff"
     }
   }
 ]
