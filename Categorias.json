@@ -10,11 +10,8 @@
     "payload":
    {
       "Color1":"#060E02",
-      "Text Color 1":"ffffff",
       "Color 2":"00FF00",
-      "Text Color 2":"ffffff",
-      "Color 3":"ffffff",
-      "Text Color 3":"202020"
+      "Color 3":"ffffff"
     }
   },
   {
@@ -28,11 +25,8 @@
     "payload":
     {
       "Color1":"#060E02",
-      "Text Color 1":"ffffff",
       "Color 2":"00FF00",
-      "Text Color 2":"ffffff",
-      "Color 3":"ffffff",
-      "Text Color 3":"202020"
+      "Color 3":"ffffff"
     }
   },
   {
@@ -46,11 +40,8 @@
     "payload":
    {
       "Color1":"#060E02",
-      "Text Color 1":"ffffff",
       "Color 2":"00FF00",
-      "Text Color 2":"ffffff",
-      "Color 3":"ffffff",
-      "Text Color 3":"202020"
+      "Color 3":"ffffff"
     }
   },
   {
@@ -63,12 +54,9 @@
     "back": "https://iili.io/fppzAjp.jpg",
     "payload":
     {
-      "Color1":"#02020E",
-      "Text Color 1":"ffffff",
+      "Color1":"#02020E",      
       "Color 2":"008bff",
-      "Text Color 2":"ffffff",
-      "Color 3":"ffffff",
-      "Text Color 3":"202020"
+      "Color 3":"ffffff"
     }
   }
 ]
