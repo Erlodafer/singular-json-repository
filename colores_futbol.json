@@ -1,0 +1,28 @@
+[
+  {
+    "id":"00898c",
+    "title":"Primera",
+    "icon":"https://image.singular.live/634cd08efd790584f33413f64f75d467/images/2SWVwEXI9tOXRxrnPr739I_w209h209.png",
+    "payload":
+    {
+      "Color1":"060E02",
+      "Color2":"00FF00",
+      "Color3":"154b00",
+     "text1": "00ff00",
+     "text2": "0B2800"
+    }
+  },
+  {
+    "id":"00b800",
+    "title":"Presidente",
+    "icon":"https://image.singular.live/634cd08efd790584f33413f64f75d467/images/5ZqsWgx5pe4siZSIrupKvC_w209h209.png",
+    "payload":
+    {
+      "Color1":"02020E",      
+      "Color2":"008bff",
+      "Color3":"00374b",
+      "text1": "00FAFF",
+      "text2": "001D28"
+    }
+  }
+]
