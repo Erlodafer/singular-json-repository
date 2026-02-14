@@ -6,7 +6,16 @@
     "logo-2": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/4vwtLv6IMEG1eg6o8FalFT_w591h834.png",
     "logo-3": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/6hmhK69URudZGSIsfNBRMV_w591h834.png",
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
-    "back": "https://iili.io/qHgQBwB.jpg"
+    "back": "https://iili.io/qHgQBwB.jpg",
+    "payload":
+    {
+      "Color 1":"00898c",
+      "Text Color 1":"ffffff",
+      "Color 2":"202020",
+      "Text Color 2":"ffffff",
+      "Color 3":"ffffff",
+      "Text Color 3":"202020"
+    }
   },
   {
     "id": "Liga de Fútbol Femenina, Torneo Clausura 2026",
@@ -15,7 +24,16 @@
     "logo-2": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/0Ur21ooFXt7lR9B8dsTHSM_w760h904.png",
     "logo-3": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/5msGMPggBkbSQgLkcHVnPo_w8276h10195.png",
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
-    "back": "https://iili.io/qHgQBwB.jpg"
+    "back": "https://iili.io/qHgQBwB.jpg",
+    "payload":
+    {
+      "Color 1":"00898c",
+      "Text Color 1":"ffffff",
+      "Color 2":"202020",
+      "Text Color 2":"ffffff",
+      "Color 3":"ffffff",
+      "Text Color 3":"202020"
+    }
   },
   {
     "id": "Liga Mayor de Fútbol Reserva, Torneo Clausura 2026",
@@ -24,7 +42,16 @@
     "logo-2": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/2d0CwTVLFJYGqoexODsVT9_w779h256.png",
     "logo-3": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/1ehM4zDOySREgPdVLGZRP3_w779h256.png",
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
-    "back": "https://iili.io/qHgQBwB.jpg"
+    "back": "https://iili.io/qHgQBwB.jpg",
+    "payload":
+    {
+      "Color 1":"00898c",
+      "Text Color 1":"ffffff",
+      "Color 2":"202020",
+      "Text Color 2":"ffffff",
+      "Color 3":"ffffff",
+      "Text Color 3":"202020"
+    }
   },
   {
     "id": "Copa Presidente 2026",
