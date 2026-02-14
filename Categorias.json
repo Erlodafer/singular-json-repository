@@ -13,10 +13,11 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
    {
-      "Color1":"#060E02",
+      "Color1":"060E02",
       "Color2":"00FF00",
       "Color3":"154b00",
-     "text1": "00ff00"
+     "text1": "00ff00",
+     "text2": "0B2800"
     }
   },
   {
@@ -33,10 +34,11 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
     {
-      "Color1":"#060E02",
+      "Color1":"060E02",
       "Color2":"00FF00",
       "Color3":"154b00",
-      "text1": "00ff00"
+      "text1": "00ff00",
+     "text2": "0B2800"
     }
   },
   {
@@ -53,10 +55,11 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
    {
-      "Color1":"#060E02",
+      "Color1":"060E02",
       "Color2":"00FF00",
       "Color3":"154b00",
-      "text1": "00ff00"
+      "text1": "00ff00",
+     "text2": "0B2800"
     }
   },
   {
@@ -73,10 +76,11 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE OUT.webm",
     "payload":
     {
-      "Color1":"#02020E",      
+      "Color1":"02020E",      
       "Color2":"008bff",
       "Color3":"00374b",
-      "text1": "00FAFF"
+      "text1": "00FAFF",
+      "text2": "001D28"
     }
   }
 ]
