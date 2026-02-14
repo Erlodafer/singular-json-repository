@@ -9,6 +9,8 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "base1in": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS IN.webm",
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
+    "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
+    "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
    {
       "Color1":"#060E02",
@@ -27,6 +29,8 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "base1in": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS IN.webm",
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
+    "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
+    "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
     {
       "Color1":"#060E02",
@@ -45,6 +49,8 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "base1in": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS IN.webm",
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
+    "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
+    "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "payload":
    {
       "Color1":"#060E02",
@@ -63,6 +69,8 @@
     "back": "https://iili.io/fppzAjp.jpg",
     "base1in": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS CELESTE IN.webm",
     "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS CELESTE OUT.webm",
+    "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE IN.webm",
+    "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE OUT.webm",
     "payload":
     {
       "Color1":"#02020E",      
