@@ -9,7 +9,7 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
    {
-      "Color 1":"#060E02",
+      "Color1":"#060E02",
       "Text Color 1":"ffffff",
       "Color 2":"00FF00",
       "Text Color 2":"ffffff",
@@ -27,7 +27,7 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
     {
-      "Color 1":"#060E02",
+      "Color1":"#060E02",
       "Text Color 1":"ffffff",
       "Color 2":"00FF00",
       "Text Color 2":"ffffff",
@@ -45,7 +45,7 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
    {
-      "Color 1":"#060E02",
+      "Color1":"#060E02",
       "Text Color 1":"ffffff",
       "Color 2":"00FF00",
       "Text Color 2":"ffffff",
@@ -63,7 +63,7 @@
     "back": "https://iili.io/fppzAjp.jpg",
     "payload":
     {
-      "Color 1":"#02020E",
+      "Color1":"#02020E",
       "Text Color 1":"ffffff",
       "Color 2":"008bff",
       "Text Color 2":"ffffff",
