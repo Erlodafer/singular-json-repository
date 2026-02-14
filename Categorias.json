@@ -13,6 +13,8 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
+    "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
+    "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "payload":
    {
       "Color1":"060E02",
@@ -36,6 +38,8 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
+    "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
+    "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "payload":
     {
       "Color1":"060E02",
@@ -59,6 +63,8 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
     "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
+    "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
+    "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "payload":
    {
       "Color1":"060E02",
@@ -82,6 +88,8 @@
     "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER CELESTE OUT.webm",
     "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS CELESTE IN.webm",
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS CELESTE OUT.webm",
+    "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE IN.webm",
+    "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE OUT.webm",
     "payload":
     {
       "Color1":"02020E",      
