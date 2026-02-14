@@ -8,10 +8,10 @@
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
-    {
-      "Color 1":"00898c",
+   {
+      "Color 1":"#060E02",
       "Text Color 1":"ffffff",
-      "Color 2":"202020",
+      "Color 2":"00FF00",
       "Text Color 2":"ffffff",
       "Color 3":"ffffff",
       "Text Color 3":"202020"
@@ -27,9 +27,9 @@
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
     {
-      "Color 1":"00898c",
+      "Color 1":"#060E02",
       "Text Color 1":"ffffff",
-      "Color 2":"202020",
+      "Color 2":"00FF00",
       "Text Color 2":"ffffff",
       "Color 3":"ffffff",
       "Text Color 3":"202020"
@@ -44,10 +44,10 @@
     "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
     "back": "https://iili.io/qHgQBwB.jpg",
     "payload":
-    {
-      "Color 1":"00898c",
+   {
+      "Color 1":"#060E02",
       "Text Color 1":"ffffff",
-      "Color 2":"202020",
+      "Color 2":"00FF00",
       "Text Color 2":"ffffff",
       "Color 3":"ffffff",
       "Text Color 3":"202020"
@@ -63,9 +63,9 @@
     "back": "https://iili.io/fppzAjp.jpg",
     "payload":
     {
-      "Color 1":"#060E02",
+      "Color 1":"#02020E",
       "Text Color 1":"ffffff",
-      "Color 2":"00FF00",
+      "Color 2":"008bff",
       "Text Color 2":"ffffff",
       "Color 3":"ffffff",
       "Text Color 3":"202020"
