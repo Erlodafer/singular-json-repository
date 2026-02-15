@@ -16,19 +16,7 @@
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
-    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
-    "payload":
-   {
-     "Color1":"060E02",
-     "Color2":"00FF00",
-     "Color3":"154b00",
-     "Color4": "00b800",
-     "text1": "00ff00",
-     "text2": "0B2800",
-     "Pregame Color":"075F00",
-     "Live Color":"00FF00",
-     "Postgame Color": "000F00"
-    }
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm"
   },
   {
     "id": "Liga de Fútbol Femenina, Torneo Clausura 2026",
@@ -47,16 +35,7 @@
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
-    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
-    "payload":
-    {
-      "Color1":"060E02",
-      "Color2":"00FF00",
-      "Color3":"154b00",
-      "Color4": "00b800",
-      "text1": "00ff00",
-      "text2": "0B2800"
-    }
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm"
   },
   {
     "id": "Liga Mayor de Fútbol Reserva, Torneo Clausura 2026",
@@ -75,16 +54,7 @@
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
     "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
-    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
-    "payload":
-   {
-     "Color1":"060E02",
-     "Color2":"00FF00",
-     "Color3":"154b00",
-     "Color4": "00b800",
-     "text1": "00ff00",
-     "text2": "0B2800"
-    }
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm"
   },
   {
     "id": "Copa Presidente 2026",
@@ -103,18 +73,6 @@
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE OUT.webm",
     "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE IN.webm",
-    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE OUT.webm",
-    "payload":
-    {
-      "Color1":"02020E",      
-      "Color2":"008bff",
-      "Color3":"00374b",
-      "Color4": "0064b8",
-      "text1": "00FAFF",
-      "text2": "001D28",
-      "Pregame Color":"001F5F",
-      "Live Color":"00BAFF",
-      "Postgame Color": "00010F"
-    }
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE OUT.webm"
   }
 ]
