@@ -15,6 +15,8 @@
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
+    "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
     "payload":
    {
      "Color1":"060E02",
@@ -44,6 +46,8 @@
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
+    "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
     "payload":
     {
       "Color1":"060E02",
@@ -70,6 +74,8 @@
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
+    "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
     "payload":
    {
      "Color1":"060E02",
@@ -96,6 +102,8 @@
     "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS CELESTE OUT.webm",
     "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE IN.webm",
     "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS CELESTE OUT.webm",
+    "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE IN.webm",
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE OUT.webm",
     "payload":
     {
       "Color1":"02020E",      
