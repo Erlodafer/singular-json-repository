@@ -22,7 +22,10 @@
      "Color3":"154b00",
      "Color4": "00b800",
      "text1": "00ff00",
-     "text2": "0B2800"
+     "text2": "0B2800",
+     "Pregame Color":"075F00",
+     "Live Color":"00FF00",
+     "Postgame Color": "000F00"
     }
   },
   {
@@ -100,7 +103,10 @@
       "Color3":"00374b",
       "Color4": "0064b8",
       "text1": "00FAFF",
-      "text2": "001D28"
+      "text2": "001D28",
+      "Pregame Color":"001F5F",
+      "Live Color":"00BAFF",
+      "Postgame Color": "00010F"
     }
   }
 ]
