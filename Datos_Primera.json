@@ -6,7 +6,7 @@
     "icon": "https://iili.io/frt3eVa.png",
     "tricode": "Agu",
     "sheetRange": "AGUILA!D1:E15",
-    "sheetRange2": "AGUILA!A1:B100"
+    "sheetRange2": "AGUILA!A1:B125"
   },
   {
     "id": "alireservas",
@@ -15,7 +15,7 @@
     "icon": "https://iili.io/frt3USp.png",
     "tricode": "Ali",
     "sheetRange": "ALIANZA!D1:E15",
-    "sheetRange2": "ALIANZA!A1:B100"
+    "sheetRange2": "ALIANZA!A1:B125"
   },
   {
     "id": "cahreservas",
@@ -24,7 +24,7 @@
     "icon": "https://iili.io/frt34RI.png",
     "tricode": "Cah",
     "sheetRange": "CACAHUATIQUE!D1:E15",
-    "sheetRange2": "CACAHUATIQUE!A1:B100"
+    "sheetRange2": "CACAHUATIQUE!A1:B125"
   },
   {
     "id": "cdhreservas",
@@ -33,7 +33,7 @@
     "icon": "https://iili.io/frt3QiG.png",
     "tricode": "CDH",
     "sheetRange": "HERCULES!D1:E15",
-    "sheetRange2": "HERCULES!A1:B100"
+    "sheetRange2": "HERCULES!A1:B125"
   },
   {
     "id": "fasreservas",
@@ -42,7 +42,7 @@
     "icon": "https://iili.io/frt3PDX.png",
     "tricode": "FAS",
     "sheetRange": "FAS!D1:E15",
-    "sheetRange2": "FAS!A1:B100"
+    "sheetRange2": "FAS!A1:B125"
   },
   {
     "id": "firreservas",
@@ -51,7 +51,7 @@
     "icon": "https://iili.io/frt36Nt.png",
     "tricode": "Fir",
     "sheetRange": "FIRPO!D1:E15",
-    "sheetRange2": "FIRPO!A1:B100"
+    "sheetRange2": "FIRPO!A1:B125"
   },
   {
     "id": "fsfreservas",
@@ -60,7 +60,7 @@
     "icon": "https://iili.io/frt3tff.png",
     "tricode": "FSF",
     "sheetRange": "FUERTE!D1:E15",
-    "sheetRange2": "FUERTE!A1:B100"
+    "sheetRange2": "FUERTE!A1:B125"
   },
   {
     "id": "ifareservas",
@@ -69,7 +69,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetRange": "INTER!D1:E15",
-    "sheetRange2": "INTER!A1:B100"
+    "sheetRange2": "INTER!A1:B125"
   },
   {
     "id": "limreservas",
@@ -78,7 +78,7 @@
     "icon": "https://iili.io/frt3bUl.png",
     "tricode": "Lim",
     "sheetRange": "LIMEÑO!D1:E15",
-    "sheetRange2": "LIMEÑO!A1:B100"
+    "sheetRange2": "LIMEÑO!A1:B125"
   },
   {
     "id": "metreservas",
@@ -87,7 +87,7 @@
     "icon": "https://iili.io/frt3Oog.png",
     "tricode": "Met",
     "sheetRange": "METAPAN!D1:E15",
-    "sheetRange2": "METAPAN!A1:B100"
+    "sheetRange2": "METAPAN!A1:B125"
   },
   {
     "id": "plareservas",
@@ -96,7 +96,7 @@
     "icon": "https://iili.io/frt3SlR.png",
     "tricode": "PLA",
     "sheetRange": "PLATENSE!D1:E15",
-    "sheetRange2": "PLATENSE!A1:B100"
+    "sheetRange2": "PLATENSE!A1:B125"
   },
   {
     "id": "zfcreservas",
@@ -105,7 +105,7 @@
     "icon": "https://iili.io/frt3rHN.png",
     "tricode": "ZFC",
     "sheetRange": "ZACATE!D1:E15",
-    "sheetRange2": "ZACATE!A1:B100"
+    "sheetRange2": "ZACATE!A1:B125"
   },
   {
     "id": "agusub17",
@@ -114,7 +114,7 @@
     "icon": "https://iili.io/frt3eVa.png",
     "tricode": "Agu",
     "sheetRange": "AGUILA!D1:E15",
-    "sheetRange2": "AGUILA!A1:B100"
+    "sheetRange2": "AGUILA!A1:B125"
   },
   {
     "id": "alisub17",
@@ -123,7 +123,7 @@
     "icon": "https://iili.io/frt3USp.png",
     "tricode": "Ali",
     "sheetRange": "ALIANZA!D1:E15",
-    "sheetRange2": "ALIANZA!A1:B100"
+    "sheetRange2": "ALIANZA!A1:B125"
   },
   {
     "id": "cahsub17",
@@ -132,7 +132,7 @@
     "icon": "https://iili.io/frt34RI.png",
     "tricode": "Cah",
     "sheetRange": "CACAHUATIQUE!D1:E15",
-    "sheetRange2": "CACAHUATIQUE!A1:B100"
+    "sheetRange2": "CACAHUATIQUE!A1:B125"
   },
   {
     "id": "cdhsub17",
@@ -141,7 +141,7 @@
     "icon": "https://iili.io/frt3QiG.png",
     "tricode": "CDH",
     "sheetRange": "HERCULES!D1:E15",
-    "sheetRange2": "HERCULES!A1:B100"
+    "sheetRange2": "HERCULES!A1:B125"
   },
   {
     "id": "fassub17",
@@ -150,7 +150,7 @@
     "icon": "https://iili.io/frt3PDX.png",
     "tricode": "FAS",
     "sheetRange": "FAS!D1:E15",
-    "sheetRange2": "FAS!A1:B100"
+    "sheetRange2": "FAS!A1:B125"
   },
   {
     "id": "firsub17",
@@ -159,7 +159,7 @@
     "icon": "https://iili.io/frt36Nt.png",
     "tricode": "Fir",
     "sheetRange": "FIRPO!D1:E15",
-    "sheetRange2": "FIRPO!A1:B100"
+    "sheetRange2": "FIRPO!A1:B125"
   },
   {
     "id": "fsfsub17",
@@ -168,7 +168,7 @@
     "icon": "https://iili.io/frt3tff.png",
     "tricode": "FSF",
     "sheetRange": "FUERTE!D1:E15",
-    "sheetRange2": "FUERTE!A1:B100"
+    "sheetRange2": "FUERTE!A1:B125"
   },
   {
     "id": "ifasub17",
@@ -177,7 +177,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetRange": "INTER!D1:E15",
-    "sheetRange2": "INTER!A1:B100"
+    "sheetRange2": "INTER!A1:B125"
   },
   {
     "id": "limsub17",
@@ -186,7 +186,7 @@
     "icon": "https://iili.io/frt3bUl.png",
     "tricode": "Lim",
     "sheetRange": "LIMEÑO!D1:E15",
-    "sheetRange2": "LIMEÑO!A1:B100"
+    "sheetRange2": "LIMEÑO!A1:B125"
   },
   {
     "id": "metsub17",
@@ -195,7 +195,7 @@
     "icon": "https://iili.io/frt3Oog.png",
     "tricode": "Met",
     "sheetRange": "METAPAN!D1:E15",
-    "sheetRange2": "METAPAN!A1:B100"
+    "sheetRange2": "METAPAN!A1:B125"
   },
   {
     "id": "plasub17",
@@ -204,7 +204,7 @@
     "icon": "https://iili.io/frt3SlR.png",
     "tricode": "PLA",
     "sheetRange": "PLATENSE!D1:E15",
-    "sheetRange2": "PLATENSE!A1:B100"
+    "sheetRange2": "PLATENSE!A1:B125"
   },
   {
     "id": "zfcsub17",
@@ -213,7 +213,7 @@
     "icon": "https://iili.io/frt3rHN.png",
     "tricode": "ZFC",
     "sheetRange": "ZACATE!D1:E15",
-    "sheetRange2": "ZACATE!A1:B100"
+    "sheetRange2": "ZACATE!A1:B125"
   },
   {
     "id": "agufemenino",
@@ -222,7 +222,7 @@
     "icon": "https://iili.io/frt3eVa.png",
     "tricode": "Agu",
     "sheetRange": "AGUILA!D1:E15",
-    "sheetRange2": "AGUILA!A1:B100"
+    "sheetRange2": "AGUILA!A1:B125"
   },
   {
     "id": "alifemenino",
@@ -231,7 +231,7 @@
     "icon": "https://iili.io/frt38Kv.png",
     "tricode": "Ali",
     "sheetRange": "ALIANZA!D1:E15",
-    "sheetRange2": "ALIANZA!A1:B100"
+    "sheetRange2": "ALIANZA!A1:B125"
   },
   {
     "id": "cahfemenino",
@@ -240,7 +240,7 @@
     "icon": "https://iili.io/frt34RI.png",
     "tricode": "Cah",
     "sheetRange": "CACAHUATIQUE!D1:E15",
-    "sheetRange2": "CACAHUATIQUE!A1:B100"
+    "sheetRange2": "CACAHUATIQUE!A1:B125"
   },
   {
     "id": "cdhfemenino",
@@ -249,7 +249,7 @@
     "icon": "https://iili.io/frt3QiG.png",
     "tricode": "CDH",
     "sheetRange": "HERCULES!D1:E15",
-    "sheetRange2": "HERCULES!A1:B100"
+    "sheetRange2": "HERCULES!A1:B125"
   },
   {
     "id": "fasfemenino",
@@ -258,7 +258,7 @@
     "icon": "https://iili.io/frt3PDX.png",
     "tricode": "FAS",
     "sheetRange": "FAS!D1:E15",
-    "sheetRange2": "FAS!A1:B100"
+    "sheetRange2": "FAS!A1:B125"
   },
   {
     "id": "firfemenino",
@@ -267,7 +267,7 @@
     "icon": "https://iili.io/frt36Nt.png",
     "tricode": "Fir",
     "sheetRange": "FIRPO!D1:E15",
-    "sheetRange2": "FIRPO!A1:B100"
+    "sheetRange2": "FIRPO!A1:B125"
   },
   {
     "id": "fsffemenino",
@@ -276,7 +276,7 @@
     "icon": "https://iili.io/frt3tff.png",
     "tricode": "FSF",
     "sheetRange": "FUERTE!D1:E15",
-    "sheetRange2": "FUERTE!A1:B100"
+    "sheetRange2": "FUERTE!A1:B125"
   },
   {
     "id": "ifafemenino",
@@ -285,7 +285,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetRange": "INTER!D1:E15",
-    "sheetRange2": "INTER!A1:B100"
+    "sheetRange2": "INTER!A1:B125"
   },
   {
     "id": "limfemenino",
@@ -294,7 +294,7 @@
     "icon": "https://iili.io/frt3bUl.png",
     "tricode": "Lim",
     "sheetRange": "LIMEÑO!D1:E15",
-    "sheetRange2": "LIMEÑO!A1:B100"
+    "sheetRange2": "LIMEÑO!A1:B125"
   },
   {
     "id": "metfemenino",
@@ -303,7 +303,7 @@
     "icon": "https://iili.io/frt3Oog.png",
     "tricode": "Met",
     "sheetRange": "METAPAN!D1:E15",
-    "sheetRange2": "METAPAN!A1:B100"
+    "sheetRange2": "METAPAN!A1:B125"
   },
   {
     "id": "plafemenino",
@@ -312,7 +312,7 @@
     "icon": "https://iili.io/frt3SlR.png",
     "tricode": "PLA",
     "sheetRange": "PLATENSE!D1:E15",
-    "sheetRange2": "PLATENSE!A1:B100"
+    "sheetRange2": "PLATENSE!A1:B125"
   },
   {
     "id": "zfcfemenino",
@@ -321,7 +321,7 @@
     "icon": "https://iili.io/frt3rHN.png",
     "tricode": "ZFC",
     "sheetRange": "ZACATE!D1:E15",
-    "sheetRange2": "ZACATE!A1:B100"
+    "sheetRange2": "ZACATE!A1:B125"
   },
   {
     "id": "adipresidente",
@@ -330,7 +330,7 @@
     "icon": "https://iili.io/f6fFQLv.png",
     "tricode": "ADI",
     "sheetRange": "IZALCO!D1:E15",
-    "sheetRange2": "IZALCO!A1:B100"
+    "sheetRange2": "IZALCO!A1:B125"
   },
   {
     "id": "adbpresidente",
@@ -339,7 +339,7 @@
     "icon": "https://iili.io/f6fF471.png",
     "tricode": "ADB",
     "sheetRange": "BATANECOS!D1:E15",
-    "sheetRange2": "BATANECOS!A1:B100"
+    "sheetRange2": "BATANECOS!A1:B125"
   },
   {
     "id": "agupresidente",
@@ -348,7 +348,7 @@
     "icon": "https://iili.io/frt3eVa.png",
     "tricode": "Agu",
     "sheetRange": "AGUILA!D1:E15",
-    "sheetRange2": "AGUILA!A1:B100"
+    "sheetRange2": "AGUILA!A1:B125"
   },
   {
     "id": "alipresidente",
@@ -357,7 +357,7 @@
     "icon": "https://iili.io/frt3USp.png",
     "tricode": "Ali",
     "sheetRange": "ALIANZA!D1:E15",
-    "sheetRange2": "ALIANZA!A1:B100"
+    "sheetRange2": "ALIANZA!A1:B125"
   },
   {
     "id": "cahpresidente",
@@ -366,7 +366,7 @@
     "icon": "https://iili.io/frt34RI.png",
     "tricode": "Cah",
     "sheetRange": "CACAHUATIQUE!D1:E15",
-    "sheetRange2": "CACAHUATIQUE!A1:B100"
+    "sheetRange2": "CACAHUATIQUE!A1:B125"
   },
   {
     "id": "cdhpresidente",
@@ -375,7 +375,7 @@
     "icon": "https://iili.io/frt3QiG.png",
     "tricode": "CDH",
     "sheetRange": "HERCULES!D1:E15",
-    "sheetRange2": "HERCULES!A1:B100"
+    "sheetRange2": "HERCULES!A1:B125"
   },
   {
     "id": "cdrpresidente",
@@ -384,7 +384,7 @@
     "icon": "https://iili.io/f6fFVgS.png",
     "tricode": "CDR",
     "sheetRange": "ROBLE!D1:E15",
-    "sheetRange2": "ROBLE!A1:B100"
+    "sheetRange2": "ROBLE!A1:B125"
   },
   {
     "id": "crzpresidente",
@@ -393,7 +393,7 @@
     "icon": "https://iili.io/f6fF6kF.png",
     "tricode": "CRZ",
     "sheetRange": "CRUZEIRO!D1:E15",
-    "sheetRange2": "CRUZEIRO!A1:B100"
+    "sheetRange2": "CRUZEIRO!A1:B125"
   },
   {
     "id": "drapresidente",
@@ -402,7 +402,7 @@
     "icon": "https://iili.io/f6fFPmg.png",
     "tricode": "DRA",
     "sheetRange": "DRAGON!D1:E15",
-    "sheetRange2": "DRAGON!A1:B100"
+    "sheetRange2": "DRAGON!A1:B125"
   },
   {
     "id": "faspresidente",
@@ -411,7 +411,7 @@
     "icon": "https://iili.io/frt3PDX.png",
     "tricode": "FAS",
     "sheetRange": "FAS!D1:E15",
-    "sheetRange2": "FAS!A1:B100"
+    "sheetRange2": "FAS!A1:B125"
   },
   {
     "id": "firpresidente",
@@ -420,7 +420,7 @@
     "icon": "https://iili.io/frt36Nt.png",
     "tricode": "Fir",
     "sheetRange": "FIRPO!D1:E15",
-    "sheetRange2": "FIRPO!A1:B100"
+    "sheetRange2": "FIRPO!A1:B125"
   },
   {
     "id": "fsfpresidente",
@@ -429,7 +429,7 @@
     "icon": "https://iili.io/frt3tff.png",
     "tricode": "FSF",
     "sheetRange": "FUERTE!D1:E15",
-    "sheetRange2": "FUERTE!A1:B100"
+    "sheetRange2": "FUERTE!A1:B125"
   },
   {
     "id": "ftapresidente",
@@ -438,7 +438,7 @@
     "icon": "https://iili.io/f6fFLhJ.png",
     "tricode": "FTA",
     "sheetRange": "AGUILARES!D1:E15",
-    "sheetRange2": "AGUILARES!A1:B100"
+    "sheetRange2": "AGUILARES!A1:B125"
   },
   {
     "id": "ifapresidente",
@@ -447,7 +447,7 @@
     "icon": "https://iili.io/frt3Dl4.png",
     "tricode": "IFA",
     "sheetRange": "INTER!D1:E15",
-    "sheetRange2": "INTER!A1:B100"
+    "sheetRange2": "INTER!A1:B125"
   },
   {
     "id": "limpresidente",
@@ -456,7 +456,7 @@
     "icon": "https://iili.io/frt3bUl.png",
     "tricode": "Lim",
     "sheetRange": "LIMEÑO!D1:E15",
-    "sheetRange2": "LIMEÑO!A1:B100"
+    "sheetRange2": "LIMEÑO!A1:B125"
   },
   {
     "id": "metpresidente",
@@ -465,7 +465,7 @@
     "icon": "https://iili.io/frt3Oog.png",
     "tricode": "Met",
     "sheetRange": "METAPAN!D1:E15",
-    "sheetRange2": "METAPAN!A1:B100"
+    "sheetRange2": "METAPAN!A1:B125"
   },
   {
     "id": "munpresidente",
@@ -474,7 +474,7 @@
     "icon": "https://iili.io/f6fF8qQ.png",
     "tricode": "mun",
     "sheetRange": "MUNICIPAL!D1:E15",
-    "sheetRange2": "MUNICIPAL!A1:B100"
+    "sheetRange2": "MUNICIPAL!A1:B125"
   },
   {
     "id": "plapresidente",
@@ -483,7 +483,7 @@
     "icon": "https://iili.io/frt3SlR.png",
     "tricode": "PLA",
     "sheetRange": "PLATENSE!D1:E15",
-    "sheetRange2": "PLATENSE!A1:B100"
+    "sheetRange2": "PLATENSE!A1:B125"
   },
   {
     "id": "racpresidente",
@@ -492,7 +492,7 @@
     "icon": "https://iili.io/f6fFh79.png",
     "tricode": "RAC",
     "sheetRange": "RACING!D1:E15",
-    "sheetRange2": "RACING!A1:B100"
+    "sheetRange2": "RACING!A1:B125"
   },
   {
     "id": "senpresidente",
@@ -501,7 +501,7 @@
     "icon": "https://iili.io/f6fFM12.png",
     "tricode": "SEC",
     "sheetRange": "SENSUNTE!D1:E15",
-    "sheetRange2": "SENSUNTE!A1:B100"
+    "sheetRange2": "SENSUNTE!A1:B125"
   },
   {
     "id": "tenpresidente",
@@ -510,7 +510,7 @@
     "icon": "https://iili.io/f6fFOzb.png",
     "tricode": "TEN",
     "sheetRange": "TENANCINGO!D1:E15",
-    "sheetRange2": "TENANCINGO!A1:B100"
+    "sheetRange2": "TENANCINGO!A1:B125"
   },
   {
     "id": "tjrpresidente",
@@ -519,7 +519,7 @@
     "icon": "https://iili.io/f6fFXd7.png",
     "tricode": "TJR",
     "sheetRange": "TALLERES!D1:E15",
-    "sheetRange2": "TALLERES!A1:B100"
+    "sheetRange2": "TALLERES!A1:B125"
   },
   {
     "id": "venpresidente",
@@ -528,7 +528,7 @@
     "icon": "https://iili.io/f6fFkLx.png",
     "tricode": "VEN",
     "sheetRange": "VENDAVAL!D1:E15",
-    "sheetRange2": "VENDAVAL!A1:B100"
+    "sheetRange2": "VENDAVAL!A1:B125"
   },
   {
     "id": "zfcpresidente",
@@ -537,6 +537,6 @@
     "icon": "https://iili.io/frt3rHN.png",
     "tricode": "ZFC",
     "sheetRange": "ZACATE!D1:E15",
-    "sheetRange2": "ZACATE!A1:B100"
+    "sheetRange2": "ZACATE!A1:B125"
   }
 ]
