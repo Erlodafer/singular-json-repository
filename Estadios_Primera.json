@@ -45,7 +45,7 @@
     }
   },
   {
-    "id": "Est. Nac. Las Delicias",
+    "id": "Est. Nacional Las Delicias",
     "title": "Las Delicias",
     "municipio": "Santa Tecla",
     "ubicacion": {
@@ -153,7 +153,7 @@
     }
   },
   {
-    "id": "Estadio Borja Castillo",
+    "id": "Estadio José Borjas Castillo",
     "title": "Borja Castillo",
     "municipio": "San Rafael Obrajuelo",
     "ubicacion": {
@@ -162,7 +162,7 @@
     }
   },
   {
-    "id": "Cancha Municipal San Luis Talpa",
+    "id": "Estadio Municipal de San Luis Talpa",
     "title": "San Luis Talpa",
     "municipio": "San Luis Talpa",
     "ubicacion": {
@@ -231,15 +231,6 @@
     "ubicacion": {
       "lat": 13.639167,
       "long": -88.785833
-    }
-  },
-  {
-    "id": "Cancha de Fútbol Escuela Americana",
-    "title": "Escuela Americana",
-    "municipio": "San Salvador",
-    "ubicacion": {
-      "lat": 13.68129,
-      "long": -89.22235
     }
   }
 ]
