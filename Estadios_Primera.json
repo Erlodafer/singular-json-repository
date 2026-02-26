@@ -232,5 +232,14 @@
       "lat": 13.639167,
       "long": -88.785833
     }
+  },
+  {
+    "id": "Estadio FESA Guazapa",
+    "title": "FESA G.",
+    "municipio": "Guazapa",
+    "ubicacion": {
+      "lat": 13.864398082604017,
+      "long": -89.16336637362681 
+    }
   }
 ]
