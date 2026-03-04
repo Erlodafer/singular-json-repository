@@ -98,8 +98,8 @@
         "bomperlocout": "https://erlodafer.github.io/Banderas_Animacion/EL SALVADOR - LOCAL OUT - BOMPER.webm",
         "bompervisin": "https://erlodafer.github.io/Banderas_Animacion/EL SALVADOR - VISITA IN - BOMPER.webm",
         "bompervisout": "https://erlodafer.github.io/Banderas_Animacion/EL SALVADOR - VISITA OUT - BOMPER.webm",
-        "sheetRange": "EL SALVADORF!D1:I15",
-        "sheetRange2": "EL SALVADORF!A1:B75"
+        "sheetRange": "SALVADORF!D1:I15",
+        "sheetRange2": "SALVADORF!A1:B75"
     },
     {
         "id": "México",
