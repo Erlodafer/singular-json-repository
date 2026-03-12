@@ -241,5 +241,14 @@
       "lat": 13.864398082604017,
       "long": -89.16336637362681 
     }
+  },
+  {
+    "id": "Estadio César Antonio Angulo",
+    "title": "César A.",
+    "municipio": "San Miguel",
+    "ubicacion": {
+      "lat": 13.359925214615402,
+      "long": -88.34964897727718
+    }
   }
 ]
