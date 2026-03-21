@@ -250,5 +250,14 @@
       "lat": 13.359925214615402,
       "long": -88.34964897727718
     }
+  },
+  {
+    "id": "UES",
+    "title": "Estadio de la UES",
+    "municipio": "San Salvador",
+    "ubicacion": {
+      "lat": 13.721836686308517,
+      "long": -89.20200263309039
+    }
   }
 ]
