@@ -252,8 +252,8 @@
     }
   },
   {
-    "id": "UES",
-    "title": "Estadio de la UES",
+    "id": "Estadio de la UES",
+    "title": "UES",
     "municipio": "San Salvador",
     "ubicacion": {
       "lat": 13.721836686308517,
