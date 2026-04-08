@@ -94,7 +94,7 @@
     "title": "Sergio T. Rivera",
     "municipio": "Usulután",
     "ubicacion": {
-      "lat": 13.34500,
+      "lat": 13.345,
       "long": -88.43694
     }
   },
@@ -221,7 +221,7 @@
     "municipio": "Ilobasco",
     "ubicacion": {
       "lat": 13.844878,
-      "long": -88.854926      
+      "long": -88.854926
     }
   },
   {
@@ -239,7 +239,7 @@
     "municipio": "Guazapa",
     "ubicacion": {
       "lat": 13.864398082604017,
-      "long": -89.16336637362681 
+      "long": -89.16336637362681
     }
   },
   {
@@ -258,6 +258,15 @@
     "ubicacion": {
       "lat": 13.721836686308517,
       "long": -89.20200263309039
+    }
+  },
+  {
+    "id": "Estadio Juan Francisco Molina",
+    "title": "JF Molina",
+    "municipio": "San Sebastián",
+    "ubicacion": {
+      "lat": 13.723664591612199,
+      "long": -88.82137433280327
     }
   }
 ]
