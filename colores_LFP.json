@@ -1,18 +1,19 @@
 [
   {
-    "id": "Masc",
-    "title": "Masculino",
-    "icon": "https://iili.io/F3dZJkb.png",
-    "color1": "#043ba8",
-    "color2": "#649ae1",
-    "color3": "#00154b"
-  },
-  {
-    "id": "Fem",
-    "title": "Femenino",
-    "icon": "https://iili.io/F3dZHYu.png",
-    "color1": "#572C85",
-    "color2": "#A175DB",
-    "color3": "#3e005c"
+    "id":"Primera",
+    "title":"Primera",
+    "icon":"https://image.singular.live/634cd08efd790584f33413f64f75d467/images/2SWVwEXI9tOXRxrnPr739I_w209h209.png",
+    "payload":
+    {
+     "Color1":"060E02",
+     "Color2":"00FF00",
+     "Color3":"154b00",
+     "Color4": "00b800",
+     "text1": "00ff00",
+     "text2": "0B2800",
+     "Pregame Color":"075F00",
+     "Live Color":"00FF00",
+     "Postgame Color": "000F00"
+    }
   }
 ]
