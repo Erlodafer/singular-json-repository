@@ -82,5 +82,26 @@
     "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE IN.webm",
     "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIS CELESTE OUT.webm",
     "backCuenta": "https://iili.io/qdTnikx.jpg"
+  },
+  {
+    "id": "Segunda División, Torneo Clausura 2026",
+    "title": "Segunda",
+    "sheetId": "1sl0-BkZLKRC4YAocYWOYHzIH_Cxt0Lb8q3Gr5Dl50-4",
+    "logo-1": "https://i.ibb.co/978Qys0/SEGUNDA-DIVISI-N.png",
+    "logo-2": "https://i.ibb.co/978Qys0/SEGUNDA-DIVISI-N.png",
+    "logo-3": "https://i.ibb.co/978Qys0/SEGUNDA-DIVISI-N.png",
+    "barraDec": "https://image.singular.live/634cd08efd790584f33413f64f75d467/images/626oEiqJTTq5uA2AMYEUcu_w1212h62.png",
+    "back": "https://iili.io/qHgQBwB.jpg",
+    "base1in": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS IN.webm",
+    "base1out": "https://erlodafer.github.io/BASES-LMF-2026/ÁRBITROS OUT.webm",
+    "base2in": "https://erlodafer.github.io/BASES-LMF-2026/BOMER IN.webm",
+    "base2out": "https://erlodafer.github.io/BASES-LMF-2026/BOMPER OUT.webm",
+    "base3in": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS IN.webm",
+    "base3out": "https://erlodafer.github.io/BASES-LMF-2026/TARJETAS OUT.webm",
+    "base4in": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS IN.webm",
+    "base4out": "https://erlodafer.github.io/BASES-LMF-2026/CAMBIOS OUT.webm",
+    "base5in": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES IN.webm",
+    "base5out": "https://erlodafer.github.io/BASES-LMF-2026/PENALTIES OUT.webm",
+    "backCuenta": "https://iili.io/qdTnsmQ.jpg"
   }
 ]
