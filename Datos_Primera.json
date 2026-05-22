@@ -538,5 +538,24 @@
     "tricode": "ZFC",
     "sheetRange": "ZACATE!D1:E15",
     "sheetRange2": "ZACATE!A1:B125"
+  },
+  {
+    "id": "cdisegundadivision",
+    "title": "C.D. INCA Segunda División",
+    "eqName": "C.D. Inca",
+    "icon": "https://i.ibb.co/v6tMKVYr/INCA.png",
+    "tricode": "CDI",
+    "sheetRange": "C.D. INCA!D1:E15",
+    "sheetRange2": "C.D. INCA!A1:B125"
+  },
+  {
+    "id": "sensegunda",
+    "title": "Sensunte Segunda",
+    "eqName": "Sensunte Cabañas F.C.",
+    "tricode": "SEC",
+    "icon": "https://ibb.co/67VYFVCz",
+    "sheetRange": "SENSUNTE!D1:E15",
+    "sheetRange2": "SENSUNTE!A1:B125",
+    "ticker": "SENSUNTE!D1:E17"
   }
 ]
